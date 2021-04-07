@@ -19,13 +19,13 @@ export default {};
 .sNav {
 	position: sticky;
 	top: 0;
+	z-index: 1;
 	color: black;
 	background-color: white;
-	opacity: 0.8;
 	width: 100%;
 	display: flex;
 	align-items: center;
-	box-shadow: 0px 1px 10px #999;
+	box-shadow: 0px 8px 10px -10px #999;
 
 	.navWrapper {
 		width: 100%;

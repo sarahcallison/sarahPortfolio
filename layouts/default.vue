@@ -1,8 +1,8 @@
 <template>
 	<div>
-		<Nav />
+		<Nav where="top" />
 		<Nuxt />
-		<Nav />
+		<Nav where="bottom"/>
 	</div>
 </template>
 

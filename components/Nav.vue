@@ -1,6 +1,6 @@
 <template>
 	<!-- As a link -->
-	<nav class="sNav">
+	<nav class="sNav" :style="{where : 0}">
 		<div class="navWrapper">
 			<ul>
 				<a href="#">SC</a>
@@ -13,19 +13,25 @@
 </template>
 
 <script>
-export default {};
+export default {
+	props: {
+		where: {
+			type: String,
+			default: ''
+		}
+	}
+};
 </script>
 
 <style lang="scss" scoped>
 .sNav {
 	position: absolute;
-	top: 0;
 	background-color: white;
-	opacity: 0.8;
+	opacity: 0.6;
 	width: 100%;
 	display: flex;
 	align-items: center;
-	box-shadow: 0px 1px 10px #999;
+	box-shadow: 0px 1px 10px -10px #999;
 
 	.navWrapper {
 		width: 100%;
