@@ -2,13 +2,13 @@
 	<div>
 		<h1 class="customClass">Sarah Callison</h1>
 		<p>This is her portfolio</p>
-        <button type="button" class="btn btn-warning">Primary</button>
+		<button type="button" class="btn btn-warning">Primary</button>
 	</div>
 </template>
 
 <script>
 export default {
-    //use for SEO
+	//use for SEO
 	head() {
 		return {
 			title: "Home",
@@ -24,8 +24,8 @@ export default {
 };
 </script>
 
-<style  lang="scss" scoped>
-    .customClass {
-        color: $green;
-    }
+<style lang="scss" scoped>
+.customClass {
+	color: green;
+}
 </style>

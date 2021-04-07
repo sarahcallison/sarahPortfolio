@@ -1,6 +1,6 @@
 <template>
 	<!-- As a link -->
-	<nav class="sNav" :style="{where : 0}">
+	<nav class="sNav" :style="{ where: 0, boxShadow: shadow }">
 		<div class="navWrapper">
 			<ul>
 				<a href="#">SC</a>
@@ -17,7 +17,11 @@ export default {
 	props: {
 		where: {
 			type: String,
-			default: ''
+			default: ""
+		},
+		shadow: {
+			type: String,
+			default: ""
 		}
 	}
 };
@@ -27,7 +31,7 @@ export default {
 .sNav {
 	position: absolute;
 	background-color: white;
-	opacity: 0.6;
+	opacity: $navOpacity;
 	width: 100%;
 	display: flex;
 	align-items: center;
