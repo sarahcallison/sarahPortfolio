@@ -41,6 +41,17 @@ export default {};
 		}
 		li {
 			list-style-type: none;
+			letter-spacing: $tracking250;
+		}
+	}
+}
+
+@media only screen and (min-width: 768px) {
+	.sNav {
+		.navWrapper {
+			li {
+				font-size: 18px;
+			}
 		}
 	}
 }

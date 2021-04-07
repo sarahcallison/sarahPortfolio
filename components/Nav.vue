@@ -3,10 +3,10 @@
 	<nav class="sNav" :style="{ where: 0, boxShadow: shadow }">
 		<div class="navWrapper">
 			<ul>
-				<a href="#">SC</a>
-				<li>Work</li>
-				<li>About</li>
-				<li>Contact</li>
+				<a class="mainNavItem" href="#">SC</a>
+				<a href="#"><li>Work</li></a>
+				<a href="#"><li>About</li></a>
+				<a href="#"><li>Contact</li></a>
 			</ul>
 		</div>
 	</nav>
@@ -41,20 +41,50 @@ export default {
 		width: 100%;
 		display: flex;
 		justify-content: center;
-
 		a {
-			color: red;
+			text-decoration: none;
+			color: black;
+		}
+
+		.mainNavItem {
+			text-decoration: none;
+			color: black;
+			font-family: "Made2";
+			font-size: 35px;
+			letter-spacing: $tracking0;
 		}
 
 		ul {
 			display: flex;
 			justify-content: space-evenly;
+			align-items: center;
 			width: 500px;
-			padding: 20px;
 			margin: 0;
+			padding: 0;
 		}
-		li {
-			list-style-type: none;
+
+		a {
+			li {
+				list-style-type: none;
+				letter-spacing: $tracking250;
+				text-transform: uppercase;
+				font-size: 14px;
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: 768px) {
+	.sNav {
+		.navWrapper {
+			.mainNavItem {
+				font-size: 40px;
+			}
+			a {
+				li {
+					font-size: 16px;
+				}
+			}
 		}
 	}
 }

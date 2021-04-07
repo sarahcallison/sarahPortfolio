@@ -3,28 +3,30 @@
 		<div class="row justify-content-center my-4">
 			<div class="col-12 col-md-6 col-lg-5">
 				<div class="d-flex justify-content-around">
-					<a href="#">
+					<a href="https://behance.net/sarahcallison">
 						<img
 							src="@/assets/images/socialIcons/behance.png"
 							alt="behance icon contact"
 							class="socialImages"
 						/>
 					</a>
-					<a href="#">
+					<a
+						href="https://www.linkedin.com/in/sarah-callison-06227420a"
+					>
 						<img
 							src="@/assets/images/socialIcons/linkedIn.png"
-							alt="behance icon contact"
+							alt="linkedin icon contact"
 							class="socialImages"
 						/>
 					</a>
-					<a href="#">
+					<a href="https://instagram.com/ispyadesigner">
 						<img
 							src="@/assets/images/socialIcons/instagram.png"
-							alt="behance icon contact"
+							alt="instagram icon contact"
 							class="socialImages"
 						/>
 					</a>
-					<a href="#">
+					<a href="https://dribbble.com/sarahcal">
 						<img
 							src="@/assets/images/socialIcons/dribble.png"
 							alt="behance icon contact"

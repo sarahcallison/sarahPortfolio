@@ -4,7 +4,9 @@
 			<div class="row">
 				<div class="infoText">
 					<h4 id="title">Digital Designer</h4>
-					<h1 id="name">Sarah Callison</h1>
+					<h1 id="name">
+						<span id="firstName">Sarah</span> Callison
+					</h1>
 					<p id="description">
 						Launching creative solutions. If you can think it, I'll
 						design it. Clean, user-centered design.
@@ -35,7 +37,7 @@
 					<div class="col-12 col-md-6 align-self-center textSection">
 						<h4>Utah Valley University</h4>
 						<h2>Website Redesign</h2>
-						<span>-</span>
+						<div class="gradLine"></div>
 						<p>
 							Data analysis and next steps for improving the
 							Telehealth user experience.
@@ -59,7 +61,7 @@
 						>
 							<h4>Utah Valley University</h4>
 							<h2>User Research</h2>
-							<span>-</span>
+							<div class="gradLine ml-md-auto"></div>
 							<p>
 								Data analysis and next steps for improving the
 								Telehealth user experience.
@@ -87,7 +89,7 @@
 					<div class="col-12 col-md-6 align-self-center textSection">
 						<h4>Mobile App Concept</h4>
 						<h2>Brandish App</h2>
-						<span>-</span>
+						<div class="gradLine"></div>
 						<p>
 							Data analysis and next steps for improving the
 							Telehealth user experience.
@@ -133,9 +135,20 @@ export default {
 
 		#title {
 			font-size: 16px;
+			letter-spacing: $tracking250;
 		}
+		#firstName {
+			letter-spacing: -10px;
+			margin-right: 10px;
+		}
+
 		#name {
 			margin-top: 10px;
+			font-family: "Made2";
+			font-size: 50px;
+			letter-spacing: -3px;
+			text-transform: uppercase;
+			line-height: 40px;
 		}
 		#description {
 			margin-top: 10px;
@@ -161,6 +174,13 @@ export default {
 		.textSection {
 			padding-left: 50px;
 			padding-right: 50px;
+		}
+
+		.gradLine {
+			height: 3px;
+			width: 80px;
+			margin: 20px 0;
+			background-image: linear-gradient(to right, $gradDark, $gradLight);
 		}
 	}
 
@@ -205,10 +225,12 @@ export default {
 				font-size: 16px;
 			}
 			#name {
-				margin-top: 20px;
+				margin-top: 50px;
+				font-size: 65px;
+				line-height: 50px;
 			}
 			#description {
-				margin-top: 20px;
+				margin-top: 50px;
 			}
 			#workBtn {
 				margin-top: 30px;

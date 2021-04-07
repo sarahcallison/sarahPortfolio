@@ -17,7 +17,10 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
-    '@/assets/scss/main.scss'
+    '@/assets/scss/main.scss',
+    '@/assets/fonts/Typold.css',
+    '@/assets/fonts/Made.css',
+    '@/assets/fonts/Made2.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
