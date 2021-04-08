@@ -167,6 +167,11 @@ export default {
 			text-transform: uppercase;
 			background: none;
 			padding: 10px 15px;
+			transition: 0.4s;
+
+			&:hover {
+				background-color: rgba(255, 255, 255, 0.2);
+			}
 		}
 	}
 }
@@ -184,10 +189,13 @@ export default {
 
 			h4 {
 				font-size: 14px;
+				letter-spacing: $tracking250;
 			}
 
 			h2 {
 				font-size: 50px;
+				font-family: "Made";
+				color: $header;
 			}
 
 			p {
@@ -248,6 +256,21 @@ export default {
 			.textSection {
 				padding-left: 15px;
 				padding-right: 15px;
+
+				h4 {
+					font-size: 14px;
+					letter-spacing: $tracking250;
+				}
+
+				h2 {
+					font-size: 50px;
+					font-family: "Made";
+					color: $header;
+				}
+
+				p {
+					font-size: 18px;
+				}
 			}
 		}
 	}
