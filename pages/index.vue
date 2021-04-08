@@ -42,6 +42,7 @@
 							Data analysis and next steps for improving the
 							Telehealth user experience.
 						</p>
+						<GradButton title="View Project" />
 					</div>
 					<div class="col-12 col-md-6">
 						<img
@@ -66,6 +67,7 @@
 								Data analysis and next steps for improving the
 								Telehealth user experience.
 							</p>
+							<GradButton title="View Project" />
 						</div>
 						<div class="col-12 col-md-6 order-md-1">
 							<picture>
@@ -94,6 +96,7 @@
 							Data analysis and next steps for improving the
 							Telehealth user experience.
 						</p>
+						<GradButton title="View Project" />
 					</div>
 					<div class="col-12 col-md-6">
 						<img
@@ -113,10 +116,12 @@
 <script>
 import SecondaryNav from "@/components/SecondaryNav";
 import Socials from "@/components/Socials";
+import GradButton from "@/components/GradButton";
 export default {
 	components: {
 		SecondaryNav,
-		Socials
+		Socials,
+		GradButton
 	}
 };
 </script>
@@ -152,6 +157,8 @@ export default {
 		}
 		#description {
 			margin-top: 10px;
+			letter-spacing: #{(35/1000)}em;
+			width: 80%;
 		}
 		#workBtn {
 			margin-top: 15px;
@@ -174,6 +181,18 @@ export default {
 		.textSection {
 			padding-left: 50px;
 			padding-right: 50px;
+
+			h4 {
+				font-size: 14px;
+			}
+
+			h2 {
+				font-size: 50px;
+			}
+
+			p {
+				font-size: 18px;
+			}
 		}
 
 		.gradLine {
@@ -221,20 +240,6 @@ export default {
 			left: auto;
 			right: 0;
 			padding: 0 10px;
-			#title {
-				font-size: 16px;
-			}
-			#name {
-				margin-top: 50px;
-				font-size: 65px;
-				line-height: 50px;
-			}
-			#description {
-				margin-top: 50px;
-			}
-			#workBtn {
-				margin-top: 30px;
-			}
 		}
 	}
 
@@ -252,6 +257,30 @@ export default {
 	.jumboContainer {
 		.infoText {
 			top: calc(20vw);
+		}
+	}
+}
+
+@media only screen and (min-width: 1200px) {
+	.jumboContainer {
+		.infoText {
+			top: calc(20vw);
+			#title {
+				font-size: 25px;
+			}
+			#name {
+				margin-top: 50px;
+				font-size: 65px;
+				line-height: 50px;
+			}
+			#description {
+				margin-top: 50px;
+				font-size: 25px;
+			}
+			#workBtn {
+				margin-top: 30px;
+				font-size: 18px;
+			}
 		}
 	}
 }

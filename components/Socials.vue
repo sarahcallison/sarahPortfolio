@@ -52,6 +52,11 @@ export default {};
 .socialContainer {
 	.socialImages {
 		width: 60px;
+		transition: transform 0.4s;
+
+		&:hover {
+			transform: translateY(-10px);
+		}
 	}
 
 	.names {
