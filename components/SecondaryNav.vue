@@ -34,7 +34,7 @@ export default {};
 
 		ul {
 			display: flex;
-			justify-content: space-evenly;
+			justify-content: space-around;
 			width: 500px;
 			padding: 15px;
 			margin: 0;

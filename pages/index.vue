@@ -173,7 +173,7 @@ export default {
 			border: 2px solid white;
 			text-transform: uppercase;
 			background: none;
-			padding: 10px 15px;
+			padding: 15px;
 			transition: 0.4s;
 
 			&:hover {
