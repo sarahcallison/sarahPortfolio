@@ -56,7 +56,7 @@ export default {
 
 		ul {
 			display: flex;
-			justify-content: space-evenly;
+			justify-content: space-around;
 			align-items: center;
 			width: 500px;
 			margin: 0;
@@ -69,7 +69,6 @@ export default {
 				letter-spacing: $tracking250;
 				text-transform: uppercase;
 				font-size: 14px;
-				width: 100%;
 			}
 		}
 	}
