@@ -3,9 +3,9 @@
 	<nav class="sNav" :style="{ where: 0, boxShadow: shadow }">
 		<div class="navWrapper">
 			<ul>
-				<a class="mainNavItem" href="#">SC</a>
-				<a href="#"><li>Work</li></a>
-				<a href="#"><li>About</li></a>
+				<a class="mainNavItem" href="/">SC</a>
+				<a href="/"><li>Work</li></a>
+				<a href="/About"><li>About</li></a>
 				<a href="#"><li>Contact</li></a>
 			</ul>
 		</div>
@@ -37,6 +37,7 @@ export default {
 	align-items: center;
 	box-shadow: 0px 1px 10px -10px #999;
 	padding: 5px 0;
+	z-index: 1;
 
 	.navWrapper {
 		width: 100%;

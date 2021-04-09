@@ -57,34 +57,36 @@
 			</div>
 			<!-- Second Section -->
 			<div class="container-fluid infoColor projectContainers">
-				<div class="container">
-					<div class="row">
-						<div
-							class="col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection text-md-right"
-						>
-							<h4>Utah Valley University</h4>
-							<h2>User Research</h2>
-							<div class="gradLine ml-md-auto"></div>
-							<p>
-								Data analysis and next steps for improving the
-								Telehealth user experience.
-							</p>
-							<GradButton title="View Project" />
-						</div>
-						<div
-							class="col-12 col-md-5 col-lg-6 order-md-1 align-self-center"
-						>
-							<picture>
-								<source
-									media="(min-width:768px)"
-									srcset="@/assets/images/map.png"
-								/>
-								<img
-									src="@/assets/images/mapMobile.png"
-									alt="Image of map"
-									class="img-fluid"
-								/>
-							</picture>
+				<div class="row">
+					<div class="container">
+						<div class="row">
+							<div
+								class="col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection text-md-right"
+							>
+								<h4>Utah Valley University</h4>
+								<h2>User Research</h2>
+								<div class="gradLine ml-md-auto"></div>
+								<p>
+									Data analysis and next steps for improving
+									the Telehealth user experience.
+								</p>
+								<GradButton title="View Project" />
+							</div>
+							<div
+								class="col-12 col-md-5 col-lg-6 order-md-1 align-self-center"
+							>
+								<picture>
+									<source
+										media="(min-width:768px)"
+										srcset="@/assets/images/map.png"
+									/>
+									<img
+										src="@/assets/images/mapMobile.png"
+										alt="Image of map"
+										class="img-fluid"
+									/>
+								</picture>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -115,7 +117,8 @@
 			</div>
 		</div>
 
-		<Socials />
+		<Socials style="marginBottom: 40px;" />
+		<Nav where="bottom" shadow="0px 8px 10px 6px  #999" />
 	</div>
 </template>
 
@@ -123,11 +126,13 @@
 import SecondaryNav from "@/components/SecondaryNav";
 import Socials from "@/components/Socials";
 import GradButton from "@/components/GradButton";
+import Nav from "@/components/Nav";
 export default {
 	components: {
 		SecondaryNav,
 		Socials,
-		GradButton
+		GradButton,
+		Nav
 	}
 };
 </script>

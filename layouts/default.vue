@@ -2,7 +2,6 @@
 	<div>
 		<Nav where="top" shadow="0px 8px 10px -10px #999" />
 		<Nuxt />
-		<Nav where="bottom" shadow="0px 8px 10px 6px  #999" />
 	</div>
 </template>
 

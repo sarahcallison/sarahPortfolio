@@ -1,5 +1,5 @@
 <template>
-	<div class="container socialContainer my-5">
+	<div class="container socialContainer">
 		<div class="row justify-content-center my-4">
 			<div class="col-12 col-md-6 col-lg-5">
 				<div class="d-flex justify-content-around">
@@ -36,8 +36,8 @@
 				</div>
 			</div>
 		</div>
-		<div class="row justify-content-center my-4">
-			<div class="col-12 col-md-6 col-lg-5 text-center names">
+		<div class="row justify-content-center mt-4">
+			<div class="col-12 col-md-6 col-lg-8 text-center names">
 				&copy; Sarah Callison {{ new Date().getFullYear() }} | Code By
 				Tyson Elfors
 			</div>
