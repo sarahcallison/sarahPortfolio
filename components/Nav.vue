@@ -62,11 +62,12 @@ export default {
 			margin: 0;
 			padding: 0;
 		}
-		@supports (-ms-accelerator: true) {
+		@supports (-ms-ime-align: auto) {
 			/* Edge only */
 
 			.ul {
 				justify-content: space-around;
+				display: none;
 				/* you can also add some other adjustments to size, margins etc to get the same positioning */
 			}
 		}
