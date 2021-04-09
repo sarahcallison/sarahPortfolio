@@ -1,6 +1,7 @@
 @font-face {
-	font-family: "made_saonara_2regular";
-	src: url("made_saonara_2-webfont.woff") format("woff");
+	font-family: "Made2";
+	src: url("made_saonara_2-webfont.woff2") format("woff2"),
+		url("made_saonara_2-webfont.woff") format("woff");
 	font-weight: normal;
 	font-style: normal;
 }

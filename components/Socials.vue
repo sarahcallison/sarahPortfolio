@@ -38,7 +38,8 @@
 		</div>
 		<div class="row justify-content-center my-4">
 			<div class="col-12 col-md-6 col-lg-5 text-center names">
-				&copy; Sarah Callison | Code By Tyson Elfors
+				&copy; Sarah Callison {{ new Date().getFullYear() }} | Code By
+				Tyson Elfors
 			</div>
 		</div>
 	</div>
@@ -61,6 +62,7 @@ export default {};
 
 	.names {
 		text-transform: uppercase;
+		letter-spacing: $tracking250;
 	}
 }
 </style>

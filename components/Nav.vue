@@ -36,6 +36,7 @@ export default {
 	display: flex;
 	align-items: center;
 	box-shadow: 0px 1px 10px -10px #999;
+	padding: 5px 0;
 
 	.navWrapper {
 		width: 100%;

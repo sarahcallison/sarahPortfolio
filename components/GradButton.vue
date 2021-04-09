@@ -20,7 +20,7 @@ export default {
 		text-transform: uppercase;
 		color: $bodyGray;
 		border: $btnStroke solid $bodyGray;
-		padding: 10px 35px;
+		padding: 10px 5%;
 
 		&:hover {
 			background-image: linear-gradient(to right, $gradDark, $gradLight);

@@ -34,7 +34,9 @@
 			<!-- First Section -->
 			<div class="container projectContainers">
 				<div class="row">
-					<div class="col-12 col-md-6 align-self-center textSection">
+					<div
+						class="col-12 col-md-7 col-lg-6 align-self-center textSection"
+					>
 						<h4>Utah Valley University</h4>
 						<h2>Website Redesign</h2>
 						<div class="gradLine"></div>
@@ -44,7 +46,7 @@
 						</p>
 						<GradButton title="View Project" />
 					</div>
-					<div class="col-12 col-md-6">
+					<div class="col-12 col-md-5 col-lg-6 align-self-center">
 						<img
 							class="img-fluid"
 							src="@/assets/images/macGrid.png"
@@ -58,7 +60,7 @@
 				<div class="container">
 					<div class="row">
 						<div
-							class="col-12 col-md-6 order-md-2 align-self-center textSection text-md-right"
+							class="col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection text-md-right"
 						>
 							<h4>Utah Valley University</h4>
 							<h2>User Research</h2>
@@ -69,7 +71,9 @@
 							</p>
 							<GradButton title="View Project" />
 						</div>
-						<div class="col-12 col-md-6 order-md-1">
+						<div
+							class="col-12 col-md-5 col-lg-6 order-md-1 align-self-center"
+						>
 							<picture>
 								<source
 									media="(min-width:768px)"
@@ -88,7 +92,9 @@
 			<!-- Third Section -->
 			<div class="container projectContainers">
 				<div class="row">
-					<div class="col-12 col-md-6 align-self-center textSection">
+					<div
+						class="col-12 col-md-7 col-lg-6 align-self-center textSection"
+					>
 						<h4>Mobile App Concept</h4>
 						<h2>Brandish App</h2>
 						<div class="gradLine"></div>
@@ -98,7 +104,7 @@
 						</p>
 						<GradButton title="View Project" />
 					</div>
-					<div class="col-12 col-md-6">
+					<div class="col-12 col-md-5 col-lg-6 align-self-center">
 						<img
 							class="img-fluid"
 							src="@/assets/images/brandishApp.png"
@@ -142,19 +148,20 @@ export default {
 			font-size: 16px;
 			letter-spacing: $tracking250;
 		}
-		#firstName {
-			letter-spacing: -10px;
-			margin-right: 10px;
-		}
 
 		#name {
 			margin-top: 10px;
 			font-family: "Made2";
 			font-size: 50px;
-			letter-spacing: -3px;
 			text-transform: uppercase;
 			line-height: 40px;
+
+			#firstName {
+				letter-spacing: #{(25/1000)}em;
+				margin-right: 10px;
+			}
 		}
+
 		#description {
 			margin-top: 10px;
 			letter-spacing: #{(35/1000)}em;
@@ -252,24 +259,20 @@ export default {
 	}
 
 	.main {
-		.infoHolder {
+		.projectContainers {
 			.textSection {
 				padding-left: 15px;
 				padding-right: 15px;
 
 				h4 {
-					font-size: 14px;
+					font-size: 16px;
 					letter-spacing: $tracking250;
 				}
 
 				h2 {
-					font-size: 50px;
+					font-size: 60px;
 					font-family: "Made";
 					color: $header;
-				}
-
-				p {
-					font-size: 18px;
 				}
 			}
 		}
@@ -287,13 +290,13 @@ export default {
 @media only screen and (min-width: 1200px) {
 	.jumboContainer {
 		.infoText {
-			top: calc(20vw);
+			top: calc(18vw);
 			#title {
 				font-size: 25px;
 			}
 			#name {
 				margin-top: 50px;
-				font-size: 65px;
+				font-size: 70px;
 				line-height: 50px;
 			}
 			#description {
