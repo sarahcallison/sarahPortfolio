@@ -52,7 +52,6 @@ export default {
 			color: black;
 			font-family: "Made2";
 			font-size: 35px;
-			letter-spacing: $tracking0;
 		}
 
 		ul {
@@ -62,6 +61,15 @@ export default {
 			width: 500px;
 			margin: 0;
 			padding: 0;
+
+			@supports (-ms-accelerator: true) {
+				/* Edge only */
+
+				.space-evenly {
+					justify-content: space-around;
+					/* you can also add some other adjustments to size, margins etc to get the same positioning */
+				}
+			}
 		}
 
 		a {
