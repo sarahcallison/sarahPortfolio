@@ -4,9 +4,13 @@
 		<div class="navWrapper">
 			<ul>
 				<a class="mainNavItem" href="/">SC</a>
-				<a href="/"><li>Work</li></a>
-				<a href="/About"><li>About</li></a>
-				<a href="/Contact"><li>Contact</li></a>
+				<nuxt-link class="nuxtLink" to="/"><li>Work</li></nuxt-link>
+				<nuxt-link class="nuxtLink" to="/About"
+					><li>About</li></nuxt-link
+				>
+				<nuxt-link class="nuxtLink" to="/Contact"
+					><li>Contact</li></nuxt-link
+				>
 			</ul>
 		</div>
 	</nav>
@@ -43,14 +47,33 @@ export default {
 		width: 100%;
 		display: flex;
 		justify-content: center;
-		a {
-			text-decoration: none;
+
+		.nuxtLink {
 			color: black;
+			text-decoration: none;
+
+			&:hover {
+				background-image: linear-gradient(
+					to right,
+					$gradDark,
+					$gradLight
+				);
+				background-clip: text;
+				-webkit-text-fill-color: transparent;
+				-moz-text-fill-color: transparent;
+			}
+		}
+
+		.nuxt-link-exact-active {
+			background-image: linear-gradient(to right, $gradDark, $gradLight);
+			background-clip: text;
+			-webkit-text-fill-color: transparent;
+			-moz-text-fill-color: transparent;
 		}
 
 		.mainNavItem {
-			text-decoration: none;
 			color: black;
+			text-decoration: none;
 			font-family: "Made2";
 			font-size: 35px;
 		}
