@@ -2,7 +2,7 @@
 	<div style="background: #F2EDFF; position: relative; min-height: 100vh;">
 		<div class="container-fluid contactContainer">
 			<div class="row">
-				<div class="container aboutContactContainer ">
+				<div class="container contactTextContainer ">
 					<div class="row justify-content-center">
 						<div class="col-11 col-md-6 align-self-center">
 							<h1>Need to launch an idea?</h1>
@@ -39,7 +39,7 @@ export default {
 
 <style lang="scss" scoped>
 .contactContainer {
-	.aboutContactContainer {
+	.contactTextContainer {
 		h1 {
 			font-family: "Made";
 			margin-top: 100px;
@@ -64,7 +64,8 @@ export default {
 
 @media only screen and (min-width: 768px) {
 	.contactContainer {
-		.aboutContactContainer {
+		height: 800px;
+		.contactTextContainer {
 			position: absolute;
 			top: 45%; /* position the top  edge of the element at the middle of the parent */
 			left: 50%; /* position the left edge of the element at the middle of the parent */
@@ -82,6 +83,16 @@ export default {
 		bottom: 0;
 		left: 0;
 		right: 0;
+	}
+}
+
+@media only screen and (min-width: 1200px) {
+	.contactContainer {
+		.contactTextContainer {
+			p {
+				width: 100%;
+			}
+		}
 	}
 }
 </style>

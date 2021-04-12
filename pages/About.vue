@@ -76,12 +76,17 @@ export default {
 
 @media only screen and (min-width: 768px) {
 	.aboutContainer {
+		height: 800px;
 		.aboutTextContainer {
 			position: absolute;
 			top: 45%; /* position the top  edge of the element at the middle of the parent */
 			left: 50%; /* position the left edge of the element at the middle of the parent */
 
 			transform: translate(-50%, -50%);
+
+			p {
+				width: 70%;
+			}
 		}
 	}
 
@@ -91,7 +96,7 @@ export default {
 		right: 0px;
 
 		.aboutImg {
-			max-width: 300px;
+			max-width: 400px;
 			margin-bottom: 0;
 		}
 	}
@@ -105,6 +110,14 @@ export default {
 }
 
 @media only screen and (min-width: 1200px) {
+	.aboutContainer {
+		.aboutTextContainer {
+			p {
+				width: 100%;
+			}
+		}
+	}
+
 	.aboutImgContainer {
 		.aboutImg {
 			max-width: 450px;
