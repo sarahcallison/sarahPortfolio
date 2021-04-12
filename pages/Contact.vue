@@ -1,0 +1,87 @@
+<template>
+	<div style="background: #F2EDFF; position: relative; min-height: 100vh;">
+		<div class="container-fluid contactContainer">
+			<div class="row">
+				<div class="container aboutContactContainer ">
+					<div class="row justify-content-center">
+						<div class="col-11 col-md-6 align-self-center">
+							<h1>Need to launch an idea?</h1>
+							<p>
+								I’d love to talk about your next project. Send
+								me an email or connect with me on LinkedIn,
+								Instagram, Behance or Dribble.
+							</p>
+							<GradButton title="hi@sarahcallison.com" />
+						</div>
+						<div class="col-12 col-md-6 align-self-center">
+							<img
+								class="img-fluid contactImg"
+								src="@/assets/images/purpleBurst.png"
+								alt="image of bursting purple colors"
+							/>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<Socials id="contactSocials" />
+	</div>
+</template>
+
+<script>
+import GradButton from "@/components/GradButton";
+import Socials from "@/components/Socials";
+
+export default {
+	components: { GradButton, Socials }
+};
+</script>
+
+<style lang="scss" scoped>
+.contactContainer {
+	.aboutContactContainer {
+		h1 {
+			font-family: "Made";
+			margin-top: 100px;
+			color: $header;
+			font-size: 50px;
+		}
+		p {
+			margin: 40px 0;
+			z-index: 1;
+			width: 85%;
+		}
+
+		.contactImg {
+			margin: 80px 0;
+		}
+	}
+}
+
+#contactSocials {
+	padding-bottom: 20px;
+}
+
+@media only screen and (min-width: 768px) {
+	.contactContainer {
+		.aboutContactContainer {
+			position: absolute;
+			top: 45%; /* position the top  edge of the element at the middle of the parent */
+			left: 50%; /* position the left edge of the element at the middle of the parent */
+
+			transform: translate(-50%, -50%);
+
+			.contactImg {
+				margin: 0;
+			}
+		}
+	}
+
+	#contactSocials {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+	}
+}
+</style>

@@ -6,7 +6,7 @@
 				<a class="mainNavItem" href="/">SC</a>
 				<a href="/"><li>Work</li></a>
 				<a href="/About"><li>About</li></a>
-				<a href="#"><li>Contact</li></a>
+				<a href="/Contact"><li>Contact</li></a>
 			</ul>
 		</div>
 	</nav>

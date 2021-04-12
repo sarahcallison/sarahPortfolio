@@ -41,7 +41,8 @@ import GradButton from "@/components/GradButton";
 import Socials from "@/components/Socials";
 
 export default {
-	props: ["GradButton", "Socials"]
+	props: ["GradButton", "Socials"],
+	components: { GradButton, Socials }
 };
 </script>
 
