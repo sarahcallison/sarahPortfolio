@@ -3,16 +3,52 @@
 	<nav class="sNav">
 		<div class="navWrapper">
 			<ul>
-				<li>Digital</li>
-				<li>Print</li>
-				<li>Gallery</li>
+				<li
+					:class="{ active: activeBtn === 'btn1' }"
+					@click="
+						changeComp('Print');
+						activeBtn = 'btn1';
+					"
+				>
+					Print
+				</li>
+				<li
+					:class="{ active: activeBtn === 'btn2' }"
+					@click="
+						changeComp('Digital');
+						activeBtn = 'btn2';
+					"
+				>
+					Digital
+				</li>
+				<li
+					:class="{ active: activeBtn === 'btn3' }"
+					@click="
+						changeComp('Gallery');
+						activeBtn = 'btn3';
+					"
+				>
+					Gallery
+				</li>
 			</ul>
 		</div>
 	</nav>
 </template>
 
 <script>
-export default {};
+export default {
+	data() {
+		return {
+			activeBtn: "btn2"
+		};
+	},
+
+	methods: {
+		changeComp: function(str) {
+			this.$emit("execChangeComp", str);
+		}
+	}
+};
 </script>
 
 <style lang="scss" scoped>
@@ -38,10 +74,34 @@ export default {};
 			width: 500px;
 			padding: 15px;
 			margin: 0;
-		}
-		li {
-			list-style-type: none;
-			letter-spacing: $tracking250;
+
+			.active {
+				background-image: linear-gradient(
+					to right,
+					$gradDark,
+					$gradLight
+				);
+				background-clip: text;
+				-webkit-text-fill-color: transparent;
+				-moz-text-fill-color: transparent;
+			}
+
+			li {
+				list-style-type: none;
+				letter-spacing: $tracking250;
+				cursor: pointer;
+
+				&:hover {
+					background-image: linear-gradient(
+						to right,
+						$gradDark,
+						$gradLight
+					);
+					background-clip: text;
+					-webkit-text-fill-color: transparent;
+					-moz-text-fill-color: transparent;
+				}
+			}
 		}
 	}
 }

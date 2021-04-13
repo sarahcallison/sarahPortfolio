@@ -11,7 +11,9 @@
 						Launching creative solutions. If you can think it, I'll
 						design it. Clean, user-centered design.
 					</p>
-					<button id="workBtn">View My Work</button>
+					<a href="#secondNav"
+						><button id="workBtn">View My Work</button></a
+					>
 				</div>
 				<picture>
 					<source
@@ -27,95 +29,9 @@
 			</div>
 		</div>
 
-		<SecondaryNav />
-
-		<!-- Main Content -->
-		<div class="main">
-			<!-- First Section -->
-			<div class="container projectContainers">
-				<div class="row">
-					<div
-						class="col-12 col-md-7 col-lg-6 align-self-center textSection"
-					>
-						<h4>Utah Valley University</h4>
-						<h2>Website Redesign</h2>
-						<div class="gradLine"></div>
-						<p>
-							Data analysis and next steps for improving the
-							Telehealth user experience.
-						</p>
-						<GradButton title="View Project" />
-					</div>
-					<div class="col-12 col-md-5 col-lg-6 align-self-center">
-						<img
-							class="img-fluid"
-							src="@/assets/images/macGrid.png"
-							alt="image of mac computer"
-						/>
-					</div>
-				</div>
-			</div>
-			<!-- Second Section -->
-			<div class="container-fluid infoColor projectContainers">
-				<div class="row">
-					<div class="container">
-						<div class="row">
-							<div
-								class="col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection text-md-right"
-							>
-								<h4>Utah Valley University</h4>
-								<h2>User Research</h2>
-								<div class="gradLine ml-md-auto"></div>
-								<p>
-									Data analysis and next steps for improving
-									the Telehealth user experience.
-								</p>
-								<GradButton title="View Project" />
-							</div>
-							<div
-								class="col-12 col-md-5 col-lg-6 order-md-1 align-self-center"
-							>
-								<picture>
-									<source
-										media="(min-width:768px)"
-										srcset="@/assets/images/map.png"
-									/>
-									<img
-										src="@/assets/images/mapMobile.png"
-										alt="Image of map"
-										class="img-fluid"
-									/>
-								</picture>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- Third Section -->
-			<div class="container projectContainers">
-				<div class="row">
-					<div
-						class="col-12 col-md-7 col-lg-6 align-self-center textSection"
-					>
-						<h4>Mobile App Concept</h4>
-						<h2>Brandish App</h2>
-						<div class="gradLine"></div>
-						<p>
-							Data analysis and next steps for improving the
-							Telehealth user experience.
-						</p>
-						<GradButton title="View Project" />
-					</div>
-					<div class="col-12 col-md-5 col-lg-6 align-self-center">
-						<img
-							class="img-fluid"
-							src="@/assets/images/brandishApp.png"
-							alt="image of mac computer"
-						/>
-					</div>
-				</div>
-			</div>
-		</div>
+		<SecondaryNav id="secondNav" @execChangeComp="onClickChild" />
+		<!-- <Digital /> -->
+		<component :is="dynamicComponent"></component>
 
 		<Socials style="marginBottom: 40px;" />
 		<Nav where="bottom" shadow="0px 8px 10px 6px  #999" />
@@ -127,12 +43,42 @@ import SecondaryNav from "@/components/SecondaryNav";
 import Socials from "@/components/Socials";
 import GradButton from "@/components/GradButton";
 import Nav from "@/components/Nav";
+import Digital from "@/components/Digital";
+import Print from "@/components/Print";
+import Gallery from "@/components/Gallery";
 export default {
 	components: {
 		SecondaryNav,
 		Socials,
 		GradButton,
-		Nav
+		Nav,
+		Digital,
+		Print,
+		Gallery
+	},
+
+	data() {
+		return {
+			comp: ""
+		};
+	},
+
+	methods: {
+		onClickChild(value) {
+			this.comp = value; // someValue
+		}
+	},
+
+	computed: {
+		dynamicComponent() {
+			if (this.comp == "Print") {
+				return "Print";
+			} else if (this.comp == "Gallery") {
+				return "Gallery";
+			} else {
+				return "Digital";
+			}
+		}
 	}
 };
 </script>
@@ -188,50 +134,6 @@ export default {
 	}
 }
 
-.main {
-	color: black;
-
-	.projectContainers {
-		padding-top: 100px;
-		padding-bottom: 100px;
-
-		.textSection {
-			padding-left: 50px;
-			padding-right: 50px;
-
-			h4 {
-				font-size: 14px;
-				letter-spacing: $tracking250;
-			}
-
-			h2 {
-				font-size: 50px;
-				font-family: "Made";
-				color: $header;
-			}
-
-			p {
-				font-size: 18px;
-			}
-		}
-
-		.gradLine {
-			height: 3px;
-			width: 80px;
-			margin: 20px 0;
-			background-image: linear-gradient(to right, $gradDark, $gradLight);
-		}
-	}
-
-	.infoColor {
-		background-image: linear-gradient(
-			to right,
-			$bgLightPurple,
-			$bgDarkPurple
-		);
-	}
-}
-
 @media only screen and (min-width: 576px) {
 	.jumboContainer {
 		.jumboImage {
@@ -260,26 +162,6 @@ export default {
 			left: auto;
 			right: 0;
 			padding: 0 10px;
-		}
-	}
-
-	.main {
-		.projectContainers {
-			.textSection {
-				padding-left: 15px;
-				padding-right: 15px;
-
-				h4 {
-					font-size: 16px;
-					letter-spacing: $tracking250;
-				}
-
-				h2 {
-					font-size: 60px;
-					font-family: "Made";
-					color: $header;
-				}
-			}
 		}
 	}
 }

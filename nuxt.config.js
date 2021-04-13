@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'sarah_website',
+    title: 'Sarah Callison',
     htmlAttrs: {
       lang: 'en'
     },
