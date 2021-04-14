@@ -1,85 +1,202 @@
 <template>
-	<!-- Main Content -->
-	<div class="main">
+	<!-- galleryMain Content -->
+	<div class="galleryMain">
 		<!-- First Section -->
-		<div class="container projectContainers">
-			<div class="row">
-				<div
-					class="col-12 col-md-7 col-lg-6 align-self-center textSection"
-				>
-					<h4>Utah Valley University</h4>
-					<h2>Gallery Page</h2>
+		<div class="container galleryContainers">
+			<div class="row mb-5">
+				<div class="col-12 align-self-center textSection">
+					<h2>Interaction Design</h2>
 					<div class="gradLine"></div>
-					<p>
-						Data analysis and next steps for improving the
-						Telehealth user experience.
-					</p>
-					<GradButton title="View Project" />
 				</div>
-				<div class="col-12 col-md-5 col-lg-6 align-self-center">
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
 					<img
 						class="img-fluid"
-						src="@/assets/images/macGrid.png"
+						src="@/assets/images/gallery/tabletMag.jpg"
+						alt="image of mac computer"
+					/>
+
+					<p class="text-center mt-3 px-1">
+						Demo of interactive magazine concept for tablet
+					</p>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid"
+						src="@/assets/images/gallery/interactiveInfographicThumbnail.jpg"
+						alt="image of mac computer"
+					/>
+					<p class="text-center  mt-3 px-1">
+						Interactive infographic made in Hype
+					</p>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid "
+						src="@/assets/images/gallery/fancySprinkles.jpg"
+						alt="image of mac computer"
+					/>
+					<p class="text-center  mt-3 px-1">
+						Demo of interactive magazine concept for Fancy Sprinkles
+					</p>
+				</div>
+			</div>
+
+			<!-- Motion Graphics -->
+			<div class="row my-5">
+				<div class="col-12 align-self-center textSection">
+					<h2>Motion Graphics</h2>
+					<div class="gradLine"></div>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid"
+						src="@/assets/images/gallery/hypeGif.jpg"
+						alt="image of mac computer"
+					/>
+
+					<p class="text-center px-1 mt-3">
+						Original GIF created in Hype
+					</p>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid"
+						src="@/assets/images/gallery/hypeGif.jpg"
+						alt="image of mac computer"
+					/>
+					<p class="text-center px-1 mt-3">
+						Original GIF created in Hype
+					</p>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid "
+						src="@/assets/images/gallery/hypeGif.jpg"
+						alt="image of mac computer"
+					/>
+					<p class="text-center px-1 mt-3">
+						Original GIF created in Hype
+					</p>
+				</div>
+			</div>
+			<!-- Audio and Video -->
+			<div class="row my-5">
+				<div class="col-12 align-self-center textSection">
+					<h2>Audio & Video</h2>
+					<div class="gradLine"></div>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid"
+						src="@/assets/images/gallery/deeganOnFire.jpg"
+						alt="image of mac computer"
+					/>
+
+					<p class="text-center px-1 mt-3">
+						Video created in Photoshop - original footage &copy;
+						Brian Deegan
+					</p>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid"
+						src="@/assets/images/gallery/deeganOnFire.jpg"
+						alt="image of mac computer"
+					/>
+					<p class="text-center px-1 mt-3">
+						Video created in Photoshop - original footage &copy;
+						Brian Deegan
+					</p>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid "
+						src="@/assets/images/gallery/deeganOnFire.jpg"
+						alt="image of mac computer"
+					/>
+					<p class="text-center px-1 mt-3">
+						Video created in Photoshop - original footage &copy;
+						Brian Deegan
+					</p>
+				</div>
+			</div>
+
+			<!-- Illustrations -->
+			<div class="row mt-5">
+				<div class="col-12 align-self-center textSection">
+					<h2>Illustrations</h2>
+					<div class="gradLine"></div>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid"
+						src="@/assets/images/gallery/protegeThumbnail.jpg"
 						alt="image of mac computer"
 					/>
 				</div>
-			</div>
-		</div>
-		<!-- Second Section -->
-		<div class="container-fluid infoColor projectContainers">
-			<div class="row">
-				<div class="container">
-					<div class="row">
-						<div
-							class="col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection text-md-right"
-						>
-							<h4>Utah Valley University</h4>
-							<h2>Gallery Page</h2>
-							<div class="gradLine ml-md-auto"></div>
-							<p>
-								Data analysis and next steps for improving the
-								Telehealth user experience.
-							</p>
-							<GradButton title="View Project" />
-						</div>
-						<div
-							class="col-12 col-md-5 col-lg-6 order-md-1 align-self-center"
-						>
-							<picture>
-								<source
-									media="(min-width:768px)"
-									srcset="@/assets/images/map.png"
-								/>
-								<img
-									src="@/assets/images/mapMobile.png"
-									alt="Image of map"
-									class="img-fluid"
-								/>
-							</picture>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- Third Section -->
-		<div class="container projectContainers">
-			<div class="row">
 				<div
-					class="col-12 col-md-7 col-lg-6 align-self-center textSection"
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<h4>Mobile App Concept</h4>
-					<h2>Gallery Page</h2>
-					<div class="gradLine"></div>
-					<p>
-						Data analysis and next steps for improving the
-						Telehealth user experience.
-					</p>
-					<GradButton title="View Project" />
-				</div>
-				<div class="col-12 col-md-5 col-lg-6 align-self-center">
 					<img
 						class="img-fluid"
-						src="@/assets/images/brandishApp.png"
+						src="@/assets/images/gallery/protegeThumbnail.jpg"
+						alt="image of mac computer"
+					/>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid "
+						src="@/assets/images/gallery/emilyThumbnail.jpg"
+						alt="image of mac computer"
+					/>
+				</div>
+
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid"
+						src="@/assets/images/gallery/summerThumbnailNew.jpg"
+						alt="image of mac computer"
+					/>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid"
+						src="@/assets/images/gallery/physicsThumbnail.jpg"
+						alt="image of mac computer"
+					/>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid "
+						src="@/assets/images/gallery/mightyFicusThumbnail.jpg"
 						alt="image of mac computer"
 					/>
 				</div>
@@ -103,10 +220,10 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.main {
+.galleryMain {
 	color: black;
 
-	.projectContainers {
+	.galleryContainers {
 		padding-top: 100px;
 		padding-bottom: 100px;
 
@@ -124,10 +241,11 @@ export default {
 				font-family: "Made";
 				color: $header;
 			}
+		}
 
-			p {
-				font-size: 18px;
-			}
+		p {
+			font-size: 18px;
+			color: $bodyGray;
 		}
 
 		.gradLine {
@@ -148,8 +266,8 @@ export default {
 }
 
 @media only screen and (min-width: 768px) {
-	.main {
-		.projectContainers {
+	.galleryMain {
+		.galleryContainers {
 			.textSection {
 				padding-left: 15px;
 				padding-right: 15px;

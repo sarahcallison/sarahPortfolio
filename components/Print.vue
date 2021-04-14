@@ -8,7 +8,7 @@
 					class="col-12 col-md-7 col-lg-6 align-self-center textSection"
 				>
 					<h4>Utah Valley University</h4>
-					<h2>Print Page</h2>
+					<h2>AR Space Book</h2>
 					<div class="gradLine"></div>
 					<p>
 						Data analysis and next steps for improving the
@@ -33,8 +33,8 @@
 						<div
 							class="col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection text-md-right"
 						>
-							<h4>Utah Valley University</h4>
-							<h2>Print Page</h2>
+							<h4>Silicon Slopes Magazine</h4>
+							<h2>Graphic Design</h2>
 							<div class="gradLine ml-md-auto"></div>
 							<p>
 								Data analysis and next steps for improving the
@@ -64,22 +64,61 @@
 		<!-- Third Section -->
 		<div class="container projectContainers">
 			<div class="row">
-				<div
-					class="col-12 col-md-7 col-lg-6 align-self-center textSection"
-				>
-					<h4>Mobile App Concept</h4>
-					<h2>Print Page</h2>
+				<div class="col-12 align-self-center textSection">
+					<h2>Invitations & Cards</h2>
 					<div class="gradLine"></div>
-					<p>
-						Data analysis and next steps for improving the
-						Telehealth user experience.
-					</p>
-					<GradButton title="View Project" />
 				</div>
-				<div class="col-12 col-md-5 col-lg-6 align-self-center">
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
 					<img
 						class="img-fluid"
-						src="@/assets/images/brandishApp.png"
+						src="@/assets/images/print/showerCard.jpg"
+						alt="image of mac computer"
+					/>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid"
+						src="@/assets/images/print/showerCard.jpg"
+						alt="image of mac computer"
+					/>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid"
+						src="@/assets/images/print/showerCard.jpg"
+						alt="image of mac computer"
+					/>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid"
+						src="@/assets/images/print/showerCard.jpg"
+						alt="image of mac computer"
+					/>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid"
+						src="@/assets/images/print/showerCard.jpg"
+						alt="image of mac computer"
+					/>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<img
+						class="img-fluid"
+						src="@/assets/images/print/showerCard.jpg"
 						alt="image of mac computer"
 					/>
 				</div>
