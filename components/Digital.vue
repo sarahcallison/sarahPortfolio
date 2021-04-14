@@ -14,7 +14,12 @@
 						Data analysis and next steps for improving the
 						Telehealth user experience.
 					</p>
-					<GradButton title="View Project" />
+					<NuxtLink
+						style="cursor: auto; textDecoration: none;"
+						to="/websiteRedesign"
+					>
+						<GradButton title="View Project" />
+					</NuxtLink>
 				</div>
 				<div class="col-12 col-md-5 col-lg-6 align-self-center">
 					<img

@@ -1,30 +1,35 @@
 <template>
-	<div style="background: #F2EDFF; position: relative; min-height: 100vh;">
-		<div class="container-fluid contactContainer">
-			<div class="row">
-				<div class="container contactTextContainer ">
-					<div class="row justify-content-center">
-						<div class="col-11 col-md-6 align-self-center">
-							<h1>Need to launch an idea?</h1>
-							<p>
-								I’d love to talk about your next project. Send
-								me an email or connect with me on LinkedIn,
-								Instagram, Behance or Dribble.
-							</p>
-							<GradButton title="hi@sarahcallison.com" />
-						</div>
-						<div class="col-12 col-md-6 align-self-center">
-							<img
-								class="img-fluid contactImg"
-								src="@/assets/images/purpleBurst.png"
-								alt="image of bursting purple colors"
-							/>
+	<div>
+		<Nav where="top" shadow="0px 8px 10px -10px #999" />
+		<div
+			style="background: #F2EDFF; position: relative; min-height: 100vh;"
+		>
+			<div class="container-fluid contactContainer">
+				<div class="row">
+					<div class="container contactTextContainer ">
+						<div class="row justify-content-center">
+							<div class="col-11 col-md-6 align-self-center">
+								<h1>Need to launch an idea?</h1>
+								<p>
+									I’d love to talk about your next project.
+									Send me an email or connect with me on
+									LinkedIn, Instagram, Behance or Dribble.
+								</p>
+								<GradButton title="hi@sarahcallison.com" />
+							</div>
+							<div class="col-12 col-md-6 align-self-center">
+								<img
+									class="img-fluid contactImg"
+									src="@/assets/images/purpleBurst.png"
+									alt="image of bursting purple colors"
+								/>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
+			<Socials id="contactSocials" />
 		</div>
-		<Socials id="contactSocials" />
 	</div>
 </template>
 

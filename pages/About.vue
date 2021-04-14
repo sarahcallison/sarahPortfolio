@@ -1,48 +1,56 @@
 <template>
-	<div style="background: #eeeeee; position: relative; min-height: 100vh;">
-		<div class="container-fluid aboutContainer">
-			<div class="row">
-				<div class="container aboutTextContainer ">
-					<div class="row justify-content-center">
-						<div class="col-11 col-lg-8">
-							<h1>Design doesn't feel like work</h1>
-							<p>
-								Design problems pose new challenges and create
-								opportunities to hone my skills. As crucial as
-								skill is to the success of a project, being
-								upbeat and treating team members with respect
-								and kindness is equally important.
-								<br />
-								<br />
-								When I’m not designing, you can find me learning
-								to roller-skate, making (and eating) desserts,
-								or reading in a hammock somewhere.
-							</p>
-							<GradButton title="View Resume" />
+	<div>
+		<Nav where="top" shadow="0px 8px 10px -10px #999" />
+		<div
+			style="background: #eeeeee; position: relative; min-height: 100vh;"
+		>
+			<div class="container-fluid aboutContainer">
+				<div class="row">
+					<div class="container aboutTextContainer ">
+						<div class="row justify-content-center">
+							<div class="col-11 col-lg-8">
+								<h1>Design doesn't feel like work</h1>
+								<p>
+									Design problems pose new challenges and
+									create opportunities to hone my skills. As
+									crucial as skill is to the success of a
+									project, being upbeat and treating team
+									members with respect and kindness is equally
+									important.
+									<br />
+									<br />
+									When I’m not designing, you can find me
+									learning to roller-skate, making (and
+									eating) desserts, or reading in a hammock
+									somewhere.
+								</p>
+								<GradButton title="View Resume" />
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
 
-		<div class="aboutImgContainer">
-			<img
-				class="img-fluid aboutImg"
-				src="@/assets/images/about.png"
-				alt="Image of Sarah"
-			/>
+			<div class="aboutImgContainer">
+				<img
+					class="img-fluid aboutImg"
+					src="@/assets/images/about.png"
+					alt="Image of Sarah"
+				/>
+			</div>
+			<Socials id="aboutSocials" />
 		</div>
-		<Socials id="aboutSocials" />
 	</div>
 </template>
 
 <script>
 import GradButton from "@/components/GradButton";
 import Socials from "@/components/Socials";
+import Nav from "@/components/Nav";
 
 export default {
 	props: ["GradButton", "Socials"],
-	components: { GradButton, Socials }
+	components: { GradButton, Socials, Nav }
 };
 </script>
 

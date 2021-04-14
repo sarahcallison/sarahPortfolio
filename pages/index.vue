@@ -1,5 +1,6 @@
 <template>
 	<div>
+		<Nav where="top" shadow="0px 8px 10px -10px #999" />
 		<div class="container-fluid jumboContainer">
 			<div class="row">
 				<div class="infoText">

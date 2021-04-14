@@ -1,20 +1,32 @@
 <template>
 	<div>
-		<Nav where="top" shadow="0px 8px 10px -10px #999" />
 		<Nuxt />
 	</div>
 </template>
 
 <script>
-import Nav from "@/components/Nav";
-export default {
-	components: {
-		Nav
-	}
-};
+export default {};
 </script>
 
 <style>
+.page-enter-active,
+.page-leave-active {
+	transition: opacity 0.5s;
+}
+.page-enter,
+.page-leave-to {
+	opacity: 0;
+}
+
+.layout-enter-active,
+.layout-leave-active {
+	transition: opacity 0.5s;
+}
+.layout-enter,
+.layout-leave-to {
+	opacity: 0;
+}
+
 html {
 	font-family: "Typold Book 500", "Source Sans Pro", -apple-system,
 		BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
