@@ -1,6 +1,6 @@
 <template>
-	<!-- websiteRedesign Content -->
-	<div class="websiteRedesign">
+	<!-- userResearch Content -->
+	<div class="userResearch">
 		<NuxtLink to="/" class="close">
 			<img
 				id="closeImg"
@@ -9,11 +9,11 @@
 			/>
 		</NuxtLink>
 		<!-- First Section -->
-		<div class="container projectContainers" id="firstProjContainer">
+		<div class="container projectContainers">
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
 					<h4>Utah Valley University</h4>
-					<h2>Website Redesign</h2>
+					<h2>User Research</h2>
 					<div class="gradLine"></div>
 					<p>
 						May 2021
@@ -29,12 +29,17 @@
 						<div
 							class="col-12 col-md-5 col-lg-6 order-md-2 align-self-center"
 						>
-							<img
-								class="img-fluid"
-								id="macImg"
-								src="@/assets/images/digital/mac.png"
-								alt="image of mac computer"
-							/>
+							<picture>
+								<source
+									media="(min-width:992px)"
+									srcset="@/assets/images/map.png"
+								/>
+								<img
+									src="@/assets/images/mapMobile.png"
+									alt="Image of map"
+									class="img-fluid"
+								/>
+							</picture>
 						</div>
 						<div
 							class="col-12 col-md-7 col-lg-6 order-md-1 align-self-center  textSection"
@@ -57,12 +62,10 @@
 		</div>
 		<!-- Third Section -->
 		<div class="container-fluid projectContainers">
-			<div class="row justify-content-md-center">
+			<div class="row ">
 				<div class="container">
 					<div class="row justify-content-md-center">
-						<div
-							class="col-12 col-md-10 align-self-center px-4 px-md-0 textSection"
-						>
+						<div class="col-12 col-md-10 px-4 textSection">
 							<h2 class="text-center ">The Solution</h2>
 							<h4 class="text-center subtitle firstHeader">
 								Research
@@ -290,7 +293,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.websiteRedesign {
+.userResearch {
 	color: black;
 
 	.close {
@@ -310,18 +313,9 @@ export default {
 		}
 	}
 
-	#firstProjContainer {
-		padding-bottom: 200px;
-	}
-
 	.projectContainers {
 		padding-top: 100px;
 		padding-bottom: 100px;
-
-		#macImg {
-			margin-top: -200px;
-			margin-bottom: 100px;
-		}
 
 		.textSection {
 			h4 {
@@ -384,13 +378,8 @@ export default {
 }
 
 @media only screen and (min-width: 768px) {
-	.websiteRedesign {
+	.userResearch {
 		.projectContainers {
-			#macImg {
-				margin-top: 0;
-				margin-bottom: 0;
-			}
-
 			.textSection {
 				h4 {
 					font-size: 16px;
@@ -402,17 +391,6 @@ export default {
 					font-family: "Made";
 					color: $header;
 				}
-			}
-		}
-	}
-}
-
-@media only screen and (min-width: 992px) {
-	.websiteRedesign {
-		.projectContainers {
-			#macImg {
-				margin-top: -200px;
-				margin-bottom: 100px;
 			}
 		}
 	}

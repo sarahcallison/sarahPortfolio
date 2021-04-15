@@ -1,6 +1,6 @@
 <template>
-	<!-- websiteRedesign Content -->
-	<div class="websiteRedesign">
+	<!-- brandishApp Content -->
+	<div class="brandishApp">
 		<NuxtLink to="/" class="close">
 			<img
 				id="closeImg"
@@ -13,10 +13,10 @@
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
 					<h4>Utah Valley University</h4>
-					<h2>Website Redesign</h2>
+					<h2>Brandish App</h2>
 					<div class="gradLine"></div>
 					<p>
-						May 2021
+						November 2020
 					</p>
 				</div>
 			</div>
@@ -32,7 +32,7 @@
 							<img
 								class="img-fluid"
 								id="macImg"
-								src="@/assets/images/digital/mac.png"
+								src="@/assets/images/digital/brandishApp.png"
 								alt="image of mac computer"
 							/>
 						</div>
@@ -290,7 +290,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.websiteRedesign {
+.brandishApp {
 	color: black;
 
 	.close {
@@ -319,7 +319,7 @@ export default {
 		padding-bottom: 100px;
 
 		#macImg {
-			margin-top: -200px;
+			margin-top: -250px;
 			margin-bottom: 100px;
 		}
 
@@ -384,10 +384,10 @@ export default {
 }
 
 @media only screen and (min-width: 768px) {
-	.websiteRedesign {
+	.brandishApp {
 		.projectContainers {
 			#macImg {
-				margin-top: 0;
+				margin-top: -400px;
 				margin-bottom: 0;
 			}
 
@@ -408,10 +408,10 @@ export default {
 }
 
 @media only screen and (min-width: 992px) {
-	.websiteRedesign {
+	.brandishApp {
 		.projectContainers {
 			#macImg {
-				margin-top: -200px;
+				margin-top: -500px;
 				margin-bottom: 100px;
 			}
 		}
