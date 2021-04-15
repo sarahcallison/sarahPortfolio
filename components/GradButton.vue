@@ -1,6 +1,6 @@
 <template>
 	<div id="gradButton">
-		<a href="#">
+		<a :href="url">
 			{{ title }}
 		</a>
 	</div>
@@ -8,13 +8,17 @@
 
 <script>
 export default {
-	props: ["title"]
+	props: {
+		title: String,
+		url: String
+	}
 };
 </script>
 
 <style lang="scss" scoped>
 #gradButton {
 	margin: 50px 0;
+	cursor: pointer;
 	a {
 		text-decoration: none;
 		text-transform: uppercase;

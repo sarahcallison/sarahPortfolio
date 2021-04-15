@@ -272,19 +272,23 @@
 						<GradButton
 							class="text-center"
 							title="Go To XD Adobe.com"
+							url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
 						/>
 					</div>
 				</div>
 			</div>
 		</div>
+		<NextNav next="/userResearch" prev="" />
 	</div>
 </template>
 
 <script>
 import GradButton from "@/components/GradButton";
+import NextNav from "@/components/NextNav";
 export default {
 	components: {
-		GradButton
+		GradButton,
+		NextNav
 	}
 };
 </script>
@@ -353,6 +357,7 @@ export default {
 			}
 
 			.purpHeader {
+				font-size: 18px;
 				background-image: linear-gradient(
 					to right,
 					$gradDark,

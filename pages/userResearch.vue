@@ -280,14 +280,18 @@
 				</div>
 			</div>
 		</div>
+		<NextNav next="/brandishApp" prev="/websiteRedesign" />
 	</div>
 </template>
 
 <script>
 import GradButton from "@/components/GradButton";
+import NextNav from "@/components/NextNav";
+
 export default {
 	components: {
-		GradButton
+		GradButton,
+		NextNav
 	}
 };
 </script>
@@ -347,6 +351,7 @@ export default {
 			}
 
 			.purpHeader {
+				font-size: 18px;
 				background-image: linear-gradient(
 					to right,
 					$gradDark,
