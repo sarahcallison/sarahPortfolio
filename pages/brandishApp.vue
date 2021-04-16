@@ -49,7 +49,10 @@
 
 							<h4 class="purpHeader">Deliverables</h4>
 							<p>High-fidelity prototype</p>
-							<GradButton title="Go To XD Adobe.com" />
+							<GradButton
+								title="Go To XD Adobe.com"
+								url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
+							/>
 						</div>
 					</div>
 				</div>
@@ -272,6 +275,7 @@
 						<GradButton
 							class="text-center"
 							title="Go To XD Adobe.com"
+							url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
 						/>
 					</div>
 				</div>

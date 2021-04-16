@@ -11,11 +11,19 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/gallery/tabletMag.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: { img: 'tabletMag' }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/tabletMag.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
 
 					<p class="text-center mt-3 px-1">
 						Demo of interactive magazine concept for tablet
@@ -24,11 +32,19 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/gallery/interactiveInfographicThumbnail.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: { img: 'interactiveInfographicThumbnail' }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/interactiveInfographicThumbnail.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
 					<p class="text-center  mt-3 px-1">
 						Interactive infographic made in Hype
 					</p>
@@ -36,11 +52,13 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid "
-						src="@/assets/images/gallery/fancySprinkles.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+						<img
+							class="img-fluid "
+							src="@/assets/images/gallery/fancySprinkles.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
 					<p class="text-center  mt-3 px-1">
 						Demo of interactive magazine concept for Fancy Sprinkles
 					</p>
@@ -56,11 +74,13 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/gallery/hypeGif.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/hypeGif.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
 
 					<p class="text-center px-1 mt-3">
 						Original GIF created in Hype
@@ -69,11 +89,13 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/gallery/hypeGif.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/hypeGif.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
 					<p class="text-center px-1 mt-3">
 						Original GIF created in Hype
 					</p>
@@ -81,11 +103,13 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid "
-						src="@/assets/images/gallery/hypeGif.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+						<img
+							class="img-fluid "
+							src="@/assets/images/gallery/hypeGif.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
 					<p class="text-center px-1 mt-3">
 						Original GIF created in Hype
 					</p>
@@ -100,12 +124,13 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/gallery/deeganOnFire.jpg"
-						alt="image of mac computer"
-					/>
-
+					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/deeganOnFire.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
 					<p class="text-center px-1 mt-3">
 						Video created in Photoshop - original footage &copy;
 						Brian Deegan
@@ -114,11 +139,13 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/gallery/deeganOnFire.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/deeganOnFire.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
 					<p class="text-center px-1 mt-3">
 						Video created in Photoshop - original footage &copy;
 						Brian Deegan
@@ -127,11 +154,13 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid "
-						src="@/assets/images/gallery/deeganOnFire.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+						<img
+							class="img-fluid "
+							src="@/assets/images/gallery/deeganOnFire.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
 					<p class="text-center px-1 mt-3">
 						Video created in Photoshop - original footage &copy;
 						Brian Deegan
@@ -148,57 +177,85 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/gallery/protegeThumbnail.jpg"
-						alt="image of mac computer"
-					/>
-				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/gallery/protegeThumbnail.jpg"
-						alt="image of mac computer"
-					/>
-				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<img
-						class="img-fluid "
-						src="@/assets/images/gallery/emilyThumbnail.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/protegeThumbnail.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
 				</div>
 
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/gallery/summerThumbnailNew.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/protegeThumbnail.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
 				</div>
+
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/gallery/physicsThumbnail.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+						<img
+							class="img-fluid "
+							src="@/assets/images/gallery/emilyThumbnail.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
 				</div>
+
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid "
-						src="@/assets/images/gallery/mightyFicusThumbnail.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink
+						class="toImageNuxtLink"
+						url="@/assets/images/gallery/summerThumbnailNew.jpg"
+						to="ImgBackground"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/summerThumbnailNew.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
+				</div>
+
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						url="@/assets/images/gallery/physicsThumbnail.jp"
+						to="ImgBackground"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/physicsThumbnail.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
+				</div>
+
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						url="@/assets/images/gallery/mightyFicusThumbnail.jpg"
+						to="ImgBackground"
+					>
+						<img
+							class="img-fluid "
+							src="@/assets/images/gallery/mightyFicusThumbnail.jpg"
+							alt="image of mac computer"
+						/>
+					</NuxtLink>
 				</div>
 			</div>
 		</div>

@@ -15,7 +15,10 @@
 									Send me an email or connect with me on
 									LinkedIn, Instagram, Behance or Dribble.
 								</p>
-								<GradButton title="hi@sarahcallison.com" />
+								<GradButton
+									title="hi@sarahcallison.com"
+									url="mailto:hi@sarahcallison.com"
+								/>
 							</div>
 							<div class="col-12 col-md-6 align-self-center">
 								<img
