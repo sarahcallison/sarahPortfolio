@@ -1,18 +1,14 @@
 <template>
 	<div class="container-fluid imgBackground vh-100">
 		<div class="imgCont">
-			<NuxtLink :to="{ path: '/', hash: '#secondNav' }" class="close">
+			<div @click="$router.go(-1)" class="close">
 				<img
 					id="closeImg"
 					src="@/assets/images/closeHover.png"
 					src2="@/assets/images/close.png"
 				/>
-			</NuxtLink>
-			<img
-				class="img-fluid"
-				:src="imageUrl.myImg"
-				alt="Sarah Project Image"
-			/>
+			</div>
+			<img class="img-fluid" :src="imageUrl" alt="Sarah Project Image" />
 		</div>
 	</div>
 </template>
@@ -21,9 +17,7 @@
 export default {
 	computed: {
 		imageUrl() {
-			return {
-				myImg: require(`@/assets/images/gallery/${this.$route.params.img}.jpg`)
-			};
+			return `/gallery/${this.$route.params.img}.jpg`;
 		}
 	}
 };
@@ -48,6 +42,7 @@ export default {
 				content: url("@/assets/images/closeHover.png");
 				content: url("@/assets/images/close.png");
 				width: 45px;
+				cursor: pointer;
 
 				&:hover {
 					content: url("@/assets/images/closeHover.png");

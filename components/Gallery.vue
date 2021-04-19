@@ -15,12 +15,12 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: 'tabletMag' }
+							params: { img: `tabletMag` }
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/tabletMag.jpg"
+							src="~/assets/images/gallery/tabletMag.jpg"
 							alt="image of mac computer"
 						/>
 					</NuxtLink>
@@ -36,12 +36,14 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: 'interactiveInfographicThumbnail' }
+							params: {
+								img: 'interactiveInfographicThumbnail'
+							}
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/interactiveInfographicThumbnail.jpg"
+							src="~/assets/images/gallery/interactiveInfographicThumbnail.jpg"
 							alt="image of mac computer"
 						/>
 					</NuxtLink>
@@ -52,10 +54,18 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'fancySprinkles'
+							}
+						}"
+					>
 						<img
 							class="img-fluid "
-							src="@/assets/images/gallery/fancySprinkles.jpg"
+							src="~/assets/images/gallery/fancySprinkles.jpg"
 							alt="image of mac computer"
 						/>
 					</NuxtLink>
@@ -74,7 +84,15 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'hypeGif'
+							}
+						}"
+					>
 						<img
 							class="img-fluid"
 							src="@/assets/images/gallery/hypeGif.jpg"
@@ -89,7 +107,15 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'hypeGif'
+							}
+						}"
+					>
 						<img
 							class="img-fluid"
 							src="@/assets/images/gallery/hypeGif.jpg"
@@ -103,7 +129,15 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'hypeGif'
+							}
+						}"
+					>
 						<img
 							class="img-fluid "
 							src="@/assets/images/gallery/hypeGif.jpg"
@@ -124,7 +158,15 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'deeganOnFire'
+							}
+						}"
+					>
 						<img
 							class="img-fluid"
 							src="@/assets/images/gallery/deeganOnFire.jpg"
@@ -139,7 +181,15 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'deeganOnFire'
+							}
+						}"
+					>
 						<img
 							class="img-fluid"
 							src="@/assets/images/gallery/deeganOnFire.jpg"
@@ -154,7 +204,15 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'deeganOnFire'
+							}
+						}"
+					>
 						<img
 							class="img-fluid "
 							src="@/assets/images/gallery/deeganOnFire.jpg"
@@ -177,7 +235,15 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'protegeThumbnail'
+							}
+						}"
+					>
 						<img
 							class="img-fluid"
 							src="@/assets/images/gallery/protegeThumbnail.jpg"
@@ -189,7 +255,15 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'protegeThumbnail'
+							}
+						}"
+					>
 						<img
 							class="img-fluid"
 							src="@/assets/images/gallery/protegeThumbnail.jpg"
@@ -201,7 +275,15 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<NuxtLink class="toImageNuxtLink" to="ImgBackground">
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'emilyThumbnail'
+							}
+						}"
+					>
 						<img
 							class="img-fluid "
 							src="@/assets/images/gallery/emilyThumbnail.jpg"
@@ -216,7 +298,12 @@
 					<NuxtLink
 						class="toImageNuxtLink"
 						url="@/assets/images/gallery/summerThumbnailNew.jpg"
-						to="ImgBackground"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'summerThumbnailNew'
+							}
+						}"
 					>
 						<img
 							class="img-fluid"
@@ -232,7 +319,12 @@
 					<NuxtLink
 						class="toImageNuxtLink"
 						url="@/assets/images/gallery/physicsThumbnail.jp"
-						to="ImgBackground"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'physicsThumbnail'
+							}
+						}"
 					>
 						<img
 							class="img-fluid"
@@ -248,7 +340,12 @@
 					<NuxtLink
 						class="toImageNuxtLink"
 						url="@/assets/images/gallery/mightyFicusThumbnail.jpg"
-						to="ImgBackground"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'mightyFicusThumbnail'
+							}
+						}"
 					>
 						<img
 							class="img-fluid "
