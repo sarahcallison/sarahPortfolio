@@ -1,13 +1,13 @@
 <template>
 	<!-- userResearch Content -->
 	<div class="userResearch">
-		<div @click="$router.go(-1)" class="close">
+		<NuxtLink :to="{ path: '/', hash: '#secondNav' }" class="close">
 			<img
 				id="closeImg"
 				src="@/assets/images/closeHover.png"
 				src2="@/assets/images/close.png"
 			/>
-		</div>
+		</NuxtLink>
 		<!-- First Section -->
 		<div class="container projectContainers">
 			<div class="row">

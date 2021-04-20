@@ -4,26 +4,26 @@
 		<div class="navWrapper">
 			<ul>
 				<div class="nuxtLink" @click="scrollToTop">
-					<a
-						><li>
-							Top
-						</li></a
-					>
+					<button type="button">
+						Top
+					</button>
 				</div>
 				<NuxtLink class="nuxtLink rightAligned" :to="prev"
-					><a
-						><li :class="prev == '' ? 'disabled' : 'notDis'">
-							Previous
-						</li></a
-					></NuxtLink
+					><button
+						type="button"
+						:class="prev == '' ? 'disabled' : 'notDis'"
+					>
+						Previous
+					</button></NuxtLink
 				>
 				<li class="nuxtLink">|</li>
 				<NuxtLink class="nuxtLink" :to="next"
-					><a
-						><li :class="next == '' ? 'disabled' : 'notDis'">
-							Next
-						</li></a
-					></NuxtLink
+					><button
+						type="button"
+						:class="next == '' ? 'disabled' : 'notDis'"
+					>
+						Next
+					</button></NuxtLink
 				>
 			</ul>
 		</div>
@@ -106,8 +106,9 @@ export default {
 			}
 		}
 
-		li {
-			list-style-type: none;
+		button {
+			border: none;
+			background: none;
 			letter-spacing: $tracking250;
 			text-transform: uppercase;
 			font-size: 14px;
