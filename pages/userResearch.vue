@@ -1,13 +1,13 @@
 <template>
 	<!-- userResearch Content -->
 	<div class="userResearch">
-		<NuxtLink to="/" class="close">
+		<div @click="$router.go(-1)" class="close">
 			<img
 				id="closeImg"
 				src="@/assets/images/closeHover.png"
 				src2="@/assets/images/close.png"
 			/>
-		</NuxtLink>
+		</div>
 		<!-- First Section -->
 		<div class="container projectContainers">
 			<div class="row">
@@ -284,7 +284,14 @@
 				</div>
 			</div>
 		</div>
-		<NextNav next="/brandishApp" prev="/websiteRedesign" />
+		<NextNav
+			:class="{
+				noNav: scrollPosition < 100,
+				showNav: scrollPosition > 100
+			}"
+			next="/brandishApp"
+			prev="/websiteRedesign"
+		/>
 	</div>
 </template>
 
@@ -296,6 +303,24 @@ export default {
 	components: {
 		GradButton,
 		NextNav
+	},
+
+	data() {
+		return {
+			scrollPosition: null
+		};
+	},
+
+	mounted() {
+		window.addEventListener("scroll", this.updateScroll);
+	},
+	methods: {
+		updateScroll() {
+			this.scrollPosition = window.scrollY;
+		}
+	},
+	destroy() {
+		window.removeEventListener("scroll", this.updateScroll);
 	}
 };
 </script>
@@ -304,11 +329,72 @@ export default {
 .userResearch {
 	color: black;
 
+	.noNav {
+	}
+
+	.showNav {
+		position: fixed;
+		bottom: 0;
+		opacity: 0.99;
+
+		animation: fadeIn 1s;
+		-webkit-animation: fadeIn 1s;
+		-moz-animation: fadeIn 1s;
+		-o-animation: fadeIn 1s;
+		-ms-animation: fadeIn 1s;
+	}
+
+	@keyframes fadeIn {
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	}
+
+	@-moz-keyframes fadeIn {
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	}
+
+	@-webkit-keyframes fadeIn {
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	}
+
+	@-o-keyframes fadeIn {
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	}
+
+	@-ms-keyframes fadeIn {
+		0% {
+			opacity: 0;
+		}
+		100% {
+			opacity: 1;
+		}
+	}
+
 	.close {
 		position: absolute;
 		right: 20px;
 		top: 20px;
 		height: 32px;
+		cursor: pointer;
 
 		#closeImg {
 			content: url("@/assets/images/closeHover.png");

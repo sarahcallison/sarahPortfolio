@@ -77,8 +77,8 @@ export default {
 					$gradLight
 				);
 				background-clip: text;
-				-webkit-text-fill-color: transparent;
-				-moz-text-fill-color: transparent;
+				-webkit-text-fill-color: rgba(0, 0, 0, 0.0001);
+				-moz-text-fill-color: rgba(0, 0, 0, 0.0001);
 			}
 		}
 

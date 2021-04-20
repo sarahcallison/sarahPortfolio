@@ -36,7 +36,6 @@ export default {
 
 	methods: {
 		scrollToTop() {
-			console.log();
 			window.scrollTo(0, 0);
 		}
 	}
@@ -51,7 +50,9 @@ export default {
 	width: 100%;
 	display: flex;
 	align-items: center;
-	box-shadow: 0px 1px 10px -10px #999;
+	-webkit-box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.15);
+	-moz-box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.15);
+	box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.15);
 	padding: 5px 0;
 	z-index: 1;
 
