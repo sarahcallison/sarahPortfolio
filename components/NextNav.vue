@@ -3,11 +3,11 @@
 	<nav class="nextNav">
 		<div class="navWrapper">
 			<ul>
-				<NuxtLink class="nuxtLink" to="#">
-					<li @click="scrollToTop">
+				<div class="nuxtLink" @click="scrollToTop">
+					<li>
 						Top
 					</li>
-				</NuxtLink>
+				</div>
 				<NuxtLink class="nuxtLink rightAligned" :to="prev"
 					><li :class="prev == '' ? 'disabled' : 'notDis'">
 						Previous
@@ -36,7 +36,11 @@ export default {
 
 	methods: {
 		scrollToTop() {
-			window.scrollTo(0, 0);
+			window.scroll({
+				top: 0,
+				left: 0,
+				behavior: "smooth"
+			});
 		}
 	}
 };
@@ -67,6 +71,7 @@ export default {
 			list-style-type: none;
 			text-decoration: none;
 			margin: 0 10px;
+			cursor: pointer;
 		}
 
 		.rightAligned {
