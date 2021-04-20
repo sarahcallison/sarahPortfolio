@@ -4,20 +4,26 @@
 		<div class="navWrapper">
 			<ul>
 				<div class="nuxtLink" @click="scrollToTop">
-					<li>
-						Top
-					</li>
+					<a
+						><li>
+							Top
+						</li></a
+					>
 				</div>
 				<NuxtLink class="nuxtLink rightAligned" :to="prev"
-					><li :class="prev == '' ? 'disabled' : 'notDis'">
-						Previous
-					</li></NuxtLink
+					><a
+						><li :class="prev == '' ? 'disabled' : 'notDis'">
+							Previous
+						</li></a
+					></NuxtLink
 				>
 				<li class="nuxtLink">|</li>
 				<NuxtLink class="nuxtLink" :to="next"
-					><li :class="next == '' ? 'disabled' : 'notDis'">
-						Next
-					</li></NuxtLink
+					><a
+						><li :class="next == '' ? 'disabled' : 'notDis'">
+							Next
+						</li></a
+					></NuxtLink
 				>
 			</ul>
 		</div>
