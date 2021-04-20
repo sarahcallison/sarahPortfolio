@@ -4,13 +4,9 @@
 		<div class="navWrapper">
 			<ul>
 				<a class="mainNavItem" href="/">SC</a>
-				<nuxt-link class="nuxtLink" to="/"><li>Work</li></nuxt-link>
-				<nuxt-link class="nuxtLink" to="/About"
-					><li>About</li></nuxt-link
-				>
-				<nuxt-link class="nuxtLink" to="/Contact"
-					><li>Contact</li></nuxt-link
-				>
+				<nuxt-link to="/"><li>Work</li></nuxt-link>
+				<nuxt-link to="/About"><li>About</li></nuxt-link>
+				<nuxt-link to="/Contact"><li>Contact</li></nuxt-link>
 			</ul>
 		</div>
 	</nav>
@@ -66,36 +62,6 @@ export default {
 		display: flex;
 		justify-content: center;
 
-		.nuxtLink {
-			color: black;
-			text-decoration: none;
-
-			&:hover {
-				background-image: linear-gradient(
-					to right,
-					$gradDark,
-					$gradLight
-				);
-				background-clip: text;
-				-webkit-text-fill-color: rgba(0, 0, 0, 0.0001);
-				-moz-text-fill-color: rgba(0, 0, 0, 0.0001);
-			}
-		}
-
-		.nuxt-link-exact-active {
-			background-image: linear-gradient(to right, $gradDark, $gradLight);
-			background-clip: text;
-			-webkit-text-fill-color: transparent;
-			-moz-text-fill-color: transparent;
-		}
-
-		.mainNavItem {
-			color: black;
-			text-decoration: none;
-			font-family: "Made2";
-			font-size: 35px;
-		}
-
 		ul {
 			display: flex;
 			justify-content: space-around;
@@ -103,14 +69,62 @@ export default {
 			width: 500px;
 			margin: 0;
 			padding: 0;
-		}
+			list-style-type: none;
+			text-decoration: none;
 
-		a {
-			li {
-				list-style-type: none;
-				letter-spacing: $tracking250;
-				text-transform: uppercase;
-				font-size: 14px;
+			.mainNavItem {
+				color: black;
+				font-family: "Made2";
+				font-size: 35px;
+			}
+
+			a {
+				text-decoration: none;
+
+				li {
+					color: black;
+					text-decoration: none;
+					letter-spacing: $tracking250;
+					text-transform: uppercase;
+					font-size: 14px;
+
+					&:hover {
+						text-decoration: none;
+
+						background: linear-gradient(
+							to right,
+							$gradDark,
+							$gradLight
+						);
+
+						background-clip: text;
+						-webkit-text-fill-color: transparent;
+						-moz-text-fill-color: transparent;
+					}
+				}
+			}
+		}
+	}
+	.nuxt-link-exact-active {
+		background: linear-gradient(to right, $gradDark, $gradLight);
+
+		background-clip: text;
+		-webkit-text-fill-color: transparent;
+		-moz-text-fill-color: transparent;
+	}
+
+	@supports (-ms-ime-align: auto) {
+		.nuxt-link-exact-active {
+			-webkit-text-fill-color: $gradDark;
+			-moz-text-fill-color: $gradDark;
+		}
+	}
+
+	@media not all and (min-resolution: 0.001dpcm) {
+		@supports (-webkit-appearance: none) {
+			.nuxt-link-exact-active {
+				-webkit-text-fill-color: $gradDark;
+				-moz-text-fill-color: $gradDark;
 			}
 		}
 	}
@@ -119,12 +133,14 @@ export default {
 @media only screen and (min-width: 768px) {
 	.sNav {
 		.navWrapper {
-			.mainNavItem {
-				font-size: 40px;
-			}
-			a {
-				li {
-					font-size: 16px;
+			ul {
+				.mainNavItem {
+					font-size: 40px;
+				}
+				a {
+					li {
+						font-size: 16px;
+					}
 				}
 			}
 		}
