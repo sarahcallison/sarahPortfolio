@@ -3,8 +3,10 @@
 	<nav class="sNav" :style="{ where: 0, boxShadow: shadow }">
 		<div class="navWrapper">
 			<ul>
-				<a class="mainNavItem" href="/">SC</a>
-				<nuxt-link to="/"><li>Work</li></nuxt-link>
+				<NuxtLink class="mainNavItem" to="/">SC</NuxtLink>
+				<nuxt-link :to="{ path: '/', hash: '#secondNav' }"
+					><li>Work</li></nuxt-link
+				>
 				<nuxt-link to="/About"><li>About</li></nuxt-link>
 				<nuxt-link to="/Contact"><li>Contact</li></nuxt-link>
 			</ul>

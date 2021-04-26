@@ -99,10 +99,11 @@ export default {
 		#title {
 			font-size: 16px;
 			letter-spacing: $tracking250;
+			margin-bottom: 20px;
 		}
 
 		#name {
-			margin-top: 10px;
+			margin: 30px 0;
 			font-family: "Made2";
 			font-size: 50px;
 			text-transform: uppercase;
@@ -115,7 +116,7 @@ export default {
 		}
 
 		#description {
-			margin-top: 10px;
+			margin: 0;
 			letter-spacing: #{(35/1000)}em;
 			width: 80%;
 		}
@@ -125,7 +126,7 @@ export default {
 			border: 2px solid white;
 			text-transform: uppercase;
 			background: none;
-			padding: 15px;
+			padding: 10px;
 			transition: 0.4s;
 
 			&:hover {
@@ -183,17 +184,17 @@ export default {
 				font-size: 25px;
 			}
 			#name {
-				margin-top: 50px;
+				margin: 50px 0 35px 0;
 				font-size: 70px;
 				line-height: 50px;
 			}
 			#description {
-				margin-top: 50px;
 				font-size: 25px;
 			}
 			#workBtn {
 				margin-top: 30px;
 				font-size: 18px;
+				padding: 15px;
 			}
 		}
 	}

@@ -39,7 +39,12 @@
 		<div class="row justify-content-center mt-4">
 			<div class="col-12 col-md-6 col-lg-8 text-center names">
 				&copy; Sarah Callison {{ new Date().getFullYear() }} | Code By
-				Tyson Elfors
+				<a
+					id="webLink"
+					target="_blank"
+					href="http://www.tysonelfors.com"
+					>Tyson Elfors</a
+				>
 			</div>
 		</div>
 	</div>
@@ -63,6 +68,10 @@ export default {};
 	.names {
 		text-transform: uppercase;
 		letter-spacing: $tracking250;
+	}
+
+	#webLink {
+		color: black;
 	}
 }
 </style>
