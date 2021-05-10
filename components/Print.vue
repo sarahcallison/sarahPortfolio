@@ -71,56 +71,104 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/print/showerCard.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: { img: `/print/showerCard` }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/showerCard.jpg"
+							alt="image of invitations and cards"
+						/>
+					</NuxtLink>
 				</div>
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/print/showerCard.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: { img: `/print/showerCard` }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/showerCard.jpg"
+							alt="image of invitations and cards"
+						/>
+					</NuxtLink>
 				</div>
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/print/showerCard.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: { img: `/print/showerCard` }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/showerCard.jpg"
+							alt="image of invitations and cards"
+						/>
+					</NuxtLink>
 				</div>
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/print/showerCard.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: { img: `/print/showerCard` }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/showerCard.jpg"
+							alt="image of invitations and cards"
+						/>
+					</NuxtLink>
 				</div>
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/print/showerCard.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: { img: `/print/showerCard` }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/showerCard.jpg"
+							alt="image of invitations and cards"
+						/>
+					</NuxtLink>
 				</div>
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<img
-						class="img-fluid"
-						src="@/assets/images/print/showerCard.jpg"
-						alt="image of mac computer"
-					/>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: { img: `/print/showerCard` }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/showerCard.jpg"
+							alt="image of invitations and cards"
+						/>
+					</NuxtLink>
 				</div>
 			</div>
 		</div>

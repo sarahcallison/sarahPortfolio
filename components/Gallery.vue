@@ -15,7 +15,9 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `tabletMag` }
+							params: {
+								vid: `https://www.youtube.com/embed/pgb3zr6N38Y`
+							}
 						}"
 					>
 						<img
@@ -32,21 +34,16 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<NuxtLink
+					<a
 						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
-							params: {
-								img: 'interactiveInfographicThumbnail'
-							}
-						}"
+						href="/gallery/interactiveDemo/index.html"
 					>
 						<img
 							class="img-fluid"
 							src="~/assets/images/gallery/interactiveInfographicThumbnail.jpg"
 							alt="image of mac computer"
 						/>
-					</NuxtLink>
+					</a>
 					<p class="text-center  mt-3 px-1">
 						Interactive infographic made in Hype
 					</p>
@@ -59,7 +56,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'fancySprinkles'
+								vid: `https://www.youtube.com/embed/0ggAxP-knMc`
 							}
 						}"
 					>
@@ -89,7 +86,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'hypeGif'
+								vid: `https://www.youtube.com/embed/8Ehxe1HZWUE`
 							}
 						}"
 					>
@@ -112,7 +109,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'hypeGif'
+								vid: `https://www.youtube.com/embed/8Ehxe1HZWUE`
 							}
 						}"
 					>
@@ -134,7 +131,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'hypeGif'
+								vid: `https://www.youtube.com/embed/8Ehxe1HZWUE`
 							}
 						}"
 					>
@@ -163,7 +160,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'deeganOnFire'
+								vid: `https://www.youtube.com/embed/QZ3lzG6Ly-4`
 							}
 						}"
 					>
@@ -186,7 +183,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'deeganOnFire'
+								vid: `https://www.youtube.com/embed/QZ3lzG6Ly-4`
 							}
 						}"
 					>
@@ -209,7 +206,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'deeganOnFire'
+								vid: `https://www.youtube.com/embed/QZ3lzG6Ly-4`
 							}
 						}"
 					>

@@ -72,7 +72,7 @@ export default {
 
 @media only screen and (min-width: 768px) {
 	.contactContainer {
-		height: 800px;
+		height: 600px;
 		.contactTextContainer {
 			position: absolute;
 			top: 45%; /* position the top  edge of the element at the middle of the parent */

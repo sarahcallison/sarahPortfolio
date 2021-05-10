@@ -84,7 +84,7 @@ export default {
 
 @media only screen and (min-width: 768px) {
 	.aboutContainer {
-		height: 800px;
+		height: 600px;
 		.aboutTextContainer {
 			position: absolute;
 			top: 45%; /* position the top  edge of the element at the middle of the parent */
@@ -121,7 +121,7 @@ export default {
 	.aboutContainer {
 		.aboutTextContainer {
 			p {
-				width: 100%;
+				width: 85%;
 			}
 		}
 	}
@@ -129,6 +129,16 @@ export default {
 	.aboutImgContainer {
 		.aboutImg {
 			max-width: 450px;
+		}
+	}
+}
+
+@media only screen and (min-width: 1400px) {
+	.aboutContainer {
+		.aboutTextContainer {
+			p {
+				width: 100%;
+			}
 		}
 	}
 }

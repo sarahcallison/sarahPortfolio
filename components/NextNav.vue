@@ -60,9 +60,9 @@ export default {
 	width: 100%;
 	display: flex;
 	align-items: center;
-	-webkit-box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.15);
-	-moz-box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.15);
-	box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.15);
+	-webkit-box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.06);
+	-moz-box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.06);
+	box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.06);
 	padding: 5px 0;
 	z-index: 1;
 
