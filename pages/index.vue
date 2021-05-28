@@ -92,9 +92,9 @@ export default {
 	}
 	.infoText {
 		position: absolute;
-		top: 120px;
-		left: 10%;
-		width: 70%;
+		top: 100px;
+		width: 100%;
+		padding: 0 5%;
 
 		#title {
 			font-size: 16px;
@@ -103,7 +103,7 @@ export default {
 		}
 
 		#name {
-			margin: 30px 0;
+			margin: 20px 0;
 			font-family: "Made2";
 			font-size: 50px;
 			text-transform: uppercase;
@@ -116,9 +116,7 @@ export default {
 		}
 
 		#description {
-			margin: 0;
-			letter-spacing: #{(35/1000)}em;
-			width: 80%;
+			display: none;
 		}
 		#workBtn {
 			margin-top: 15px;
@@ -131,6 +129,23 @@ export default {
 
 			&:hover {
 				background-color: rgba(255, 255, 255, 0.2);
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: 414px) {
+	.jumboContainer {
+		.infoText {
+			top: 120px;
+			width: 80%;
+
+			#name {
+				margin: 30px 0;
+			}
+
+			#description {
+				display: block;
 			}
 		}
 	}
