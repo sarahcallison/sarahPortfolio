@@ -92,9 +92,9 @@ export default {
 	}
 	.infoText {
 		position: absolute;
-		top: 100px;
+		top: 70px;
 		width: 100%;
-		padding: 0 5%;
+		padding: 0 4.5%;
 
 		#title {
 			font-size: 16px;
@@ -103,9 +103,9 @@ export default {
 		}
 
 		#name {
-			margin: 20px 0;
+			margin: 10px 0;
 			font-family: "Made2";
-			font-size: 50px;
+			font-size: 45px;
 			text-transform: uppercase;
 			line-height: 40px;
 
@@ -116,7 +116,7 @@ export default {
 		}
 
 		#description {
-			display: none;
+			//display: none;
 		}
 		#workBtn {
 			margin-top: 15px;
@@ -134,14 +134,15 @@ export default {
 	}
 }
 
-@media only screen and (min-width: 414px) {
+@media only screen and (min-width: 375px) {
 	.jumboContainer {
 		.infoText {
 			top: 120px;
-			width: 80%;
+      padding: 0 5%;
 
 			#name {
 				margin: 30px 0;
+        font-size: 50px;
 			}
 
 			#description {
@@ -156,6 +157,10 @@ export default {
 		.jumboImage {
 			margin-top: -320px;
 		}
+
+    .infoText {
+			width: 80%;
+    }
 	}
 }
 
