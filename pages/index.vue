@@ -147,6 +147,7 @@ export default {
 
 			#description {
 				display: block;
+				width: 90%;
 			}
 		}
 	}

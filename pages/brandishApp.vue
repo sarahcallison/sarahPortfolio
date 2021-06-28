@@ -1,13 +1,13 @@
 <template>
 	<!-- brandishApp Content -->
 	<div class="brandishApp">
-		<NuxtLink :to="{ path: '/', hash: '#secondNav' }" class="close">
+		<div @click="$router.go(-1)" class="close">
 			<img
 				id="closeImg"
 				src="@/assets/images/closeHover.png"
 				src2="@/assets/images/close.png"
 			/>
-		</NuxtLink>
+		</div>
 		<!-- First Section -->
 		<div class="container projectContainers" id="firstProjContainer">
 			<div class="row">
