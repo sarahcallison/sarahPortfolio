@@ -35,7 +35,7 @@
 		<component :is="dynamicComponent"></component>
 
 		<Socials style="marginBottom: 40px;" />
-		<Nav where="bottom" shadow="0px 8px 10px 6px  #999" />
+		<Nav class="isMobile" where="bottom" shadow="0px 8px 10px 6px  #999" />
 	</div>
 </template>
 
@@ -48,6 +48,19 @@ import Digital from "@/components/Digital";
 import Print from "@/components/Print";
 import Gallery from "@/components/Gallery";
 export default {
+	head() {
+		return {
+			title: "Home - Sarah Callison",
+			meta: [
+				{
+					hid: "description",
+					name: "description",
+					content:
+						"Digital Designer - Launching creative solutions. If you can think it, I'll design it. Clean, user-centered design"
+				}
+			]
+		};
+	},
 	components: {
 		SecondaryNav,
 		Socials,
@@ -138,11 +151,11 @@ export default {
 	.jumboContainer {
 		.infoText {
 			top: 120px;
-      padding: 0 5%;
+			padding: 0 5%;
 
 			#name {
 				margin: 30px 0;
-        font-size: 50px;
+				font-size: 50px;
 			}
 
 			#description {
@@ -159,9 +172,9 @@ export default {
 			margin-top: -320px;
 		}
 
-    .infoText {
+		.infoText {
 			width: 80%;
-    }
+		}
 	}
 }
 
@@ -186,6 +199,10 @@ export default {
 			right: 0;
 			padding: 0 10px;
 		}
+	}
+
+	.isMobile {
+		display: none;
 	}
 }
 

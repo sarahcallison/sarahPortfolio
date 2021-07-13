@@ -49,6 +49,18 @@ import Socials from "@/components/Socials";
 import Nav from "@/components/Nav";
 
 export default {
+	head() {
+		return {
+			title: "About - Sarah Callison",
+			meta: [
+				{
+					hid: "description",
+					name: "description",
+					content: "Design doesn't feel like work"
+				}
+			]
+		};
+	},
 	props: ["GradButton", "Socials"],
 	components: { GradButton, Socials, Nav }
 };
@@ -64,9 +76,9 @@ export default {
 			font-size: 50px;
 		}
 		p {
-			margin: 40px 0;
+			margin: 0px;
 			z-index: 1;
-			width: 85%;
+			width: 100%;
 		}
 	}
 }

@@ -41,6 +41,19 @@ import GradButton from "@/components/GradButton";
 import Socials from "@/components/Socials";
 
 export default {
+	head() {
+		return {
+			title: "Contact - Sarah Callison",
+			meta: [
+				{
+					hid: "description",
+					name: "description",
+					content:
+						"Need to launch an idea? I’d love to talk about your next project. Send me an email or connect with me on LinkedIn, Instagram, Behance or Dribble."
+				}
+			]
+		};
+	},
 	components: { GradButton, Socials }
 };
 </script>
@@ -57,7 +70,7 @@ export default {
 		p {
 			margin: 40px 0;
 			z-index: 1;
-			width: 85%;
+			width: 100%;
 		}
 
 		.contactImg {
