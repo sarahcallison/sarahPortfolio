@@ -4,7 +4,7 @@
 		<div class="container-fluid jumboContainer">
 			<div class="row">
 				<div class="infoText">
-					<h4 id="title">Digital Designer</h4>
+					<h4 id="title">DIGITAL DESIGNER</h4>
 					<h1 id="name">
 						<span id="firstName">Sarah</span> Callison
 					</h1>
