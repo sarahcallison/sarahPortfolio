@@ -153,7 +153,7 @@ export default {
 	.jumboContainer {
 		.infoText {
 			top: 120px;
-			padding: 5% 5% 0% 5%;
+			padding: 50% 5% 0% 5%;
 
 			#name {
 				margin: 30px 0;
