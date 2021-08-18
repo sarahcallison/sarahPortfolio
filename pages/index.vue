@@ -152,7 +152,7 @@ export default {
 @media only screen and (min-width: 375px) {
 	.jumboContainer {
 		.infoText {
-			top: 120px;
+			top: 100px;
 			padding: 0 5%;
 
 			#name {
