@@ -132,7 +132,6 @@ export default {
 
 		#description {
 			//display: none;
-			font-size: 16px;
 		}
 		#workBtn {
 			margin-top: 15px;
@@ -230,7 +229,7 @@ export default {
 				line-height: 50px;
 			}
 			#description {
-				font-size: 25px;
+				font-size: 20px;
 			}
 			#workBtn {
 				margin-top: 30px;
