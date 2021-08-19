@@ -229,8 +229,7 @@ export default {
 				line-height: 50px;
 			}
 			#description {
-				font-size: 18px;
-				line-height: 35px;
+				font-size: 20px;
 			}
 			#workBtn {
 				margin-top: 30px;
