@@ -429,7 +429,7 @@ export default {
 			}
 			.subtitle {
 				text-transform: uppercase;
-				margin: 120px 0 30px 0;
+				margin: 40px 0 30px 0;
 				font-size: 20px;
 			}
 
