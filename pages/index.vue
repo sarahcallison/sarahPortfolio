@@ -132,6 +132,7 @@ export default {
 
 		#description {
 			//display: none;
+			font-size: 16px;
 		}
 		#workBtn {
 			margin-top: 15px;
