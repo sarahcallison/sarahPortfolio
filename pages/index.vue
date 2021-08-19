@@ -230,7 +230,7 @@ export default {
 			}
 			#description {
 				font-size: 20px;
-				line-height: -5px;
+				line-height: 0px;
 			}
 			#workBtn {
 				margin-top: 30px;
