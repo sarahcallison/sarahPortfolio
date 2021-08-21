@@ -2,7 +2,7 @@
 	<div>
 		<Nav where="top" shadow="0px 8px 10px -10px #999" />
 		<div
-			style="background: #F2EDFF; position: relative; min-height: 100vh;"
+			style="background: linear-gradient(to left, #e6e8ff, #f7efff); position: relative; min-height: 100vh;"
 		>
 			<div class="container-fluid contactContainer">
 				<div class="row">
