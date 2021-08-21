@@ -209,6 +209,7 @@ export default {
 			h4 {
 				font-size: 14px;
 				letter-spacing: $tracking250;
+				text-transform: uppercase;
 			}
 
 			h2 {
