@@ -2,7 +2,7 @@
 	<div>
 		<Nav where="top" shadow="0px 8px 10px -10px #999" />
 		<div
-			style="background: #eeeeee; position: relative; min-height: 100vh;"
+			style="background: linear-gradient(to left, #f5f5f5, #d7d7d7); position: relative; min-height: 100vh;"
 		>
 			<div class="container-fluid aboutContainer">
 				<div class="row">
