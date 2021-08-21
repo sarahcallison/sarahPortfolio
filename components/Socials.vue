@@ -57,7 +57,7 @@ export default {};
 <style lang="scss" scoped>
 .socialContainer {
 	.socialImages {
-		width: 60px;
+		width: 50px;
 		transition: transform 0.4s;
 
 		&:hover {
