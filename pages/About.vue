@@ -76,7 +76,7 @@ export default {
 			font-size: 50px;
 		}
 		p {
-			margin: 0px;
+			margin: 40px 0;
 			z-index: 1;
 			width: 100%;
 		}
