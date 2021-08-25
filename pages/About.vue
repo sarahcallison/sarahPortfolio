@@ -14,7 +14,7 @@
 									Design was what I did for fun to pay for 
 									my degree in healthcare. After working several 
 									years in that field, I decided to pursue design 
-									full time because it’s still fun to me. 
+									full time. It’s still fun to me. 
 									<br />
 									<br />
 									When faced with design problems, I work to 
@@ -131,7 +131,7 @@ export default {
 	.aboutContainer {
 		.aboutTextContainer {
 			p {
-				width: 85%;
+				width: 80%;
 			}
 		}
 	}
