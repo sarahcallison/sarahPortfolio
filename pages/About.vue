@@ -11,18 +11,16 @@
 							<div class="col-11 col-lg-8">
 								<h1>Design doesn't feel like work</h1>
 								<p>
-									Design problems pose new challenges and
-									create opportunities to hone my skills. As
-									crucial as skill is to the success of a
-									project, being upbeat and treating team
-									members with respect and kindness is equally
-									important.
+									Design was what I did for fun to pay for 
+									my degree in healthcare. After working several 
+									years in that field, I decided to pursue design 
+									full time because it’s still fun to me. 
 									<br />
 									<br />
-									When I’m not designing, you can find me
-									learning to roller-skate, making (and
-									eating) desserts, or reading in a hammock
-									somewhere.
+									When faced with design problems, I work to 
+									hone my skills and grow as a designer. Read 
+									testimonials about my work in my 
+									resume. 
 								</p>
 								<GradButton title="View Resume" />
 							</div>
@@ -56,7 +54,7 @@ export default {
 				{
 					hid: "description",
 					name: "description",
-					content: "Design doesn't feel like work"
+					content: "Design doesn't feel like work. When faced with design problems, I work to hone my skills and grow as a designer. Read testimonials about my work in my resume."
 				}
 			]
 		};
