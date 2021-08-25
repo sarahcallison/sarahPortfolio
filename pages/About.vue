@@ -131,7 +131,7 @@ export default {
 	.aboutContainer {
 		.aboutTextContainer {
 			p {
-				width: 80%;
+				width: 85%;
 			}
 		}
 	}
@@ -147,7 +147,7 @@ export default {
 	.aboutContainer {
 		.aboutTextContainer {
 			p {
-				width: 100%;
+				width: 85%;
 			}
 		}
 	}
