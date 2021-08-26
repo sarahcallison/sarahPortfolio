@@ -18,8 +18,8 @@
 									<br />
 									<br />
 									When faced with design problems, I work to 
-									hone my skills and grow as a designer. Read 
-									testimonials about my work in my 
+									hone my skills and grow as a designer. You can 
+									read testimonials about my work in my 
 									resume. 
 								</p>
 								<GradButton title="View Resume" />
@@ -54,7 +54,7 @@ export default {
 				{
 					hid: "description",
 					name: "description",
-					content: "Design doesn't feel like work. When faced with design problems, I work to hone my skills and grow as a designer. Read testimonials about my work in my resume."
+					content: "Design doesn't feel like work. When faced with design problems, I work to hone my skills and grow as a designer. You can ead testimonials about my work in my resume."
 				}
 			]
 		};
