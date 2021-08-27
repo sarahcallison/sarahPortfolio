@@ -66,7 +66,7 @@ export default {};
 	}
 
 	.names {
-		font-size: 13px;
+		font-size: 11px;
 		text-transform: uppercase;
 		letter-spacing: $tracking250;
 	}
