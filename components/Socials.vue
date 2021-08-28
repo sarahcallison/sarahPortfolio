@@ -57,7 +57,7 @@ export default {};
 <style lang="scss" scoped>
 .socialContainer {
 	.socialImages {
-		width: 50px;
+		width: 45px;
 		transition: transform 0.4s;
 
 		&:hover {
@@ -66,7 +66,7 @@ export default {};
 	}
 
 	.names {
-		font-size: 11px;
+		font-size: 12px;
 		text-transform: uppercase;
 		letter-spacing: $tracking250;
 	}
