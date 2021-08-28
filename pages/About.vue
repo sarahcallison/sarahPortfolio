@@ -81,9 +81,7 @@ export default {
 	}
 }
 
-.col-11 col-lg-8 {
-	margin-left: 120px;
-}
+
 
 .aboutImgContainer {
 	.aboutImg {
@@ -155,5 +153,9 @@ export default {
 			}
 		}
 	}
+	
+	.col-11 col-lg-8 {
+	margin-left: 120px;
+}
 }
 </style>
