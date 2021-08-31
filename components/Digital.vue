@@ -81,8 +81,8 @@
 					<h2>Brandish App</h2>
 					<div class="gradLine"></div>
 					<p>
-						Fresh designs to align the look and feel of 
-						this publication with its up-to-date content
+						A high-fidelity prototype of a mobile app that 
+						teaches users how to market their brand
 					</p>
 					<NuxtLink
 						style="cursor: auto; textDecoration: none;"
@@ -138,7 +138,7 @@ export default {
 
 			p {
 				font-size: 18px;
-				width: 95%;
+				width: 90%;
 			}
 		}
 		
