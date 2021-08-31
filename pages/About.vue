@@ -134,16 +134,16 @@ export default {
 		.aboutTextContainer {
 			
 			h1 {
-			margin-left: 10%
+			margin-left: 9%
 			}
 			
 			p {
 				width: 85%;
-				margin-left: 10%
+				margin-left: 9%
 			}
 			
-			GradButton {
-				margin-left: 10%
+			#gradButton {
+				margin-left: 9%
 			}
 		}
 	}
