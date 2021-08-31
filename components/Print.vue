@@ -11,8 +11,8 @@
 					<h2>AR Space Book</h2>
 					<div class="gradLine"></div>
 					<p>
-						Data analysis and next steps for improving the
-						Telehealth user experience.
+						Print meets augmented reality to bring outer 
+						space to life in the library
 					</p>
 					<NuxtLink
 						style="cursor: auto; textDecoration: none;"
@@ -42,8 +42,8 @@
 							<h2>Graphic Design</h2>
 							<div class="gradLine ml-md-auto"></div>
 							<p id="rightText">
-								Data analysis and next steps for improving the
-								Telehealth user experience.
+								Fresh designs to align the look and feel of 
+								this publication with its up-to-date content
 							</p>
 							<NuxtLink
 								style="cursor: auto; textDecoration: none;"
