@@ -138,7 +138,6 @@ export default {
 
 			p {
 				font-size: 18px;
-				width: 90%;
 			}
 		}
 		
@@ -181,6 +180,19 @@ export default {
 					font-size: 60px;
 					font-family: "Made";
 					color: $header;
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: 992px) {
+	.main {
+		.projectContainers {
+			.textSection {
+					
+				p {
+					width: 90%;
 				}
 			}
 		}
