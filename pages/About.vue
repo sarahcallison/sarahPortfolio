@@ -54,7 +54,7 @@ export default {
 				{
 					hid: "description",
 					name: "description",
-					content: "Design doesn't feel like work. When faced with design problems, I work to hone my skills and grow as a designer. You can ead testimonials about my work in my resume."
+					content: "Design doesn't feel like work. When faced with design problems, I work to hone my skills and grow as a designer. You can read testimonials about my work in my resume."
 				}
 			]
 		};
@@ -154,8 +154,5 @@ export default {
 		}
 	}
 	
-	.col-11 col-lg-8 {
-	margin-left: 120px;
-}
 }
 </style>
