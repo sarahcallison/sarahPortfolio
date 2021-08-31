@@ -264,6 +264,10 @@ export default {
 					font-family: "Made";
 					color: $header;
 				}
+					
+				p {
+					width: 100%;
+				}
 			}
 		}
 	}
