@@ -11,8 +11,8 @@
 					<h2>Website Redesign</h2>
 					<div class="gradLine"></div>
 					<p>
-						Data analysis and next steps for improving the
-						Telehealth user experience.
+						A new brand identity and an updated website 
+						for UVU’s Academic Tutoring department
 					</p>
 					<NuxtLink
 						style="cursor: auto; textDecoration: none;"
@@ -43,7 +43,7 @@
 							<div class="gradLine ml-md-auto"></div>
 							<p id=rightText>
 								Data analysis and next steps for improving the
-								Telehealth user experience.
+								Telehealth user experience
 							</p>
 							<NuxtLink
 								style="cursor: auto; textDecoration: none;"
@@ -81,8 +81,8 @@
 					<h2>Brandish App</h2>
 					<div class="gradLine"></div>
 					<p>
-						Data analysis and next steps for improving the
-						Telehealth user experience.
+						Fresh designs to align the look and feel of 
+						this publication with its up-to-date content
 					</p>
 					<NuxtLink
 						style="cursor: auto; textDecoration: none;"
