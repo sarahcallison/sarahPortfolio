@@ -141,7 +141,7 @@ export default {
 				width: 95%;
 				display: block;
     			margin-block-start: 1em;
-    			margin-block-end: 1em;
+    			margin-block-end: 0em;
     			margin-inline-start: 0px;
    				margin-inline-end: 0px;
 			}
