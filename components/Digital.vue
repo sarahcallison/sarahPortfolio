@@ -138,6 +138,7 @@ export default {
 
 			p {
 				font-size: 18px;
+				width: 95%;
 			}
 		}
 
