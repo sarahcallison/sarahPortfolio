@@ -220,7 +220,6 @@ export default {
 
 			p {
 				font-size: 18px;
-				width: 90%;
 			}
 		}
 		
@@ -265,21 +264,18 @@ export default {
 					color: $header;
 				}
 					
-				p {
-					width: 100%;
-				}
 			}
 		}
 	}
 }
 
-@media only screen and (min-width: 320px) {
+@media only screen and (min-width: 992px) {
 	.main {
 		.projectContainers {
 			.textSection {
 					
 				p {
-					width: 100%;
+					width: 90%;
 				}
 			}
 		}
