@@ -41,7 +41,7 @@
 							<h4>Silicon Slopes Magazine</h4>
 							<h2>Graphic Design</h2>
 							<div class="gradLine ml-md-auto"></div>
-							<p>
+							<p id="rightText">
 								Data analysis and next steps for improving the
 								Telehealth user experience.
 							</p>
@@ -220,7 +220,14 @@ export default {
 
 			p {
 				font-size: 18px;
+				width: 95%;
 			}
+		}
+		
+		#rightText {
+			display: inline;
+			float: right;
+			margin-bottom: 3rem;
 		}
 
 		.gradLine {
