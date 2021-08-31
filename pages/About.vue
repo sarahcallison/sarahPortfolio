@@ -132,8 +132,18 @@ export default {
 @media only screen and (min-width: 1200px) {
 	.aboutContainer {
 		.aboutTextContainer {
+			
+			h1 {
+			margin-left: 10%
+			}
+			
 			p {
 				width: 85%;
+				margin-left: 10%
+			}
+			
+			GradButton {
+				margin-left: 10%
 			}
 		}
 	}
