@@ -145,6 +145,7 @@ export default {
 		#rightText {
 			display: inline;
 			float: right;
+			margin-bottom: 3rem;
 		}
 
 		.gradLine {
