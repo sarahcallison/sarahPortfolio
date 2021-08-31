@@ -41,7 +41,7 @@
 							<h4>Utah Valley University</h4>
 							<h2>User Research</h2>
 							<div class="gradLine ml-md-auto"></div>
-							<p>
+							<p id=rightText>
 								Data analysis and next steps for improving the
 								Telehealth user experience.
 							</p>
@@ -139,12 +139,12 @@ export default {
 			p {
 				font-size: 18px;
 				width: 95%;
-				display: block;
-    			margin-block-start: 1em;
-    			margin-block-end: 0em;
-    			margin-inline-start: 0px;
-   				margin-inline-end: 0px;
 			}
+		}
+		
+		#rightText {
+			display: inline;
+			float: right;
 		}
 
 		.gradLine {
