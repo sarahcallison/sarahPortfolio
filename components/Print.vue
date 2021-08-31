@@ -272,4 +272,17 @@ export default {
 		}
 	}
 }
+
+@media only screen and (min-width: 320px) {
+	.main {
+		.projectContainers {
+			.textSection {
+					
+				p {
+					width: 100%;
+				}
+			}
+		}
+	}
+}
 </style>
