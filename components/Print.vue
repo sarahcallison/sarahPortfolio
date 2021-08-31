@@ -42,7 +42,7 @@
 							<h2>Graphic Design</h2>
 							<div class="gradLine ml-md-auto"></div>
 							<p id="rightText">
-								Fresh designs to align the look and feel of 
+								Fresh designs to align 
 								this publication with its up-to-date content
 							</p>
 							<NuxtLink
