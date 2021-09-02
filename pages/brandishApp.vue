@@ -520,6 +520,7 @@ export default {
 			
 		.mainText p {
 				width: 700px;
+				margin: 0 auto;
 			}
 		}
 	}
