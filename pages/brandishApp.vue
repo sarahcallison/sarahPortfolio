@@ -518,7 +518,7 @@ export default {
 				margin-bottom: 100px;
 			}
 			
-		.mainText {
+		.mainText p {
 				width: 700px;
 			}
 		}
