@@ -59,7 +59,7 @@
 			</div>
 		</div>
 		<!-- Third Section -->
-		<div class="container-fluid projectContainers">
+		<div class="container-fluid projectContainers mainText">
 			<div class="row justify-content-md-center">
 				<div class="container">
 					<div class="row justify-content-md-center">
@@ -518,7 +518,7 @@ export default {
 				margin-bottom: 100px;
 			}
 			
-			.textSection {
+		.mainText {
 				width: 700px;
 			}
 		}
