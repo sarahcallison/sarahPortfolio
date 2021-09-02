@@ -517,6 +517,10 @@ export default {
 				margin-top: -500px;
 				margin-bottom: 100px;
 			}
+			
+			.textSection {
+				width: 700px;
+			}
 		}
 	}
 }
