@@ -84,6 +84,7 @@
 								tortor. Cras pretium odio nisl, eget dignissim
 								nunc commodo et.
 								<br />
+								<br />
 
 								Aliquam hendrerit vitae tortor id iaculis.
 								Vestibulum varius quam eros, sit amet mattis
@@ -102,7 +103,7 @@
 							</p>
 
 							<h4 class="text-center subtitle">Ux Framework</h4>
-							<br />
+							
 
 							<p>
 								Lorem ipsum dolor sit amet, consectetur
@@ -110,6 +111,7 @@
 								sed egestas. Nunc suscipit sem lorem, non
 								pretium risus rutrum ut. Mauris sagittis urna
 								elit.
+								<br />
 								<br />
 
 								Aliquam hendrerit vitae tortor id iaculis.
@@ -122,7 +124,7 @@
 							</p>
 
 							<h4 class="text-center subtitle">Ideation</h4>
-							<br />
+							
 
 							<p>
 								Lorem ipsum dolor sit amet, consectetur
@@ -130,6 +132,7 @@
 								sed egestas. Nunc suscipit sem lorem, non
 								pretium risus rutrum ut. Mauris sagittis urna
 								elit.
+								<br />
 								<br />
 
 								Aliquam hendrerit vitae tortor id iaculis.
@@ -142,7 +145,7 @@
 							</p>
 
 							<h4 class="text-center subtitle">Ui Design</h4>
-							<br />
+						
 
 							<p>
 								Lorem ipsum dolor sit amet, consectetur
@@ -150,6 +153,7 @@
 								sed egestas. Nunc suscipit sem lorem, non
 								pretium risus rutrum ut. Mauris sagittis urna
 								elit.
+								<br />
 								<br />
 
 								Aliquam hendrerit vitae tortor id iaculis.
@@ -162,7 +166,7 @@
 							</p>
 
 							<h4 class="text-center subtitle">Iteration</h4>
-							<br />
+							
 
 							<p>
 								Lorem ipsum dolor sit amet, consectetur
@@ -202,7 +206,7 @@
 							<h4 class="text-center subtitle">
 								Problem Solving
 							</h4>
-							<br />
+							
 
 							<p>
 								Lorem ipsum dolor sit amet, consectetur
@@ -420,7 +424,7 @@ export default {
 			}
 			.subtitle {
 				text-transform: uppercase;
-				margin: 120px 0 30px 0;
+				margin: 60px 0 30px 0;
 				font-size: 20px;
 			}
 
