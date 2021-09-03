@@ -64,7 +64,7 @@
 				<div class="container">
 					<div class="row justify-content-md-center">
 						<div
-							class="col-12 col-md-10 align-self-center px-4 px-md-0 textSection"
+							class="col-12 col-md-10 align-self-center px-4 px-md-0 textSection mainText"
 						>
 							<h2 class="text-center ">The Solution</h2>
 							<h4 class="text-center subtitle firstHeader">
@@ -518,6 +518,22 @@ export default {
 				margin-top: -200px;
 				margin-bottom: 100px;
 			}
+			
+			@media only screen and (min-width: 992px) {
+	.websiteRedesign {
+		.projectContainers {
+			#macImg {
+				margin-top: -200px;
+				margin-bottom: 100px;
+			}
+			
+			.mainText p {
+				width: 700px;
+				margin: 0 auto;
+			}
+		}
+	}
+}
 		}
 	}
 }
