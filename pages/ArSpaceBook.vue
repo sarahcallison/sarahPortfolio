@@ -12,7 +12,7 @@
 		<div class="container projectContainers" id="firstProjContainer">
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
-					<h4>Utah Valley University</h4>
+					<h4>UTAH VALLEY UNIVERSITY</h4>
 					<h2>AR Space Book</h2>
 					<div class="gradLine"></div>
 					<p>
@@ -516,6 +516,11 @@ export default {
 			#macImg {
 				margin-top: -200px;
 				margin-bottom: 100px;
+			}
+			
+			.mainText p {
+				width: 700px;
+				margin: 0 auto;
 			}
 		}
 	}
