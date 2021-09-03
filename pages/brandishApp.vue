@@ -413,7 +413,7 @@ export default {
 	}
 	
 	#lessons {
-		paddint-top: 30px;
+		padding-top: 30px;
 	}
 
 	.projectContainers {
@@ -447,11 +447,11 @@ export default {
 			}
 			
 			#problemHeader {
-				margin-bottom: 40px;
+				margin-bottom: 35px;
 			}
 			
 			.smallerHeader {
-				font-size: 40px;
+				font-size: 45px;
 			}
 
 			p {
@@ -535,7 +535,7 @@ export default {
 				margin: 0 auto;
 			}
 			
-		.highFidFext {
+		.highFidText {
 				margin-bottom: 2rem;
 			}
 		
