@@ -137,7 +137,7 @@ export default {
 			}
 
 			p {
-				font-size: 18px;
+				font-size: 16px;
 			}
 		}
 		
@@ -177,7 +177,7 @@ export default {
 				}
 
 				h2 {
-					font-size: 60px;
+					font-size: 50px;
 					font-family: "Made";
 					color: $header;
 				}
