@@ -12,7 +12,7 @@
 		<div class="container projectContainers" id="firstProjContainer">
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
-					<h4>Utah Valley University</h4>
+					<h4>UTAH VALLEY UNIVERSITY</h4>
 					<h2>Website Redesign</h2>
 					<div class="gradLine"></div>
 					<p>
@@ -510,16 +510,8 @@ export default {
 		}
 	}
 }
-
-@media only screen and (min-width: 992px) {
-	.websiteRedesign {
-		.projectContainers {
-			#macImg {
-				margin-top: -200px;
-				margin-bottom: 100px;
-			}
 			
-			@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 992px) {
 	.websiteRedesign {
 		.projectContainers {
 			#macImg {
@@ -534,7 +526,5 @@ export default {
 		}
 	}
 }
-		}
-	}
-}
+
 </style>
