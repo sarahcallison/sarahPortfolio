@@ -239,7 +239,7 @@
 			<div class="row justify-content-md-center">
 				<div class="container">
 					<div
-						class="col-12 align-self-center px-4 px-md-0 textSection id=lessons"
+						class="col-12 align-self-center px-4 px-md-0 textSection" id="lessons"
 					>
 						<h4 class="text-center subtitle firstHeader">
 							Lessons Learned
@@ -476,9 +476,6 @@ export default {
 				margin-top: 25px;
 			}
 
-			.highFidText {
-				margin-bottom: -25px;
-			}
 		}
 
 		.gradLine {
