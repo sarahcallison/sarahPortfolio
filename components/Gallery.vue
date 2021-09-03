@@ -383,7 +383,7 @@ export default {
 			padding-right: 50px;
 
 			h4 {
-				font-size: 14px;
+				font-size: 15px;
 				letter-spacing: $tracking250;
 			}
 
@@ -424,12 +424,12 @@ export default {
 				padding-right: 15px;
 
 				h4 {
-					font-size: 16px;
+					font-size: 15px;
 					letter-spacing: $tracking250;
 				}
 
 				h2 {
-					font-size: 60px;
+					font-size: 50px;
 					font-family: "Made";
 					color: $header;
 				}
