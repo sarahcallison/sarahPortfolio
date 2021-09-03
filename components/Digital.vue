@@ -172,7 +172,7 @@ export default {
 				padding-right: 15px;
 
 				h4 {
-					font-size: 16px;
+					font-size: 14px;
 					letter-spacing: $tracking250;
 				}
 
