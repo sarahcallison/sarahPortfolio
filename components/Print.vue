@@ -219,7 +219,7 @@ export default {
 			}
 
 			p {
-				font-size: 18px;
+				font-size: 16px;
 			}
 		}
 		
@@ -227,6 +227,7 @@ export default {
 			display: inline;
 			float: right;
 			margin-bottom: 3rem;
+			margin-left: 15%;
 		}
 
 		.gradLine {
