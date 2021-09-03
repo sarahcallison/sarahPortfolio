@@ -68,7 +68,7 @@
 			<div class="row ">
 				<div class="container">
 					<div class="row justify-content-md-center">
-						<div class="col-12 col-md-10 px-4 textSection mainText">
+						<div class="col-12 col-md-10 align-self-center px-4 px-md-0 textSection mainText">
 							<h2 class="text-center ">The Solution</h2>
 							<h4 class="text-center subtitle firstHeader">
 								Research
