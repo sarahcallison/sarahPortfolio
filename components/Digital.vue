@@ -95,7 +95,7 @@
 					<img
 						class="img-fluid"
 						src="@/assets/images/brandishApp.png"
-						alt="image of mac computer"
+						alt="image of brandish app on smartphone"
 					/>
 				</div>
 			</div>
@@ -145,6 +145,7 @@ export default {
 			display: inline;
 			float: right;
 			margin-bottom: 3rem;
+			margin-left: 15%;
 		}
 
 		.gradLine {
