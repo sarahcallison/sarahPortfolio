@@ -125,7 +125,7 @@ export default {
 			padding-right: 50px;
 
 			h4 {
-				font-size: 14px;
+				font-size: 15px;
 				letter-spacing: $tracking250;
 				text-transform: uppercase;
 			}
@@ -172,7 +172,7 @@ export default {
 				padding-right: 15px;
 
 				h4 {
-					font-size: 14px;
+					font-size: 15px;
 					letter-spacing: $tracking250;
 				}
 
@@ -192,7 +192,7 @@ export default {
 			.textSection {
 					
 				p {
-					width: 90%;
+					width: 85%;
 				}
 			}
 		}
