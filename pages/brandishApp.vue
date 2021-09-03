@@ -39,7 +39,7 @@
 						<div
 							class="col-12 col-md-7 col-lg-6 order-md-1 align-self-center  textSection"
 						>
-							<h2>The Problem</h2>
+							<h2 id="problemHeader" class="smallerHeader">The Problem</h2>
 							<p>
 								Lorem ipsum dolor sit amet, consectetur
 								adipiscing elit. Nullam dapibus convallis sapien
@@ -66,7 +66,7 @@
 						<div
 							class="col-12 col-md-10 align-self-center px-4 px-md-0 textSection mainText"
 						>
-							<h2 class="text-center ">The Solution</h2>
+							<h2 class="text-center smallerHeader">The Solution</h2>
 							<h4 class="text-center subtitle firstHeader">
 								Research
 							</h4>
@@ -239,7 +239,7 @@
 			<div class="row justify-content-md-center">
 				<div class="container">
 					<div
-						class="col-12 align-self-center px-4 px-md-0 textSection"
+						class="col-12 align-self-center px-4 px-md-0 textSection id=lessons"
 					>
 						<h4 class="text-center subtitle firstHeader">
 							Lessons Learned
@@ -411,6 +411,10 @@ export default {
 	#firstProjContainer {
 		padding-bottom: 200px;
 	}
+	
+	#lessons {
+		paddint-top: 30px;
+	}
 
 	.projectContainers {
 		padding-top: 100px;
@@ -440,6 +444,14 @@ export default {
 				font-size: 50px;
 				font-family: "Made";
 				color: $header;
+			}
+			
+			#problemHeader {
+				margin-bottom: 40px;
+			}
+			
+			.smallerHeader {
+				font-size: 40px;
 			}
 
 			p {
@@ -522,6 +534,11 @@ export default {
 				width: 700px;
 				margin: 0 auto;
 			}
+			
+		.highFidFext {
+				margin-bottom: 2rem;
+			}
+		
 		}
 	}
 }
