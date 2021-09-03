@@ -12,7 +12,7 @@
 		<div class="container projectContainers">
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
-					<h4>Utah Valley University</h4>
+					<h4>UTAH VALLEY UNIVERSITY</h4>
 					<h2>User Research</h2>
 					<div class="gradLine"></div>
 					<p>
