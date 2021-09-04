@@ -427,7 +427,7 @@ export default {
 			
 	.problemText {
 		padding-top: 50px;
-		paddint-bottom: 50px;
+		padding-bottom: 50px;
 	}
 
 	.projectContainers {
@@ -435,8 +435,8 @@ export default {
 		padding-bottom: 100px;
 
 		#macImg {
-			margin-top: 0x;
-			margin-bottom: 0px;
+			margin-top: -260px;
+			margin-bottom: 100px;
 		}
 
 		.textSection {
