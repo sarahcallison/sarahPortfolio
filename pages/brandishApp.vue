@@ -413,12 +413,17 @@ export default {
 	}
 	
 	#solutionHeader {
-		padding-top: 125px;
+		padding-top: 25px;
 	}
 	
 	#lessons {
 		padding-top: 30px;
 	}
+	
+	#problemContainer {
+				padding-top: 0;
+				padding-bottom: 0;
+			}
 
 	.projectContainers {
 		padding-top: 100px;
@@ -540,10 +545,6 @@ export default {
 				margin-bottom: 2rem;
 			}
 			
-		#problemContainer {
-				padding-top: 0;
-				padding-bottom: 0;
-			}
 		
 		}
 	}
