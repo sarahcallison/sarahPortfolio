@@ -412,11 +412,6 @@ export default {
 		padding-bottom: 100px;
 	}
 	
-	#problemContainer {
-		padding-top: 50px;
-		padding-bottom: 50px;
-	}
-	
 	#solutionHeader {
 		padding-top: 125px;
 	}
@@ -543,6 +538,11 @@ export default {
 			
 		.highFidText {
 				margin-bottom: 2rem;
+			}
+			
+		#problemContainer {
+				padding-top: 0;
+				padding-bottom: 0;
 			}
 		
 		}
