@@ -9,7 +9,7 @@
 			/>
 		</div>
 		<!-- First Section -->
-		<div class="container projectContainers" id="firstProjContainer id="problemContainer">
+		<div class="container projectContainers" id="firstProjContainer">
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
 					<h4>UTAH VALLEY UNIVERSITY</h4>
@@ -22,7 +22,7 @@
 			</div>
 		</div>
 		<!-- Second Section -->
-		<div class="container-fluid infoColor projectContainers">
+		<div class="container-fluid infoColor projectContainers id="problemContainer">
 			<div class="row">
 				<div class="container">
 					<div class="row ">
