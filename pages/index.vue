@@ -22,7 +22,7 @@
 						srcset="@/assets/images/heroHeaderDesktop.jpg"
 					/>
 					<img
-						src="@/assets/images/heroHeaderMobile.jpg"
+						src="@/assets/images/mobileHeader.jpg"
 						alt="Image of Sarah"
 						class="img-fluid jumboImage"
 					/>
