@@ -537,7 +537,7 @@ export default {
 	.brandishApp {
 		.projectContainers {
 			#macImg {
-				margin-top: -500px;
+				margin-top: -300px;
 				margin-bottom: 100px;
 			}
 			
