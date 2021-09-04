@@ -27,7 +27,7 @@
 				<div class="container">
 					<div class="row ">
 						<div
-							class="col-12 col-md-5 col-lg-6 order-md-2 align-self-center"
+							class="col-12 col-md-5 col-lg-6 order-md-2 align-self-center id="problemContainer"
 						>
 							<img
 								class="img-fluid"
@@ -37,7 +37,7 @@
 							/>
 						</div>
 						<div
-							class="col-12 col-md-7 col-lg-6 order-md-1 align-self-center  textSection" id="problemContainer"
+							class="col-12 col-md-7 col-lg-6 order-md-1 align-self-center  textSection"
 						>
 							<h2 id="problemHeader" class="smallerHeader">The Problem</h2>
 							<p>
