@@ -9,7 +9,7 @@
 			/>
 		</div>
 		<!-- First Section -->
-		<div class="container projectContainers" id="firstProjContainer">
+		<div class="container projectContainers" id="firstProjContainer id="problemContainer">
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
 					<h4>UTAH VALLEY UNIVERSITY</h4>
@@ -27,7 +27,7 @@
 				<div class="container">
 					<div class="row ">
 						<div
-							class="col-12 col-md-5 col-lg-6 order-md-2 align-self-center id="problemContainer"
+							class="col-12 col-md-5 col-lg-6 order-md-2 align-self-center"
 						>
 							<img
 								class="img-fluid"
