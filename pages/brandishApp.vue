@@ -37,7 +37,7 @@
 							/>
 						</div>
 						<div
-							class="col-12 col-md-7 col-lg-6 order-md-1 align-self-center  textSection"
+							class="col-12 col-md-7 col-lg-6 order-md-1 align-self-center  textSection problemText"
 						>
 							<h2 id="problemHeader" class="smallerHeader">The Problem</h2>
 							<p>
@@ -424,14 +424,19 @@ export default {
 				padding-top: 0;
 				padding-bottom: 0;
 			}
+			
+	.problemText {
+		padding-top: 50px;
+		paddint-bottom: 50px;
+	}
 
 	.projectContainers {
 		padding-top: 100px;
 		padding-bottom: 100px;
 
 		#macImg {
-			margin-top: -250px;
-			margin-bottom: 100px;
+			margin-top: 0x;
+			margin-bottom: 0px;
 		}
 
 		.textSection {
