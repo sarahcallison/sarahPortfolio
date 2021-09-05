@@ -532,14 +532,17 @@ export default {
 					font-family: "Made";
 					color: $header;
 				}
-				
-			.mainText p {
+			}
+		}
+		
+		p {
+			font-size: 16px;
+		}
+		
+		.mainText p {
 				width: 700px;
 				margin: 0 auto;
 			}
-			
-			}
-		}
 	}
 }
 
