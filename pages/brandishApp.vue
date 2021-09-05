@@ -511,15 +511,17 @@ export default {
 
 @media only screen and (min-width: 768px) {
 	.brandishApp {
+	
+			p {
+				font-size: 16px;
+			}
+			
 		.projectContainers {
 			#macImg {
 				margin-top: -400px;
 				margin-bottom: 0;
 			}
 			
-			p {
-				font-size: 16px;
-			}
 
 			.textSection {
 				h4 {
@@ -534,15 +536,6 @@ export default {
 				}
 			}
 		}
-		
-		p {
-			font-size: 16px;
-		}
-		
-		.mainText p {
-				width: 700px;
-				margin: 0 auto;
-			}
 	}
 }
 
