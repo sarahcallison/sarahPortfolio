@@ -516,6 +516,10 @@ export default {
 				margin-top: -400px;
 				margin-bottom: 0;
 			}
+			
+			p {
+				font-size: 16px;
+			}
 
 			.textSection {
 				h4 {
@@ -528,6 +532,12 @@ export default {
 					font-family: "Made";
 					color: $header;
 				}
+				
+			.mainText p {
+				width: 700px;
+				margin: 0 auto;
+			}
+			
 			}
 		}
 	}
