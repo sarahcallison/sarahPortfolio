@@ -22,7 +22,7 @@
 			</div>
 		</div>
 		<!-- Second Section -->
-		<div class="container-fluid infoColor projectContainers id="problemContainer"">
+		<div class="container-fluid infoColor projectContainers id="problemContainer">
 			<div class="row">
 				<div class="container">
 					<div class="row ">
