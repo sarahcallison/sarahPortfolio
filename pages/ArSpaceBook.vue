@@ -1,6 +1,6 @@
 <template>
 	<!-- websiteRedesign Content -->
-	<div class="websiteRedesign">
+	<div class="arSpaceBook">
 		<div @click="$router.go(-1)" class="close">
 			<img
 				id="closeImg"
@@ -22,7 +22,7 @@
 			</div>
 		</div>
 		<!-- Second Section -->
-		<div class="container-fluid infoColor projectContainers">
+		<div class="container-fluid infoColor projectContainers id="problemContainer"">
 			<div class="row">
 				<div class="container">
 					<div class="row ">
@@ -37,9 +37,9 @@
 							/>
 						</div>
 						<div
-							class="col-12 col-md-7 col-lg-6 order-md-1 align-self-center  textSection"
+							class="col-12 col-md-7 col-lg-6 order-md-1 align-self-center  textSection problemText"
 						>
-							<h2>The Problem</h2>
+							<h2 id="problemHeader" class="smallerHeader">The Problem</h2>
 							<p>
 								Lorem ipsum dolor sit amet, consectetur
 								adipiscing elit. Nullam dapibus convallis sapien
@@ -66,7 +66,7 @@
 						<div
 							class="col-12 col-md-10 align-self-center px-4 px-md-0 textSection mainText"
 						>
-							<h2 class="text-center ">The Solution</h2>
+							<h2 class="text-center smallerHeader">The Solution</h2>
 							<h4 class="text-center subtitle firstHeader">
 								Research
 							</h4>
@@ -236,7 +236,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="container-fluid projectContainers infoColor">
+		<div class="container-fluid projectContainers infoColor id="lessons">
 			<div class="row justify-content-md-center">
 				<div class="container">
 					<div
@@ -327,7 +327,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.websiteRedesign {
+.arSpaceBook {
 	color: black;
 
 	.noNav {
@@ -411,6 +411,38 @@ export default {
 	#firstProjContainer {
 		padding-bottom: 200px;
 	}
+	
+	#firstProjContainer {	
+		padding-bottom: 100px;
+	}
+	
+	#solutionHeader {
+		padding-top: 25px;
+	}
+	
+	#lessons {
+		padding-top: 30px;
+	}
+	
+	#problemContainer {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+	
+	.problemText {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	
+	
+#problemHeader {	
+	margin-bottom: 35px;
+	}
+	
+	.smallerHeader {
+	font-size: 45px;
+	}
+
 
 	.projectContainers {
 		padding-top: 100px;
@@ -487,7 +519,7 @@ export default {
 }
 
 @media only screen and (min-width: 768px) {
-	.websiteRedesign {
+	.arSpaceBook {
 		.projectContainers {
 			#macImg {
 				margin-top: 0;
@@ -511,16 +543,20 @@ export default {
 }
 
 @media only screen and (min-width: 992px) {
-	.websiteRedesign {
+	.arSpaceBook {
 		.projectContainers {
 			#macImg {
-				margin-top: -200px;
+				margin-top: -300px;
 				margin-bottom: 100px;
 			}
 			
 			.mainText p {
 				width: 700px;
 				margin: 0 auto;
+			}
+			
+			.highFidText {
+				margin-bottom: 2rem;
 			}
 		}
 	}
