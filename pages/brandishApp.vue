@@ -66,7 +66,7 @@
 						<div
 							class="col-12 col-md-10 align-self-center px-4 px-md-0 textSection mainText"
 						>
-							<h2 class="text-center smallerHeader" id="solutionHeader">The Solution</h2>
+							<h2 class="text-center smallerHeader">The Solution</h2>
 							<h4 class="text-center subtitle firstHeader">
 								Research
 							</h4>
@@ -410,10 +410,6 @@ export default {
 
 	#firstProjContainer {
 		padding-bottom: 100px;
-	}
-	
-	#solutionHeader {
-		padding-top: 25px;
 	}
 	
 	#lessons {
