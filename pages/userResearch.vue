@@ -437,7 +437,7 @@ export default {
 	font-size: 45px;
 	}
 	
-	.solutionHeader {
+	#solutionHeader {
 	font-size: 45px;
 	}
 
