@@ -239,7 +239,7 @@
 			<div class="row justify-content-md-center">
 				<div class="container">
 					<div
-						class="col-12 align-self-center px-4 px-md-0 textSection"
+						class="col-12 align-self-center px-4 px-md-0 textSection mainText"
 					>
 						<h4 class="text-center subtitle firstHeader">
 							Lessons Learned
