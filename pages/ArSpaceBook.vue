@@ -236,7 +236,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="container-fluid projectContainers infoColor id="lessons">
+		<div class="container-fluid projectContainers infoColor" id="lessons">
 			<div class="row justify-content-md-center">
 				<div class="container">
 					<div
@@ -408,9 +408,6 @@ export default {
 		}
 	}
 
-	#firstProjContainer {
-		padding-bottom: 200px;
-	}
 	
 	#firstProjContainer {	
 		padding-bottom: 100px;
