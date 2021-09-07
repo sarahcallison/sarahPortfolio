@@ -432,13 +432,9 @@ export default {
 	}
 	
 	
-#problemHeader {	
-	margin-bottom: 35px;
-	}
-	
-	.smallerHeader {
-	font-size: 45px;
-	}
+	#problemHeader {	
+		margin-bottom: 35px;
+		}
 
 
 	.projectContainers {
@@ -448,6 +444,10 @@ export default {
 		#macImg {
 			margin-top: -200px;
 			margin-bottom: 100px;
+		}
+		
+		.smallerHeader {
+			font-size: 45px;
 		}
 
 		.textSection {
