@@ -37,7 +37,7 @@
 							/>
 						</div>
 						<div
-							class="col-12 col-md-7 col-lg-6 order-md-1 align-self-center  textSection mainText"
+							class="col-12 col-md-7 col-lg-6 order-md-1 align-self-center  textSection"
 						>
 							<h2 id="problemHeader">The Problem</h2>
 							<p>
