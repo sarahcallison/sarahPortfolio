@@ -507,7 +507,7 @@ export default {
 }
 
 @media only screen and (min-width: 320px) {
-	.arSpaceBook {
+	.graphicDesign {
 	
 			#firstProjContainer {
 				padding-bottom: 200px;
