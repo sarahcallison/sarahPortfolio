@@ -39,7 +39,7 @@
 						<div
 							class="col-12 col-md-7 col-lg-6 order-md-1 align-self-center  textSection problemText"
 						>
-							<h2 id="problemHeader" class="smallerHeader">The Problem</h2>
+							<h2 id="problemHeader">The Problem</h2>
 							<p>
 								Lorem ipsum dolor sit amet, consectetur
 								adipiscing elit. Nullam dapibus convallis sapien
@@ -66,7 +66,7 @@
 						<div
 							class="col-12 col-md-10 align-self-center px-4 px-md-0 textSection mainText"
 						>
-							<h2 class="text-center smallerHeader">The Solution</h2>
+							<h2 class="text-center" id="solutionHeader">The Solution</h2>
 							<h4 class="text-center subtitle firstHeader">
 								Research
 							</h4>
@@ -240,7 +240,7 @@
 			<div class="row justify-content-md-center">
 				<div class="container">
 					<div
-						class="col-12 align-self-center px-4 px-md-0 textSection"
+						class="col-12 align-self-center px-4 px-md-0 textSection mainText"
 					>
 						<h4 class="text-center subtitle firstHeader">
 							Lessons Learned
@@ -424,10 +424,15 @@ export default {
 	#problemContainer {
 		padding-top: 0;
 		padding-bottom: 0;
+		font-size: 45px;
+	}
+	
+	#solutionHeader {
+		font-size: 45px;
 	}
 	
 	.problemText {
-		padding-top: 50px;
+		padding-top: 75px;
 		padding-bottom: 50px;
 	}
 	
