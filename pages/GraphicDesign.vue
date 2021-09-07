@@ -506,6 +506,33 @@ export default {
 	}
 }
 
+@media only screen and (min-width: 320px) {
+	.arSpaceBook {
+	
+			#firstProjContainer {
+				padding-bottom: 200px;
+			}
+			
+			#problemContainer {
+				padding-top: 100px;
+				padding-bottom: 100px;
+			}
+			
+			.problemText {
+				padding-top: 0px;
+				padding-bottom: 0px;
+			}
+			
+			.projectContainers {
+			#macImg {
+				margin-top: -200px;
+				margin-bottom: 100;
+			}
+			}
+		
+	}
+}
+
 @media only screen and (min-width: 768px) {
 	.graphicDesign {
 		.projectContainers {
