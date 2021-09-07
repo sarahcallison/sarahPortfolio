@@ -22,7 +22,7 @@
 			</div>
 		</div>
 		<!-- Second Section -->
-		<div class="container-fluid infoColor projectContainers">
+		<div class="container-fluid infoColor projectContainers" id="problemContainer">
 			<div class="row">
 				<div class="container">
 					<div class="row ">
@@ -42,9 +42,9 @@
 							</picture>
 						</div>
 						<div
-							class="col-12 col-md-7 col-lg-6 order-md-1 align-self-center  textSection"
+							class="col-12 col-md-7 col-lg-6 order-md-1 align-self-center textSection problemText"
 						>
-							<h2>The Problem</h2>
+							<h2 id="problemHeader">The Problem</h2>
 							<p>
 								Lorem ipsum dolor sit amet, consectetur
 								adipiscing elit. Nullam dapibus convallis sapien
@@ -69,7 +69,7 @@
 				<div class="container">
 					<div class="row justify-content-md-center">
 						<div class="col-12 col-md-10 align-self-center px-4 px-md-0 textSection mainText">
-							<h2 class="text-center ">The Solution</h2>
+							<h2 class="text-center" id="solutionHeader">The Solution</h2>
 							<h4 class="text-center subtitle firstHeader">
 								Research
 							</h4>
@@ -240,11 +240,11 @@
 				</div>
 			</div>
 		</div>
-		<div class="container-fluid projectContainers infoColor">
+		<div class="container-fluid projectContainers infoColor" id="lessons">
 			<div class="row justify-content-md-center">
 				<div class="container">
 					<div
-						class="col-12 align-self-center px-4 px-md-0 textSection"
+						class="col-12 align-self-center px-4 px-md-0 textSection mainText"
 					>
 						<h4 class="text-center subtitle firstHeader">
 							Lessons Learned
@@ -412,6 +412,35 @@ export default {
 			}
 		}
 	}
+	
+	#firstProjContainer {	
+		padding-bottom: 100px;
+	}
+	
+	#lessons {
+		padding-top: 30px;
+	}
+	
+	#problemContainer {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+	
+	.problemText {
+		padding-top: 75px;
+		padding-bottom: 50px;
+	}
+	
+	
+#problemHeader {	
+	margin-bottom: 35px;
+	font-size: 45px;
+	}
+	
+	.solutionHeader {
+	font-size: 45px;
+	}
+
 
 	.projectContainers {
 		padding-top: 100px;
@@ -460,9 +489,6 @@ export default {
 				margin-top: 25px;
 			}
 
-			.highFidText {
-				margin-bottom: -25px;
-			}
 		}
 
 		.gradLine {
@@ -505,13 +531,17 @@ export default {
 	.userResearch {
 		.projectContainers {
 			#macImg {
-				margin-top: -200px;
+				margin-top: -300px;
 				margin-bottom: 100px;
 			}
 			
 			.mainText p {
 				width: 700px;
 				margin: 0 auto;
+				
+			.highFidText {
+				margin-bottom: 2rem;
+				}
 			}
 		}
 	}
