@@ -492,10 +492,6 @@ export default {
 				text-transform: uppercase;
 				margin-top: 25px;
 			}
-
-			.highFidText {
-				margin-bottom: -25px;
-			}
 		}
 
 		.gradLine {
