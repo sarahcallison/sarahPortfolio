@@ -513,7 +513,7 @@ export default {
 }
 
 @media only screen and (min-width: 320px) {
-	.brandishApp {
+	.arSpaceBook {
 	
 			#firstProjContainer {
 				padding-bottom: 200px;
