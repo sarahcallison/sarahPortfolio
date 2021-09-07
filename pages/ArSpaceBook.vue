@@ -414,7 +414,6 @@ export default {
 	}
 	
 	#solutionHeader {
-		padding-top: 25px;
 		font-size: 45px;
 	}
 	
