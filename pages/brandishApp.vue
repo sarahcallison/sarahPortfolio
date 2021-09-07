@@ -517,6 +517,11 @@ export default {
 				padding-bottom: 100px;
 			}
 			
+			.problemText {
+				padding-top: 0px;
+				padding-bottom: 0px;
+			}
+			
 			.projectContainers {
 			#macImg {
 				margin-top: -250px;
