@@ -507,7 +507,7 @@ export default {
 }
 
 @media only screen and (min-width: 768px) {
-	.websiteRedesign {
+	.graphicDesign {
 		.projectContainers {
 			#macImg {
 				margin-top: 0;
@@ -531,7 +531,7 @@ export default {
 }
 
 @media only screen and (min-width: 992px) {
-	.websiteRedesign {
+	.graphicDesign {
 		.projectContainers {
 			#macImg {
 				margin-top: -300px;
