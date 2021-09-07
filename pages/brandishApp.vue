@@ -517,6 +517,7 @@ export default {
 				margin-top: -250px;
 				margin-bottom: 100;
 			}
+			}
 		
 	}
 }
