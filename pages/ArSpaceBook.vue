@@ -415,6 +415,7 @@ export default {
 	
 	#solutionHeader {
 		padding-top: 25px;
+		font-size: 45px;
 	}
 	
 	#lessons {
@@ -424,11 +425,6 @@ export default {
 	#problemContainer {
 		padding-top: 0;
 		padding-bottom: 0;
-		font-size: 45px;
-	}
-	
-	#solutionHeader {
-		font-size: 45px;
 	}
 	
 	.problemText {
@@ -439,6 +435,7 @@ export default {
 	
 	#problemHeader {	
 		margin-bottom: 35px;
+		font-size: 45px;
 		}
 
 
