@@ -505,6 +505,23 @@ export default {
 	}
 }
 
+@media only screen and (min-width: 320px) {
+	.brandishApp {
+	
+			#firstProjContainer {
+				padding-bottom: 200px;
+			}
+			
+			.projectContainers {
+			#macImg {
+				margin-top: -250px;
+				margin-bottom: 100;
+			}
+		
+	}
+}
+
+
 @media only screen and (min-width: 768px) {
 	.brandishApp {
 	
