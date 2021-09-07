@@ -508,6 +508,26 @@ export default {
 	}
 }
 
+@media only screen and (min-width: 320px) {
+	.userResearch {
+	
+			#firstProjContainer {
+				padding-bottom: 200px;
+			}
+			
+			#problemContainer {
+				padding-top: 100px;
+				padding-bottom: 100px;
+			}
+			
+			.problemText {
+				padding-top: 0px;
+				padding-bottom: 0px;
+			}
+		
+	}
+}
+
 @media only screen and (min-width: 768px) {
 	.userResearch {
 		.projectContainers {
