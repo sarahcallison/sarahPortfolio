@@ -93,12 +93,12 @@
 						<img
 							class="img-fluid"
 							src="@/assets/images/gallery/hypeGif.jpg"
-							alt="image of mac computer"
+							alt="image of Audrey Hepburn"
 						/>
 					</NuxtLink>
 
 					<p class="text-center px-1 mt-3">
-						Original GIF created in Hype
+						Original animation created in Hype
 					</p>
 				</div>
 				<div
@@ -115,12 +115,12 @@
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/hypeGif.jpg"
-							alt="image of mac computer"
+							src="@/assets/images/gallery/tagline.jpg"
+							alt="image of girl studying"
 						/>
 					</NuxtLink>
 					<p class="text-center px-1 mt-3">
-						Original GIF created in Hype
+						Tagline animation for UVU Academic Tutoring
 					</p>
 				</div>
 				<div
@@ -137,12 +137,12 @@
 					>
 						<img
 							class="img-fluid "
-							src="@/assets/images/gallery/hypeGif.jpg"
-							alt="image of mac computer"
+							src="@/assets/images/gallery/compilation.jpg"
+							alt="image of animated tacos"
 						/>
 					</NuxtLink>
 					<p class="text-center px-1 mt-3">
-						Original GIF created in Hype
+						Compilation of short animations for UVU Academic Tutoring
 					</p>
 				</div>
 			</div>
@@ -167,7 +167,7 @@
 						<img
 							class="img-fluid"
 							src="@/assets/images/gallery/deeganOnFire.jpg"
-							alt="image of mac computer"
+							alt="image of Brian Deegan"
 						/>
 					</NuxtLink>
 					<p class="text-center px-1 mt-3">
@@ -189,13 +189,12 @@
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/deeganOnFire.jpg"
-							alt="image of mac computer"
+							src="@/assets/images/gallery/podcast.jpg"
+							alt="image of equalizer"
 						/>
 					</NuxtLink>
 					<p class="text-center px-1 mt-3">
-						Video created in Photoshop - original footage &copy;
-						Brian Deegan
+						Original podcast edited in Audition and hosted on Anchor
 					</p>
 				</div>
 				<div
@@ -212,13 +211,12 @@
 					>
 						<img
 							class="img-fluid "
-							src="@/assets/images/gallery/deeganOnFire.jpg"
-							alt="image of mac computer"
+							src="@/assets/images/gallery/veggie.jpg"
+							alt="image of lettuce in space"
 						/>
 					</NuxtLink>
 					<p class="text-center px-1 mt-3">
-						Video created in Photoshop - original footage &copy;
-						Brian Deegan
+						Video created in Hype and Premier Pro
 					</p>
 				</div>
 			</div>
