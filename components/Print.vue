@@ -85,7 +85,7 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `/print/cardMockUp` }
+							params: { img: `/print/showerCard` }
 						}"
 					>
 						<img
