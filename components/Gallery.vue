@@ -115,7 +115,7 @@
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/tagline.jpg"
+							src="@/assets/images/gallery/taglineVid.jpg"
 							alt="image of girl studying"
 						/>
 					</NuxtLink>
