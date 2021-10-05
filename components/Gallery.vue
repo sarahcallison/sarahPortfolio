@@ -98,7 +98,7 @@
 					</NuxtLink>
 
 					<p class="text-center px-1 mt-3">
-						Original animation created in Hype
+						Motion graphic created in Hype
 					</p>
 				</div>
 				<div
@@ -120,7 +120,7 @@
 						/>
 					</NuxtLink>
 					<p class="text-center px-1 mt-3">
-						Tagline animation for UVU Academic Tutoring
+						Tagline animation created for UVU Academic Tutoring
 					</p>
 				</div>
 				<div
@@ -194,7 +194,7 @@
 						/>
 					</NuxtLink>
 					<p class="text-center px-1 mt-3">
-						Original podcast edited in Audition and hosted on Anchor
+						Original podcast hosted on Anchor
 					</p>
 				</div>
 				<div
@@ -216,7 +216,8 @@
 						/>
 					</NuxtLink>
 					<p class="text-center px-1 mt-3">
-						Video created in Hype and Premier Pro
+						Video edited in Premier Pro - original footage &copy;
+						NASA
 					</p>
 				</div>
 			</div>
@@ -275,13 +276,13 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'protegeThumbnail'
+								img: 'mightyFicusThumbnail'
 							}
 						}"
 					>
 						<img
 							class="img-fluid "
-							src="@/assets/images/gallery/protegeThumbnail.jpg"
+							src="@/assets/images/gallery/mightyFicusThumbnail.jpg"
 							alt="image of illustration"
 						/>
 					</NuxtLink>
@@ -292,7 +293,7 @@
 				>
 					<NuxtLink
 						class="toImageNuxtLink"
-						url="@/assets/images/gallery/summerThumbnailNew.jpg"
+						url="@/assets/images/gallery/timothy.jpg"
 						:to="{
 							name: 'ImgBackground',
 							params: {
@@ -313,17 +314,17 @@
 				>
 					<NuxtLink
 						class="toImageNuxtLink"
-						url="@/assets/images/gallery/physicsThumbnail.jp"
+						url="@/assets/images/gallery/protegeThumbnail.jp"
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'physicsThumbnail'
+								img: 'protegeThumbnail'
 							}
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/physicsThumbnail.jpg"
+							src="@/assets/images/gallery/protegeThumbnail.jpg"
 							alt="image of illustration"
 						/>
 					</NuxtLink>
@@ -334,17 +335,17 @@
 				>
 					<NuxtLink
 						class="toImageNuxtLink"
-						url="@/assets/images/gallery/mightyFicusThumbnail.jpg"
+						url="@/assets/images/gallery/physicsThumbnail.jpg"
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'mightyFicusThumbnail'
+								img: 'physicsThumbnail'
 							}
 						}"
 					>
 						<img
 							class="img-fluid "
-							src="@/assets/images/gallery/mightyFicusThumbnail.jpg"
+							src="@/assets/images/gallery/physicsThumbnail.jpg"
 							alt="image of illustration"
 						/>
 					</NuxtLink>
