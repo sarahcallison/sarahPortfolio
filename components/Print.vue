@@ -102,7 +102,7 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `/print/greenSpread` }
+							params: { img: `/print/showerCard` }
 						}"
 					>
 						<img
@@ -119,7 +119,7 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `/print/petals` }
+							params: { img: `/print/showerCard` }
 						}"
 					>
 						<img
@@ -136,7 +136,7 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `/print/plantAndPencil` }
+							params: { img: `/print/showerCard` }
 						}"
 					>
 						<img
@@ -153,7 +153,7 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `/print/roses` }
+							params: { img: `/print/showerCard` }
 						}"
 					>
 						<img
@@ -170,7 +170,7 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `/print/rosesAndLeaves` }
+							params: { img: `/print/rshowerCard` }
 						}"
 					>
 						<img
