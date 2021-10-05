@@ -23,7 +23,7 @@
 						<img
 							class="img-fluid"
 							src="~/assets/images/gallery/tabletMag.jpg"
-							alt="image of mac computer"
+							alt="image of tablet magazine"
 						/>
 					</NuxtLink>
 
@@ -41,7 +41,7 @@
 						<img
 							class="img-fluid"
 							src="~/assets/images/gallery/interactiveInfographicThumbnail.jpg"
-							alt="image of mac computer"
+							alt="image of original audrey hepburn website"
 						/>
 					</a>
 					<p class="text-center  mt-3 px-1">
@@ -63,7 +63,7 @@
 						<img
 							class="img-fluid "
 							src="~/assets/images/gallery/fancySprinkles.jpg"
-							alt="image of mac computer"
+							alt="image of tablet magazine"
 						/>
 					</NuxtLink>
 					<p class="text-center  mt-3 px-1">
@@ -324,7 +324,7 @@
 						<img
 							class="img-fluid"
 							src="@/assets/images/gallery/physicsThumbnail.jpg"
-							alt="image of mac computer"
+							alt="image of illustration"
 						/>
 					</NuxtLink>
 				</div>
@@ -345,7 +345,7 @@
 						<img
 							class="img-fluid "
 							src="@/assets/images/gallery/mightyFicusThumbnail.jpg"
-							alt="image of mac computer"
+							alt="image of illustration"
 						/>
 					</NuxtLink>
 				</div>
