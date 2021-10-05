@@ -179,7 +179,7 @@
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
 				
-				<a
+				<a target="_blank"
 						class="toImageNuxtLink"
 						href="https://anchor.fm/brandishyourbrand"
 					>
