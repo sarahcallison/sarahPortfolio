@@ -85,12 +85,12 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `/print/arSpaceBookCover` }
+							params: { img: '/print/cardMockUp' }
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/print/arSpaceBookCover.png"
+							src="@/assets/images/print/cardMockUp.jpg"
 							alt="image of invitations and cards"
 						/>
 					</NuxtLink>
