@@ -244,7 +244,27 @@
 						<img
 							class="img-fluid"
 							src="@/assets/images/gallery/x.jpg"
-							alt="image of mac computer"
+							alt="image of illustration"
+						/>
+					</NuxtLink>
+				</div>
+
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'jess'
+							}
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/jess.jpg"
+							alt="image of illustration"
 						/>
 					</NuxtLink>
 				</div>
@@ -262,29 +282,9 @@
 						}"
 					>
 						<img
-							class="img-fluid"
-							src="@/assets/images/gallery/protegeThumbnail.jpg"
-							alt="image of mac computer"
-						/>
-					</NuxtLink>
-				</div>
-
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<NuxtLink
-						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
-							params: {
-								img: 'emilyThumbnail'
-							}
-						}"
-					>
-						<img
 							class="img-fluid "
-							src="@/assets/images/gallery/emilyThumbnail.jpg"
-							alt="image of mac computer"
+							src="@/assets/images/gallery/protegeThumbnail.jpg"
+							alt="image of illustration"
 						/>
 					</NuxtLink>
 				</div>
@@ -298,14 +298,14 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'summerThumbnailNew'
+								img: 'timothy'
 							}
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/summerThumbnailNew.jpg"
-							alt="image of mac computer"
+							src="@/assets/images/gallery/timothy.jpg"
+							alt="image of illustration"
 						/>
 					</NuxtLink>
 				</div>
