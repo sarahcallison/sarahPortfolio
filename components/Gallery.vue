@@ -178,7 +178,18 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<NuxtLink
+				
+				<a
+						class="toImageNuxtLink"
+						href="https://anchor.fm/brandishyourbrand"
+					>
+						<img
+							class="img-fluid"
+							src="~/assets/images/gallery/podcast.jpg"
+							alt="image of audio equalizer"
+						/>
+					</a>
+					<!--<NuxtLink
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
@@ -193,6 +204,7 @@
 							alt="image of equalizer"
 						/>
 					</NuxtLink>
+					-->
 					<p class="text-center px-1 mt-3">
 						Original podcast hosted on Anchor
 					</p>
@@ -205,7 +217,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								vid: `https://www.youtube.com/embed/QZ3lzG6Ly-4`
+								vid: `https://youtu.be/TIEkFZpKKCg`
 							}
 						}"
 					>
