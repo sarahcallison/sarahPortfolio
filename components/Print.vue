@@ -24,7 +24,7 @@
 				<div class="col-12 col-md-5 col-lg-6 align-self-center">
 					<img
 						class="img-fluid"
-						src="@/assets/images/macGrid.png"
+						src="@/assets/images/arSpaceBookCover.png"
 						alt="image of mac computer"
 					/>
 				</div>
@@ -58,7 +58,7 @@
 							<picture>
 								<source
 									media="(min-width:768px)"
-									srcset="@/assets/images/map.png"
+									srcset="@/assets/images/siliconSlopes.png"
 								/>
 								<img
 									src="@/assets/images/mapMobile.png"
