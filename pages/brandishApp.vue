@@ -471,6 +471,10 @@ export default {
 			figcaption {
 				color: $bodyGray;
 			}
+			
+			.embed-responsive embed-responsive-4by3 {
+				padding-top: 30px;
+			}
 
 			.purpHeader {
 				font-size: 18px;
