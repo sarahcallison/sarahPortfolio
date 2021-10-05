@@ -25,7 +25,7 @@
 					<img
 						class="img-fluid"
 						src="@/assets/images/arSpaceBookCover.png"
-						alt="image of mac computer"
+						alt="image of floating astronaut"
 					/>
 				</div>
 			</div>
@@ -62,7 +62,7 @@
 								/>
 								<img
 									src="@/assets/images/siliconSlopes.png"
-									alt="Image of Silicon Slopes header"
+									alt="Image of Silicon Slopes magazine header"
 									class="img-fluid"
 								/>
 							</picture>
