@@ -138,7 +138,7 @@
 						<img
 							class="img-fluid "
 							src="@/assets/images/gallery/compilation.jpg"
-							alt="image of animated tacos"
+							alt="image of animated hot air balloon"
 						/>
 					</NuxtLink>
 					<p class="text-center px-1 mt-3">
@@ -217,7 +217,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								vid: `https://youtu.be/TIEkFZpKKCg`
+								vid: `https://www.youtube.com/embed/TIEkFZpKKCg`
 							}
 						}"
 					>
