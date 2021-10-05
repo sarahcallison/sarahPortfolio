@@ -183,7 +183,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								vid: `https://www.youtube.com/embed/QZ3lzG6Ly-4`
+								vid: `https://anchor.fm/brandishyourbrand`
 							}
 						}"
 					>
