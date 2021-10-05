@@ -61,8 +61,8 @@
 									srcset="@/assets/images/siliconSlopes.png"
 								/>
 								<img
-									src="@/assets/images/mapMobile.png"
-									alt="Image of map"
+									src="@/assets/images/siliconSlopes.png"
+									alt="Image of Silicon Slopes header"
 									class="img-fluid"
 								/>
 							</picture>
