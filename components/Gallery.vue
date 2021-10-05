@@ -237,13 +237,13 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'protegeThumbnail'
+								img: 'x'
 							}
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/protegeThumbnail.jpg"
+							src="@/assets/images/gallery/x.jpg"
 							alt="image of mac computer"
 						/>
 					</NuxtLink>
