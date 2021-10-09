@@ -98,6 +98,21 @@ export default {
 	padding-bottom: 20px;
 }
 
+@media only screen and (min-width: 320px) {
+	.aboutContainer {
+		.aboutTextContainer {
+			
+			.GradButton { 
+				title="Download Resume" 
+				url="/mobileResume_sarahCallison.pdf"
+			}
+			
+		}
+	}
+	
+}
+
+
 @media only screen and (min-width: 768px) {
 	.aboutContainer {
 		height: 600px;
