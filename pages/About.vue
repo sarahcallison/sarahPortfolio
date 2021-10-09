@@ -22,7 +22,10 @@
 									read testimonials about my work in my 
 									resume. 
 								</p>
-								<GradButton title="View Resume" />
+								<GradButton 
+									title="View Resume" 
+									url="/assets/docs/resume_sarahCallison.pdf"
+								/>
 							</div>
 						</div>
 					</div>
