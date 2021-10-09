@@ -302,7 +302,7 @@
 							<br />
 							<br />
 							The last high-fidelity prototype I sent to the web developer was completed in 
-							June 2021. View the <a href=uvu.edu/academictutoring target="blank">live 
+							June 2021. View the <a href=https://uvu.edu/academictutoring target="blank">live 
 							website</a> for Academic Tutoring. 
 						</p>
 
@@ -521,7 +521,10 @@ export default {
 				text-transform: uppercase;
 				margin-top: 25px;
 			}
-
+			
+			a {
+			color: $bgDarkPurple;
+			}
 			
 		}
 
