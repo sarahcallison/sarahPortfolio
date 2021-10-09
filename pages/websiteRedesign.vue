@@ -41,10 +41,18 @@
 						>
 							<h2 id="problemHeader">The Problem</h2>
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
+								When I joined the Academic Tutoring team, the visual presence of the 
+								department fit the persona of a staid academic office—sedate, respectable, 
+								and unadventurous. To align the department’s appearance with its forward-
+								thinking mission, a new brand identity and an updated website were in order.
+								As one of 60+ departments within UVU, this new identity needed to represent 
+								the department in a way that was both recognizable and unique, but stayed 
+								true to UVU’s design standard. 
+
+								My role in this project was responsible for all UX/UI aspects; I was a UX team of one.
+
+								The last high-fidelity prototype I sent to the web developer was completed in June 2021. 
+								The live website can be accessed at uvu.edu/academictutoring 
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
@@ -72,116 +80,165 @@
 							</h4>
 
 							<p class="text-left">
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit, efficitur convallis nisi feugiat quis. Ut
-								lacus est, egestas vel feugiat in, vehicula quis
-								tortor. Cras pretium odio nisl, eget dignissim
-								nunc commodo et.
+								The research phase of this project progressed quickly. 
+								The director provided me with a set of low-fidelity 
+								wireframes and copy which determined what content would 
+								go on each page. Though the content was already set, I 
+								compiled and prioritized a list of requirements for each 
+								of our user groups: students, UVU faculty and staff, and 
+								the Academic Tutoring staff. Before I was hired, I met 
+								with a tutor from Academic Tutoring multiple times during 
+								an academically-challenging semester. This helped me become 
+								familiar with the user experience of a UVU student, our primary
+								audience. 
 								<br />
 								<br />
 
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae; Mauris ultricies blandit metus, et cursus
-								urna congue ut. Mauris mollis tortor eget nisl
-								scelerisque sagittis. Etiam nisl orci, malesuada
-								et aliquet vel, congue sit amet ex. Curabitur
-								tincidunt lacinia ligula, eu pellentesque lectus
-								vestibulum vitae. Sed eu mauris eu sem viverra
-								aliquet. Aliquam erat volutpat. Sed lacinia
-								massa ornare rhoncus facilisis.
-							</p>
-
-							<h4 class="text-center subtitle">Ux Framework</h4>
-						
-
-							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
-								<br />
-								<br />
-
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
+								One of the key requirements was that the style of our website be 
+								consistent with both Academic Tutoring’s and UVU’s brand identity. 
+								A careful review of UVU’s style guide provided the guidance I 
+								needed to meet the university’s design constraints. Staying 
+								consistent with our brand required a little more effort.  
 							</p>
 
 							<h4 class="text-center subtitle">Ideation</h4>
 							
 
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
+								Since the website was my first assignment as an intern, I hadn’t 
+								had time to develop a new brand identity for Academic Tutoring. It 
+								was decided by the team that I would mock up a landing page in several 
+								styles so we could determine which style best communicates our voice. 
+								To get the ideas flowing, the director and I scoured the internet for 
+								examples. Websites with an open, creative feel that featured hand drawn 
+								elements stood out as the style that might best match Academic Tutoring’s
+								mission. 
 								<br />
 								<br />
-
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
+								Academic Tutoring’s mission statement:
+								<br />
+								<br />
+								Academic Tutoring embraces the power of students helping
+								students and supports all individuals—regardless of identity,
+								culture, point of view, or background—as they navigate the
+								challenges associated with their educational goals. With a
+								focus on gateway major courses, certified student employees
+								work alongside each student to foster serious academic
+								exploration and inspire lifelong learning.
+								<br />
+								<br />
+								When I presented mock ups of the landing page in both a hand 
+								drawn and a vector-based style, the team unanimously agreed 
+								that the relaxed appearance of the hand drawn style represents 
+								who we are. Academic Tutoring is meant to be an inclusive, 
+								creative space where students can make mistakes freely without 
+								negative consequences. Using a hand-drawn style moves away from 
+								traditional and institutional academic websites and communicates 
+								an atmosphere where students have space to grow. 
+								<br />
+								<br />
+								These design decisions should have been verified with user testing 
+								but—more on that later.
 							</p>
 
 							<h4 class="text-center subtitle">Ui Design</h4>
 							
 
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
+								Each semester, Academic Tutoring hosts an event called Studypalooza. 
+								The signage for this event, which was created before I joined the team, 
+								features a background texture made of school-related icons. Since this 
+								event garnered campus-wide attention in the past, the director requested 
+								that I incorporate the icon motif in the new website.
 								<br />
 								<br />
 
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
+								A casual script font was used in combination with hand-drawn icons and 
+								accents. The Jaeggers typeface was selected over other script fonts 
+								because, as the font’s creator, Inspiratype, said, “It’s made to 
+								resemble hand scratches, so it looks like a natural style—like your own
+								hand scratches.” The use of this typeface along with hand-drawn accents, 
+								like an asterisk, resembles hand-drawn notes that a student might make 
+								as they are learning about and exploring new concepts. Clear hierarchy 
+								and clean designs add professionalism to this whimsical style.
+								<br />
+								<br />
+								The “base” of each icon was outsourced to save time. Each icon was then 
+								edited to maintain consistency between the icons throughout the site, 
+								and sparkles were added to reflect our creative, open atmosphere.
+								<br />
+								<br />
+								UVU’s primary color palette is forest green, black, white and metallic silver. 
+								Per UVU’s style guide, a complimentary color palette of lighter greens can be 
+								used with discretion in addition to the primary palette. 
 							</p>
 
-							<h4 class="text-center subtitle">Iteration</h4>
+							<h4 class="text-center subtitle">Problem Solving</h4>
 							
 
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
+								It can be difficult for a designer to view their own designs objectively. I 
+								proposed user testing as a means of evaluating our designs to the director, but 
+								he wanted to postpone testing until the website and other upcoming projects were 
+								completed. After getting feedback from a few friends and family members, it was 
+								clear that the amount of content on the subpages (i.e. Peer Tutoring or Online 
+								Tutoring) made the site feel cluttered—important information was harder to find. 
+								Some content was repeated on each page to maintain consistency, which resulted 
+								in more clutter.
 								<br />
 								<br />
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
+								Since this project was my first assignment of my first design position, and the 
+								content was planned and created by the director, I was hesitant to bring up this 
+								issue. The director has a great eye for design and subscribes to high-quality 
+								design content. Since the director didn’t think it was necessary, I decided to 
+								leave the issue of user testing alone until other projects were finished.
+								<br />
+								<br />
+								A few months later, I drafted a user test proposal which included several testing 
+								platforms we could use and pitched it to the director. This time, he was on board 
+								and I contacted our developer about adding the code. The developer informed us 
+								that UVU already had user testing protocols in place, but their web team was not
+								able to create a test for us at that time due to a high workload. When I checked 
+								with my director again after a couple of months, he said that he liked the website 
+								how it was and didn’t want to complete testing at that time. 
+								<br />
+								<br />
+								After another month or so, several team members provided feedback about the website 
+								which was in line with feedback I had received previously. The site felt cluttered 
+								and some of the content was geared toward mid-management level positions such as 
+								faculty or staff, rather than students. I communicated their feedback to the director.
+								By that time, I’d had some successes as an intern with other projects and felt more 
+								confidence in my evaluation of our website. User testing was not approved, but a 
+								second iteration of the site was given a green light.
 							</p>
 
+						
+
+							<h4 class="text-center subtitle">
+								Iteration
+							</h4>
+							
+
+							<p>
+								The second iteration of the website is a streamlined version of the first iteration. 
+								Repetitive content was removed. Content that was geared toward faculty or staff was 
+								removed from the student pages and placed on the Faculty Resources page as needed or 
+								removed from the site. Any content which was placed above essential information about 
+								our services, such as hours and locations, was removed or placed lower on the page so 
+								that this information was the first content to be seen. 
+								<br />
+								<br />
+								I gathered some user feedback by external means. A project for one of my classes required 
+								us to perform three rounds of user testing on an app or a website. I submitted a mockup 
+								similar to Academic Tutoring’s website—one with a combination of images and icons, and 
+								one with only icons. Feedback from 10 UVU students between the ages of 18 - 35 indicated
+								that the icons-only mockup was easier to navigate and felt more on-trend with current 
+								designs. Based on that feedback, we removed all of the images from the website. 
+								<br />
+								<br />
+								Feedback from the Academic Tutoring team on the second iteration was positive.
+							</p>
+							
 							<img
 								class="img-fluid px-0 mt-5"
 								src="@/assets/images/digital/first.jpg"
@@ -199,28 +256,6 @@
 							<figcaption class="text-center mt-3">
 								Second Iteration
 							</figcaption>
-
-							<h4 class="text-center subtitle">
-								Problem Solving
-							</h4>
-							
-
-							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
-								<br />
-								<br />
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
-							</p>
 
 							<div class="embed-responsive embed-responsive-4by3">
 								<iframe
@@ -248,30 +283,25 @@
 						</h4>
 
 						<p class="text-left">
-							Lorem ipsum dolor sit amet, consectetur adipiscing
-							elit. Nullam dapibus convallis sapien sed egestas.
-							Nunc suscipit sem lorem, non pretium risus rutrum
-							ut. Mauris sagittis urna elit, efficitur convallis
-							nisi feugiat quis. Ut lacus est, egestas vel feugiat
-							in, vehicula quis tortor. Cras pretium odio nisl,
-							eget dignissim nunc commodo et.
+							I learned so many valuable lessons as an intern at Academic Tutoring 
+							that it is challenging to pick only a few. The most important lessons 
+							I learned were these:
+
 							<br />
 							<br />
 
-							Aliquam hendrerit vitae tortor id iaculis.
-							Vestibulum varius quam eros, sit amet mattis nulla
-							varius vel. Maecenas feugiat mi quis mattis
-							ultricies. Morbi vitae lectus in erat blandit
-							egestas. Vestibulum ante ipsum primis in faucibus
-							orci luctus et ultrices posuere cubilia curae;
-							Mauris ultricies blandit metus, et cursus urna
-							congue ut. Mauris mollis tortor eget nisl
-							scelerisque sagittis. Etiam nisl orci, malesuada et
-							aliquet vel, congue sit amet ex. Curabitur tincidunt
-							lacinia ligula, eu pellentesque lectus vestibulum
-							vitae. Sed eu mauris eu sem viverra aliquet. Aliquam
-							erat volutpat. Sed lacinia massa ornare rhoncus
-							facilisis.
+							If I’m stuck on a particular aspect of a design, it’s time for me to talk
+							to the users—or review what they’ve already told me. User feedback 
+							illuminates the problems with the greatest negative impact on the user 
+							experience. If the fix for these problems is not readily apparent, which 
+							it rarely is, feedback from users provides clues to the solution. 
+							<br />
+							<br />
+							When my pitch for user testing wasn’t approved on multiple occasions, I 
+							realized that it was my pitch that needed to change rather than the director. 
+							A presentation of how user testing could improve the bottom line for Academic 
+							Tutoring rather than a discussion of design principles would have been an 
+							effective strategy.
 						</p>
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
