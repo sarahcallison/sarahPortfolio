@@ -25,7 +25,7 @@
 								<GradButton 
 									title="Download Resume" 
 									url="/resume_sarahCallison.pdf"
-									download=""
+									target="blank"
 								/>
 							</div>
 						</div>
