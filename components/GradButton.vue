@@ -1,6 +1,6 @@
 <template>
 	<div id="gradButton">
-		<a :href="url" :target="target">
+		<a :href="url" :target="target" :download="download">
 			{{ title }}
 		</a>
 	</div>
