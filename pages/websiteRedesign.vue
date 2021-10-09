@@ -45,7 +45,8 @@
 								department fit the persona of a staid academic office—sedate, respectable, 
 								and unadventurous. To align the department’s appearance with its forward-
 								thinking mission, a new brand identity and an updated website were in order.
-
+								<br />
+								<br />
 								My role in this project was responsible for all UX/UI aspects; I was a UX team of one.
 							</p>
 
@@ -523,7 +524,7 @@ export default {
 			}
 			
 			a {
-			color: $bgDarkPurple;
+			background-image: linear-gradient(to right, $gradDark, $gradLight);
 			}
 			
 		}
