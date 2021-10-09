@@ -45,14 +45,8 @@
 								department fit the persona of a staid academic office—sedate, respectable, 
 								and unadventurous. To align the department’s appearance with its forward-
 								thinking mission, a new brand identity and an updated website were in order.
-								As one of 60+ departments within UVU, this new identity needed to represent 
-								the department in a way that was both recognizable and unique, but stayed 
-								true to UVU’s design standard. 
 
 								My role in this project was responsible for all UX/UI aspects; I was a UX team of one.
-
-								The last high-fidelity prototype I sent to the web developer was completed in June 2021. 
-								The live website can be accessed at uvu.edu/academictutoring 
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
@@ -96,9 +90,12 @@
 
 								One of the key requirements was that the style of our website be 
 								consistent with both Academic Tutoring’s and UVU’s brand identity. 
-								A careful review of UVU’s style guide provided the guidance I 
-								needed to meet the university’s design constraints. Staying 
-								consistent with our brand required a little more effort.  
+								As one of 60+ departments within UVU, our new identity needed to 
+								represent the department in a way that was both recognizable and 
+								unique, but stayed true to UVU’s design standard. A careful review 
+								of UVU’s style guide provided the guidance I needed to meet the 
+								university’s design constraints. Staying consistent with our brand 
+								required a little more effort.  
 							</p>
 
 							<h4 class="text-center subtitle">Ideation</h4>
@@ -302,6 +299,11 @@
 							A presentation of how user testing could improve the bottom line for Academic 
 							Tutoring rather than a discussion of design principles would have been an 
 							effective strategy.
+							<br />
+							<br />
+							The last high-fidelity prototype I sent to the web developer was completed in 
+							June 2021. View the <a href=uvu.edu/academictutoring target="blank">live 
+							website</a> for Academic Tutoring. 
 						</p>
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
