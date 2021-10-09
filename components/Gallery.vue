@@ -37,6 +37,7 @@
 					<a
 						class="toImageNuxtLink"
 						href="/gallery/interactiveDemo/index.html"
+						target="blank"
 					>
 						<img
 							class="img-fluid"
