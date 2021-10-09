@@ -524,7 +524,14 @@ export default {
 			}
 			
 			a {
-			background-image: linear-gradient(to right, $gradDark, $gradLight);
+			background-image: linear-gradient(
+					to right,
+					$gradDark,
+					$gradLight
+				);
+				background-clip: text;
+				-webkit-text-fill-color: transparent;
+				-moz-text-fill-color: transparent;
 			}
 			
 		}
