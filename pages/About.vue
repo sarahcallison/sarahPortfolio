@@ -23,9 +23,9 @@
 									resume. 
 								</p>
 								<GradButton 
-									title="View Resume" 
+									title="Download Resume" 
 									url="/resume_sarahCallison.pdf"
-									target="blank"
+									download=""
 								/>
 							</div>
 						</div>
