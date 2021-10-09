@@ -24,7 +24,7 @@
 								</p>
 								<GradButton 
 									title="View Resume" 
-									url="/docs/resume_sarahCallison.pdf"
+									url="/resume_sarahCallison.pdf"
 								/>
 							</div>
 						</div>
