@@ -45,12 +45,14 @@
 								Fresh designs to align 
 								this publication with its up-to-date content
 							</p>
+							<div id="rightButton">
 							<NuxtLink
 								style="cursor: auto; textDecoration: none;"
 								to="/GraphicDesign"
 							>
 								<GradButton title="View Project" />
 							</NuxtLink>
+							</div>
 						</div>
 						<div
 							class="col-12 col-md-5 col-lg-6 order-md-1 align-self-center"
@@ -286,7 +288,7 @@ export default {
 					margin-left: 15%;
 				}
 				
-				#gradButton  {
+				#rightButton  {
 				padding: 0 0 0 5%;
 				}
 					
