@@ -100,9 +100,10 @@ export default {
 
 @media only screen and (min-width: 320px) {
 
-			GradButton  
+			<GradButton  
 				title="Download Resume" 
-				url="/mobileResume_sarahCallison.pdf"	
+				url="/mobileResume_sarahCallison.pdf"
+				/>
 }
 
 
