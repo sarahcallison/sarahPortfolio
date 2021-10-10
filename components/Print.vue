@@ -288,8 +288,8 @@ export default {
 					margin-left: 15%;
 				}
 				
-				#rightButton  {
-				padding: 0 0 0 5%;
+				.col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection text-md-right {
+					padding-left: 10%;
 				}
 					
 			}
