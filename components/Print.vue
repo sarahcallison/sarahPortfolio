@@ -36,7 +36,7 @@
 				<div class="container">
 					<div class="row">
 						<div
-							class="col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection text-md-right"
+							class="col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection text-md-right" id="right"
 						>
 							<h4>Silicon Slopes Magazine</h4>
 							<h2>Graphic Design</h2>
@@ -288,7 +288,7 @@ export default {
 					margin-left: 15%;
 				}
 				
-				.text-md-right {
+				#right {
 					padding-left: 10%;
 				}
 					
