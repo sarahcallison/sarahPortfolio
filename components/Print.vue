@@ -305,6 +305,10 @@ export default {
 				p {
 					width: 85%;
 				}
+				
+				#right {
+					padding-left: 10%;
+				}
 			}
 		}
 	}
