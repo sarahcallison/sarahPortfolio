@@ -102,7 +102,7 @@ export default {
 	.aboutContainer {
 		.aboutTextContainer {
 			
-			GradButton { 
+			#aboutGradButton { 
 				title="Download Resume" 
 				url="/mobileResume_sarahCallison.pdf"
 			}
