@@ -306,6 +306,13 @@ export default {
 					width: 85%;
 				}
 				
+				#rightText {
+					display: inline;
+					float: right;
+					margin-bottom: 3rem;
+					margin-left: 15%;
+				}
+				
 				#right {
 					padding-left: 10%;
 				}
@@ -322,6 +329,13 @@ export default {
 					
 				p {
 					width: 85%;
+				}
+				
+				#rightText {
+					display: inline;
+					float: right;
+					margin-bottom: 3rem;
+					margin-left: 15%;
 				}
 				
 				#right {
