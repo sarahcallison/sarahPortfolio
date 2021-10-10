@@ -313,4 +313,23 @@ export default {
 		}
 	}
 }
+
+
+@media only screen and (min-width: 1200px) {
+	.main {
+		.projectContainers {
+			.textSection {
+					
+				p {
+					width: 85%;
+				}
+				
+				#right {
+					padding-left: 10%;
+				}
+			}
+		}
+	}
+}
+
 </style>
