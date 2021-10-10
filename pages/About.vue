@@ -99,17 +99,10 @@ export default {
 }
 
 @media only screen and (min-width: 320px) {
-	.aboutContainer {
-		.aboutTextContainer {
-			
-			#aboutGradButton { 
+
+			GradButton  
 				title="Download Resume" 
-				url="/mobileResume_sarahCallison.pdf"
-			}
-			
-		}
-	}
-	
+				url="/mobileResume_sarahCallison.pdf"	
 }
 
 
