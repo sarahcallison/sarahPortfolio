@@ -278,6 +278,13 @@ export default {
 					font-family: "Made";
 					color: $header;
 				}
+				
+				#rightText {
+					display: inline;
+					float: right;
+					margin-bottom: 3rem;
+					margin-left: 15%;
+				}
 					
 			}
 		}
