@@ -224,13 +224,6 @@ export default {
 				font-size: 16px;
 			}
 		}
-		
-		#rightText {
-			display: inline;
-			float: right;
-			margin-bottom: 3rem;
-			margin-left: 15%;
-		}
 
 		.gradLine {
 			height: 3px;
