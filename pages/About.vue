@@ -109,8 +109,7 @@ export default {
 	padding-bottom: 20px;
 }
 
-#content-desktop {display: block;}
-#content-mobile {display: none;}
+
 
 @media only screen and (min-width: 320px) {
 
@@ -122,6 +121,10 @@ export default {
 @media only screen and (min-width: 768px) {
 	.aboutContainer {
 		height: 600px;
+		
+		#content-desktop {display: block;}
+		#content-mobile {display: none;}
+		
 		.aboutTextContainer {
 			position: absolute;
 			top: 45%; /* position the top  edge of the element at the middle of the parent */
@@ -132,6 +135,7 @@ export default {
 			p {
 				width: 70%;
 			}
+			
 		}
 	}
 
@@ -156,6 +160,10 @@ export default {
 
 @media only screen and (min-width: 1200px) {
 	.aboutContainer {
+	
+	#content-desktop {display: block;}
+	#content-mobile {display: none;}
+	
 		.aboutTextContainer {
 			
 			h1 {
