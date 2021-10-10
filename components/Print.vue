@@ -250,18 +250,6 @@ export default {
 }
 
 
-@media only screen and (min-width: 320px) {
-	.main {
-		.projectContainers {
-			#rightText {
-			display: inline;
-			float: right;
-			margin-bottom: 3rem;
-			margin-left: 0;
-			}
-		}
-	}
-}
 
 @media only screen and (min-width: 768px) {
 	.main {
