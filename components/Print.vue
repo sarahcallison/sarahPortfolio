@@ -285,6 +285,10 @@ export default {
 					margin-bottom: 3rem;
 					margin-left: 15%;
 				}
+				
+				#gradButton a {
+				padding: 10% 10%;
+				}
 					
 			}
 		}
