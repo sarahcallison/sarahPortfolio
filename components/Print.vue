@@ -289,7 +289,7 @@ export default {
 				}
 				
 				.text-md-right {
-					margin-left: 10%;
+					padding-left: 10%;
 				}
 					
 			}
