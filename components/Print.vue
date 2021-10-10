@@ -224,6 +224,13 @@ export default {
 				font-size: 16px;
 			}
 		}
+		
+			#rightText {
+					display: inline;
+					float: right;
+					margin-bottom: 3rem;
+					margin-left: 15%;
+				}
 
 		.gradLine {
 			height: 3px;
@@ -274,16 +281,6 @@ export default {
 					color: $header;
 				}
 				
-				#rightText {
-					display: inline;
-					float: right;
-					margin-bottom: 3rem;
-					margin-left: 15%;
-				}
-				
-				#right {
-					padding-left: 10%;
-				}
 					
 			}
 		}
@@ -299,44 +296,10 @@ export default {
 					width: 85%;
 				}
 				
-				#rightText {
-					display: inline;
-					float: right;
-					margin-bottom: 3rem;
-					margin-left: 15%;
-				}
-				
-				#right {
-					padding-left: 10%;
-				}
 			}
 		}
 	}
 }
 
-
-@media only screen and (min-width: 1200px) {
-	.main {
-		.projectContainers {
-			.textSection {
-					
-				p {
-					width: 85%;
-				}
-				
-				#rightText {
-					display: inline;
-					float: right;
-					margin-bottom: 3rem;
-					margin-left: 15%;
-				}
-				
-				#right {
-					padding-left: 10%;
-				}
-			}
-		}
-	}
-}
 
 </style>
