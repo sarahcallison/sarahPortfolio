@@ -22,11 +22,22 @@
 									read testimonials about my work in my 
 									resume. 
 								</p>
+								
+								<div id="content-desktop">
 								<GradButton 
 									title="Download Resume" 
 									url="/resume_sarahCallison.pdf"
 									target="blank"
 								/>
+								</div>
+								
+								<div id="content-mobile">
+								<GradButton 
+									title="Download Resume" 
+									url="/mobileResume_sarahCallison.pdf"
+									target="blank"
+								/>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -98,12 +109,13 @@ export default {
 	padding-bottom: 20px;
 }
 
+#content-desktop {display: block;}
+#content-mobile {display: none;}
+
 @media only screen and (min-width: 320px) {
 
-			<GradButton  
-				title="Download Resume" 
-				url="/mobileResume_sarahCallison.pdf"
-				/>
+			#content-desktop {display: none;}
+			#content-mobile {display: block;}
 }
 
 
