@@ -239,7 +239,7 @@
 							
 							<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/first.jpg"
+								src="@/assets/images/digital/landingPage.png"
 								alt="image of mobile phone app design"
 							/>
 							<figcaption class="text-center mt-3">
