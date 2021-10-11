@@ -141,6 +141,14 @@
 
 							<h4 class="text-center subtitle">Ui Design</h4>
 							
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/landingPage.png"
+								alt="image of mobile phone app design"
+							/>
+							<figcaption class="text-center mt-3">
+								Academic Tutoring's new landing page
+							</figcaption>
 
 							<p>
 								Each semester, Academic Tutoring hosts an event called Studypalooza. 
