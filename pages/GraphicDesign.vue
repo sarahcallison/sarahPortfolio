@@ -466,11 +466,12 @@ export default {
 			}
 
 			p {
-				font-size: 18px;
+				font-size: 16px;
 			}
 
 			figcaption {
 				color: $bodyGray;
+				padding-bottom: 40px;
 			}
 
 			.purpHeader {
@@ -566,7 +567,7 @@ export default {
 			}
 			
 			.mainText p {
-				width: 700px;
+				width: 600px;
 				margin: 0 auto;
 			}
 			
