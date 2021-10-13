@@ -107,7 +107,10 @@ export default {
 	}
 	.infoText {
 		position: absolute;
-		top: 70px;
+		height: 50vh;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
 		width: 100%;
 		padding: 0 4.5%;
 
