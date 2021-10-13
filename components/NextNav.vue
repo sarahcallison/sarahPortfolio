@@ -70,7 +70,7 @@ export default {
 		width: 100%;
 		display: flex;
 		justify-content: center;
-		padding: 20px;
+		padding: 7px;
 
 		.nuxtLink {
 			color: black;
