@@ -515,7 +515,7 @@ export default {
 
 			figcaption {
 				color: $bodyGray;
-				padding-bottom: 30px;
+				padding-bottom: 60px;
 			}
 
 			.purpHeader {
