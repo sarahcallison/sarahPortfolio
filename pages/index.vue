@@ -221,7 +221,7 @@ export default {
 @media only screen and (min-width: 1200px) {
 	.jumboContainer {
 		.infoText {
-			
+			top: calc(18vw);
 			#title {
 				font-size: 25px;
 			}
