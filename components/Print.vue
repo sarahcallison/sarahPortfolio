@@ -74,7 +74,7 @@
 			</div>
 		</div>
 		<!-- Third Section -->
-		<div class="container projectContainers" id="invites">
+		<div class="container projectContainers">
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
 					<h2>Invitations & Cards</h2>
