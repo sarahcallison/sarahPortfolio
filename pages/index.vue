@@ -117,7 +117,6 @@ export default {
 		#title {
 			font-size: 16px;
 			letter-spacing: $tracking250;
-			margin-bottom: 20px;
 		}
 
 		#name {
