@@ -41,16 +41,14 @@
 						>
 							<h2 id="problemHeader" class="smallerHeader">The Problem</h2>
 							<p>
-								With the proliferation of mobile and social media platforms, there is no longer 
-								“one size fits all” for publishing digital content. Users can pick and choose 
+								With the proliferation of mobile and social media platforms, users can pick and choose 
 								how they want to get content. To reach a wider audience, digital publishers need 
 								to make their content adaptable across a variety of platforms. 
 								<br />
 								<br />
 								In my Immersive Authoring II course, I was tasked with creating a business persona 
-								and adapting this persona’s content across four platforms: podcast, social media, 
-								mobile app, and a platform of our choice. I created Brandish, a would-be marketing 
-								resource, that produces content about how to build a brand from the ground up. 
+								and adapting this persona’s content across multiple platforms. I created Brandish, a would-be marketing 
+								resource, that publishes content about how to build a brand from the ground up. 
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
