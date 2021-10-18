@@ -41,10 +41,16 @@
 						>
 							<h2 id="problemHeader" class="smallerHeader">The Problem</h2>
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
+								With the proliferation of mobile and social media platforms, there is no longer 
+								“one size fits all” for publishing digital content. Users can pick and choose 
+								how they want to get content. To reach a wider audience, digital publishers need 
+								to make their content adaptable across a variety of platforms. 
+								<br />
+								<br />
+								In my Immersive Authoring II course, I was tasked with creating a business persona 
+								and adapting this persona’s content across four platforms: podcast, social media, 
+								mobile app, and a platform of our choice. I created Brandish, a would-be marketing 
+								resource, that produces content about how to build a brand from the ground up. 
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
@@ -72,110 +78,129 @@
 							</h4>
 
 							<p class="text-left">
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit, efficitur convallis nisi feugiat quis. Ut
-								lacus est, egestas vel feugiat in, vehicula quis
-								tortor. Cras pretium odio nisl, eget dignissim
-								nunc commodo et.
+								Early in the semester, I reviewed what marketing 
+								content and apps are already available. I found 
+								multiple sources that provide marketing services, 
+								such as consulting from Brandology or business card 
+								design from Brandly, rather than guidance on how to 
+								build a brand on your own. One of the more well-known 
+								brand-building platforms, HubSpot, provides some 
+								marketing resources and methodologies, but focuses 
+								on inbound marketing, sales, and service software. 
 								<br />
 								<br />
-
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae; Mauris ultricies blandit metus, et cursus
-								urna congue ut. Mauris mollis tortor eget nisl
-								scelerisque sagittis. Etiam nisl orci, malesuada
-								et aliquet vel, congue sit amet ex. Curabitur
-								tincidunt lacinia ligula, eu pellentesque lectus
-								vestibulum vitae. Sed eu mauris eu sem viverra
-								aliquet. Aliquam erat volutpat. Sed lacinia
-								massa ornare rhoncus facilisis.
-							</p>
-
-							<h4 class="text-center subtitle">Ux Framework</h4>
-
-							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
+								Many digital publishers take a DIY approach to 
+								marketing—at least in the initial stages of growing 
+								their brand. Brandish content, specifically the Brandish 
+								app, is designed to take the user through the process of 
+								building a basic marketing plan—focusing on foundational 
+								concepts rather than the mechanics of tracking leads and 
+								sales. Once the user has the basic concepts down, other 
+								Brandish platforms, such as social channels, would provide 
+								an endless stream of ideas and tips to hone their marketing 
+								efforts.
 								<br />
 								<br />
-
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
+								I was stumped when it came time to pick a name for my business. 
+								It seemed all the variations of the word “brand” were already 
+								in use. I wanted something bold that would stand out from all 
+								of the trendy or obvious choices like brandology or brandily. 
+								I searched online thesauri and talked with friends and family
+								about my ideas. The word “brandish” was proposed. This felt 
+								like a winning combination of the word brand paired with a bold 
+								marketing idea. I selected Brandish with the tagline, Show off 
+								your brand, and a longer tagline for use on mediums such as a 
+								podcast: Is the world ready for your brand? Don’t promote it. 
+								Brandish it. 
 							</p>
 
 							<h4 class="text-center subtitle">Ideation</h4>
 
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
+								I began the ideation process by sketching, progressing to low-
+								fidelity wireframes. With each iteration, I included more content 
+								from my research to build a richer experience for the user.  
 								<br />
 								<br />
 
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
+								*Images of sketches*
+								<br />
+								<br />
+								
+								When I was building my business persona, I created a negative 
+								space logo in black and white. I love the simplicity of black and 
+								white. This high-contrast color combination feels clean and bold. 
+								The app’s color scheme matched the logo’s color scheme for the 
+								reasons listed above and consistency with the Brandish brand.
+								<br />
+								<br />
+								*Image of logo*
 							</p>
 
 							<h4 class="text-center subtitle">Ui Design</h4>
 
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
+								Prior to this project, I’d spent months working 
+								on UVU websites which feature pre-configured 
+								elements. I had a lot of questions about mobile 
+								dimensions, so I availed myself of the resources 
+								provided by InVision and Kapeli’s iOS cheat sheet. 
+								I made some slight modifications to the recommendations 
+								in order to create content hierarchy, but it felt 
+								satisfying to base my design off what users are familiar 
+								with and what has worked for high-level designers. 
+								Doing a little research took a lot of the guesswork 
+								out of the design.
 								<br />
 								<br />
 
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
+								Once I had the dimensions down, I started on the 
+								navigation. Traditionally, a popout menu is featured 
+								in the upper right corner. I’ve frequently found this 
+								menu difficult to reach while navigating on my phone. 
+								I have a minor skeletal malformation called Brachydactyly 
+								type D or “stub thumb.” The last phalanx or section of 
+								my thumb is stunted, making my thumb shorter than average. 
+								This condition is sometimes called “toe thumb.” Imagine 
+								navigating an app with one of your toes! Okay, it’s not 
+								that bad, but it does make reaching that corner menu harder.
+								<br />
+								<br />
+								I decided to do some more research on mobile navigation. 
+								I read an article by UX designer Kiril Karov about 
+								reinventing app navigation: “One-handed Use of Tab Bar/Bottom 
+								Navigation — Best Practices for Reachability.” Karov talks 
+								about how a majority of users navigate using their thumb, 
+								making it difficult to reach the menus located in the upper 
+								corners. For an easier navigation experience, I decided to 
+								use a bottom navigation menu. This app only has three menu 
+								items—if additional items were needed, a menu that pops out 
+								from an ellipse icon or the word “more” could be used.
+								<br />
+								<br />
+								*image of nav*
 							</p>
 
 							<h4 class="text-center subtitle">Iteration</h4>
 
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
+								This app was designed to be simple, but some of the 
+								sections featured too much information for easy 
+								navigation. I hid some of the content so that the 
+								user could choose to progressively disclose 
+								information at their own pace. 
 								<br />
 								<br />
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
+								*image of plus icons*
+								<br />
+								<br />
+								Black and white is bold, but the app’s UI didn’t say 
+								“brandish”—it felt cold and a little flat. I added 
+								some pops of neon-colored gradients and a background 
+								gradient to add some warmth and texture. 
+								<br />
+								<br />
+								*Iteration images*
 							</p>
 
 							<img
@@ -199,23 +224,6 @@
 							<h4 class="text-center subtitle">
 								Problem Solving
 							</h4>
-
-							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
-								<br />
-								<br />
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
-							</p>
 
 							<div class="embed-responsive embed-responsive-4by3">
 								<iframe
@@ -246,30 +254,16 @@
 						</h4>
 
 						<p class="text-left">
-							Lorem ipsum dolor sit amet, consectetur adipiscing
-							elit. Nullam dapibus convallis sapien sed egestas.
-							Nunc suscipit sem lorem, non pretium risus rutrum
-							ut. Mauris sagittis urna elit, efficitur convallis
-							nisi feugiat quis. Ut lacus est, egestas vel feugiat
-							in, vehicula quis tortor. Cras pretium odio nisl,
-							eget dignissim nunc commodo et.
-							<br />
-							<br />
-
-							Aliquam hendrerit vitae tortor id iaculis.
-							Vestibulum varius quam eros, sit amet mattis nulla
-							varius vel. Maecenas feugiat mi quis mattis
-							ultricies. Morbi vitae lectus in erat blandit
-							egestas. Vestibulum ante ipsum primis in faucibus
-							orci luctus et ultrices posuere cubilia curae;
-							Mauris ultricies blandit metus, et cursus urna
-							congue ut. Mauris mollis tortor eget nisl
-							scelerisque sagittis. Etiam nisl orci, malesuada et
-							aliquet vel, congue sit amet ex. Curabitur tincidunt
-							lacinia ligula, eu pellentesque lectus vestibulum
-							vitae. Sed eu mauris eu sem viverra aliquet. Aliquam
-							erat volutpat. Sed lacinia massa ornare rhoncus
-							facilisis.
+							It was an eye-opening experience to design the user experience 
+							around a problem I experience on a daily basis. Navigating on 
+							my phone wasn’t ruining my day, but it started to bug me 
+							increasingly over time until I was able to put my finger 
+							(or thumb) on what the issue was. I was invested in finding a 
+							solution for one of my frustrating problems. I want to be as 
+							invested in solving frustrating problems for other people, 
+							the users, in any project that I design for. Becoming invested 
+							in the problems of someone else takes empathy and hard work, 
+							which is something that I plan to keep practicing. 
 						</p>
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
