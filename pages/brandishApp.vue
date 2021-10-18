@@ -41,8 +41,9 @@
 						>
 							<h2 id="problemHeader" class="smallerHeader">The Problem</h2>
 							<p>
-								With the proliferation of mobile and social media platforms, users can pick and choose 
-								how they want to get content. To reach a wider audience, digital publishers need 
+								With the proliferation of mobile and social media platforms, there is no longer 
+								“one size fits all” for publishing digital content. Users can pick and choose how 
+								they want to get content. To reach a wider audience, digital publishers need 
 								to make their content adaptable across a variety of platforms. 
 								<br />
 								<br />
