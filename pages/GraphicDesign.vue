@@ -16,7 +16,7 @@
 					<h2>Graphic Design</h2>
 					<div class="gradLine"></div>
 					<p>
-						May 2021
+						February 2021
 					</p>
 				</div>
 			</div>
