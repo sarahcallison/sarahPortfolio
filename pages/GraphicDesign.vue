@@ -32,7 +32,7 @@
 							<img
 								class="img-fluid"
 								id="macImg"
-								src="@/assets/images/digital/mac-updated.png"
+								src="@/assets/images/mac-updated.png"
 								alt="image of mac computer"
 							/>
 						</div>
