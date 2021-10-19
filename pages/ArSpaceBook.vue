@@ -48,10 +48,10 @@
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
-							<p class="highFidText">High-fidelity prototype</p>
+							<p class="highFidText">Printed book</p>
 							<GradButton
-								title="Go To XD Adobe.com"
-								url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
+								title="View PDF of Book"
+								url="/printPages.pdf"
 							/>
 						</div>
 					</div>
@@ -275,12 +275,12 @@
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
 						<p class="text-center highFidText">
-							High-fidelity prototype
+							Printed book
 						</p>
 						<GradButton
 							class="text-center"
-							title="Go To XD Adobe.com"
-							url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
+							title="View PDF of book"
+							url="/printPages.pdf"
 						/>
 					</div>
 				</div>
