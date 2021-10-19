@@ -57,6 +57,7 @@
 							<GradButton
 								title="Go To XD Adobe.com"
 								url="https://xd.adobe.com/view/2b0ab223-73b6-45af-9dfc-a08ab92c8c44-7e59/"
+								target="blank"
 							/>
 						</div>
 					</div>
@@ -273,6 +274,7 @@
 							class="text-center"
 							title="Go To XD Adobe.com"
 							url="https://xd.adobe.com/view/2b0ab223-73b6-45af-9dfc-a08ab92c8c44-7e59/"
+							target="blank"
 						/>
 					</div>
 				</div>
