@@ -32,7 +32,7 @@
 							<img
 								class="img-fluid"
 								id="macImg"
-								src="@/assets/images/digital/mac.png"
+								src="@/assets/images/digital/mac-updated.png"
 								alt="image of mac computer"
 							/>
 						</div>
@@ -50,7 +50,7 @@
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
-							<p class="highFidText">Design Samples</p>
+							<p class="highFidText">Design samples</p>
 							<GradButton
 								title="View PDF"
 								url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
@@ -196,7 +196,7 @@
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
 						<p class="text-center highFidText">
-							Design Samples
+							Design samples
 						</p>
 						<GradButton
 							class="text-center"
