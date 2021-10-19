@@ -483,7 +483,7 @@ export default {
 	.graphicDesign {
 	
 	#firstProjContainer {
-				padding-bottom: 0;
+				padding-bottom: 100px;
 			}
 			
 		.projectContainers {
@@ -504,28 +504,5 @@ export default {
 	}
 }
 
-@media only screen and (min-width: 1200px) {
-	.graphicDesign {
-	
-		#firstProjContainer {
-				padding-bottom: 0;
-			}
-			
-		.projectContainers {
-			#macImg {
-				margin-top: 0;
-				margin-bottom: 0;
-			}
-			
-			.mainText p {
-				width: 600px;
-				margin: 0 auto;
-			}
-			
-			.highFidText {
-				margin-bottom: 2rem;
-			}
-		}
-	}
-}
+
 </style>
