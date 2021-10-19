@@ -54,7 +54,7 @@
 							<p class="highFidText">High-fidelity prototype</p>
 							<GradButton
 								title="Go To XD Adobe.com"
-								url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
+								url="https://xd.adobe.com/view/f7dd9dec-1211-468d-aee0-bd9292267f87-a28e/"
 							/>
 						</div>
 					</div>
@@ -322,7 +322,7 @@
 						<GradButton
 							class="text-center"
 							title="Go To XD Adobe.com"
-							url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
+							url="https://xd.adobe.com/view/f7dd9dec-1211-468d-aee0-bd9292267f87-a28e/"
 						/>
 					</div>
 				</div>
