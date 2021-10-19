@@ -41,16 +41,18 @@
 						>
 							<h2 id="problemHeader">The Problem</h2>
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
+								Silicon Slopes describes their platform as the voice, hub, and heart of Utah’s 
+								startup and tech community. The Silicon Slopes Magazine layouts are currently 
+								completed by a Director of Production who has a good eye for design, but minimal 
+								design experience. Fresh designs were needed to match Silicon Slope’s up-to-date 
+								content. I was asked to create design samples for one section of the magazine to 
+								showcase my design skills.
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
 							<p class="highFidText">High-fidelity prototype</p>
 							<GradButton
-								title="Go To XD Adobe.com"
+								title="View PDF"
 								url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
 							/>
 						</div>
@@ -72,113 +74,72 @@
 							</h4>
 
 							<p class="text-left">
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit, efficitur convallis nisi feugiat quis. Ut
-								lacus est, egestas vel feugiat in, vehicula quis
-								tortor. Cras pretium odio nisl, eget dignissim
-								nunc commodo et.
+								I familiarized myself with the Silicon Slopes brand 
+								identity by reviewing content in the most recent 
+								issue of the magazine and by reviewing their web 
+								and social media content. I spent some time on 
+								Google and Pinterest researching what other 
+								magazines in Utah are doing right now. 
 								<br />
 								<br />
-
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae; Mauris ultricies blandit metus, et cursus
-								urna congue ut. Mauris mollis tortor eget nisl
-								scelerisque sagittis. Etiam nisl orci, malesuada
-								et aliquet vel, congue sit amet ex. Curabitur
-								tincidunt lacinia ligula, eu pellentesque lectus
-								vestibulum vitae. Sed eu mauris eu sem viverra
-								aliquet. Aliquam erat volutpat. Sed lacinia
-								massa ornare rhoncus facilisis.
-							</p>
-
-							<h4 class="text-center subtitle">Ux Framework</h4>
-
-							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
-								<br />
-								<br />
-
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
 							</p>
 
 							<h4 class="text-center subtitle">Ideation</h4>
 							
 
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
+								To get the ideas flowing, I sketched design 
+								concepts that came to me while I was researching. 
+								I sketched multiple iterations so that I was 
+								left with several clean ideas. Typically after a 
+								few rounds of sketching, I’m able to work out 
+								the basic elements of a design. Several of the 
+								designs I sketched proved to be difficult to 
+								create—it would have been a challenge to maintain 
+								continuity between each issue while providing a 
+								fresh variation each time.
 								<br />
 								<br />
 
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
+								For example, I was assigned to create designs for 
+								the “Made in Utah” section, but some designs would 
+								been better suited for the women in business section. 
+								There needed to be a clear distinction between each 
+								section so I saved those designs for later and went 
+								back to the drawing board.
 							</p>
 
 							<h4 class="text-center subtitle">Ui Design</h4>
 							
 
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
+								Since the magazine is published quarterly with seasonal 
+								issues titles like, “Winter” and “Spring,” I wanted to 
+								create designs that would be consistently recognizable 
+								as that particular section’s header, but featured a 
+								fresh twist each issue. The winter issue designs 
+								feature snow-capped mountains and pine trees while 
+								the spring designs could incorporate vines and blossoms.
 								<br />
 								<br />
 
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
+								*Images of designs*
 							</p>
 
 							<h4 class="text-center subtitle">Iteration</h4>
 							
 
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
-								<br />
-								<br />
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
+								I sent my work to the magazine’s director to get 
+								feedback on changes that may be needed for the 
+								second iteration and to get a style guide.
+								His feedback was positive and I was 
+								offered a position. I was to be contacted when they 
+								were ready for me to begin work on the next issue. I 
+								was contacted after several months by the magazine’s 
+								director to say that while his committee had approved 
+								the position, due to a miscommunication, the CEO hadn’t 
+								approved a separate position to work on the magazine. 
 							</p>
 
 							<img
@@ -198,28 +159,6 @@
 							<figcaption class="text-center mt-3">
 								Second Iteration
 							</figcaption>
-
-							<h4 class="text-center subtitle">
-								Problem Solving
-							</h4>
-							
-
-							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
-								<br />
-								<br />
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
-							</p>
 
 							<div class="embed-responsive embed-responsive-4by3">
 								<iframe
@@ -247,30 +186,13 @@
 						</h4>
 
 						<p class="text-left">
-							Lorem ipsum dolor sit amet, consectetur adipiscing
-							elit. Nullam dapibus convallis sapien sed egestas.
-							Nunc suscipit sem lorem, non pretium risus rutrum
-							ut. Mauris sagittis urna elit, efficitur convallis
-							nisi feugiat quis. Ut lacus est, egestas vel feugiat
-							in, vehicula quis tortor. Cras pretium odio nisl,
-							eget dignissim nunc commodo et.
-							<br />
-							<br />
-
-							Aliquam hendrerit vitae tortor id iaculis.
-							Vestibulum varius quam eros, sit amet mattis nulla
-							varius vel. Maecenas feugiat mi quis mattis
-							ultricies. Morbi vitae lectus in erat blandit
-							egestas. Vestibulum ante ipsum primis in faucibus
-							orci luctus et ultrices posuere cubilia curae;
-							Mauris ultricies blandit metus, et cursus urna
-							congue ut. Mauris mollis tortor eget nisl
-							scelerisque sagittis. Etiam nisl orci, malesuada et
-							aliquet vel, congue sit amet ex. Curabitur tincidunt
-							lacinia ligula, eu pellentesque lectus vestibulum
-							vitae. Sed eu mauris eu sem viverra aliquet. Aliquam
-							erat volutpat. Sed lacinia massa ornare rhoncus
-							facilisis.
+							Although this project didn’t work out liked I’d hoped, 
+							it was still an opportunity to advance my design skills. I 
+							thought about how I could enhance the magazine’s content by 
+							adding interactive features accessible by QR or zap codes 
+							(for augmented reality). I had the chance to think conceptually 
+							about how my designs would work in the long term and how each 
+							section would interact with the rest of the magazine’s content.
 						</p>
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
