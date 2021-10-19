@@ -53,7 +53,8 @@
 							<p class="highFidText">Design samples</p>
 							<GradButton
 								title="View PDF"
-								url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
+								url="/siliconSlopes.pdf"
+								target="blank"
 							/>
 						</div>
 					</div>
