@@ -57,7 +57,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								vid: `https://www.youtube.com/embed/0ggAxP-knMc`
+								vid: `https://www.youtube.com/embed/wigsdEFgrBQ`
 							}
 						}"
 					>
@@ -87,7 +87,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								vid: `https://www.youtube.com/embed/H8QIlN4rfeg`
+								vid: `https://www.youtube.com/embed/BX3ImMPQWqI`
 							}
 						}"
 					>
@@ -110,7 +110,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								vid: `https://www.youtube.com/embed/8Ehxe1HZWUE`
+								vid: `https://www.youtube.com/embed/MoT1BNYbiR0`
 							}
 						}"
 					>
@@ -132,7 +132,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								vid: `https://www.youtube.com/embed/8Ehxe1HZWUE`
+								vid: `https://www.youtube.com/embed/e_RzIbMlBio`
 							}
 						}"
 					>
