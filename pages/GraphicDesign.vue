@@ -483,8 +483,12 @@ export default {
 	.graphicDesign {
 		.projectContainers {
 			#macImg {
-				margin-top: -300px;
-				margin-bottom: 100px;
+				margin-top: 0;
+				margin-bottom: 0;
+			}
+			
+			#firstProjContainer {
+				padding-bottom: 0;
 			}
 			
 			.mainText p {
