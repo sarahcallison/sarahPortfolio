@@ -32,8 +32,8 @@
 							<img
 								class="img-fluid"
 								id="macImg"
-								src="@/assets/images/mac-updated.png"
-								alt="image of mac computer"
+								src="@/assets/images/siliconSlopes.png"
+								alt="image of header that says silicon slopes"
 							/>
 						</div>
 						<div
@@ -361,7 +361,7 @@ export default {
 		padding-bottom: 100px;
 
 		#macImg {
-			margin-top: -200px;
+			margin-top: -300px;
 			margin-bottom: 100px;
 		}
 
