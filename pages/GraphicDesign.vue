@@ -50,7 +50,7 @@
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
-							<p class="highFidText">High-fidelity prototype</p>
+							<p class="highFidText">Design Samples</p>
 							<GradButton
 								title="View PDF"
 								url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
@@ -80,8 +80,7 @@
 								and social media content. I spent some time on 
 								Google and Pinterest researching what other 
 								magazines in Utah are doing right now. 
-								<br />
-								<br />
+
 							</p>
 
 							<h4 class="text-center subtitle">Ideation</h4>
@@ -197,11 +196,11 @@
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
 						<p class="text-center highFidText">
-							High-fidelity prototype
+							Design Samples
 						</p>
 						<GradButton
 							class="text-center"
-							title="Go To XD Adobe.com"
+							title="View PDF"
 							url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
 						/>
 					</div>
