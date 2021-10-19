@@ -33,7 +33,7 @@
 								class="img-fluid"
 								id="macImg"
 								src="@/assets/images/digital/brandishApp.png"
-								alt="image of mac computer"
+								alt="image of brandish app on smartphone"
 							/>
 						</div>
 						<div
@@ -56,7 +56,7 @@
 							<p class="highFidText">High-fidelity prototype</p>
 							<GradButton
 								title="Go To XD Adobe.com"
-								url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
+								url="https://xd.adobe.com/view/2b0ab223-73b6-45af-9dfc-a08ab92c8c44-7e59/"
 							/>
 						</div>
 					</div>
