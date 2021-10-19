@@ -502,4 +502,28 @@ export default {
 		}
 	}
 }
+
+@media only screen and (min-width: 1200px) {
+	.graphicDesign {
+		.projectContainers {
+			#macImg {
+				margin-top: 0;
+				margin-bottom: 0;
+			}
+			
+			#firstProjContainer {
+				padding-bottom: 0;
+			}
+			
+			.mainText p {
+				width: 600px;
+				margin: 0 auto;
+			}
+			
+			.highFidText {
+				margin-bottom: 2rem;
+			}
+		}
+	}
+}
 </style>
