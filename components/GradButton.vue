@@ -17,7 +17,7 @@ export default {
 
 <style lang="scss" scoped>
 #gradButton {
-	margin: 50px 0;
+	margin: 50px 0 0 0;
 	cursor: pointer;
 	a {
 		text-decoration: none;
