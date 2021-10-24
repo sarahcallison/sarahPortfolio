@@ -43,7 +43,8 @@
 							<p>
 								How can we combine the digital and physical world to 
 								create a deeper layer of engagement? Augmented reality 
-								(AR) is one answer. My group was tasked with enhancing 
+								(AR) is one answer. In my Immersive Authoring II course, 
+								my group was tasked with enhancing 
 								a print book which features at least eight AR features. 
 								We worked in teams of two English students and two 
 								Digital Media students to write, design, and print a 
