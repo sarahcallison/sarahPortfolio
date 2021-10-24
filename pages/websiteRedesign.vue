@@ -471,6 +471,9 @@ export default {
 	padding-bottom: 50px;
 	}
 	
+	blockquote {
+		margin-left: 5%;
+	}
 	
 #problemHeader {	
 	margin-bottom: 35px;
