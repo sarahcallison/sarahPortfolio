@@ -117,8 +117,8 @@
 							<h4 class="text-center subtitle">Ideation</h4>
 
 							<p>
-								I began the ideation process by sketching, progressing to low-
-								fidelity wireframes. With each iteration, I included more content 
+								I began the ideation process by sketching, progressing to low-fidelity 
+								wireframes. With each iteration, I included more content 
 								from my research to build a richer experience for the user.  
 								<br />
 								<br />
