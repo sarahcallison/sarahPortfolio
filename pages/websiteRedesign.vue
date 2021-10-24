@@ -207,7 +207,7 @@
 								leave the issue of user testing alone until other projects were finished.
 								<br />
 								<br />
-								A few months later, I drafted a <a target="blank" href="/usabilityTestPlan>usability test plan</a> 
+								A few months later, I drafted a <a target="blank" href="/usabilityTestPlan">usability test plan</a> 
 								and researched several testing 
 								platforms we could use and pitched them to the director. This time, he was on board 
 								and I contacted our developer about adding the code. The developer informed us 
