@@ -44,7 +44,7 @@
 								When I joined the Academic Tutoring team, the visual presence of the 
 								department fit the persona of a staid academic office—sedate, respectable, 
 								and unadventurous. To align the department’s appearance with its forward-
-								thinking mission, a new brand identity and an updated website were in order.
+							thinking mission, a new brand identity and an updated website were in order.
 								<br />
 								<br />
 								My role in this project was responsible for all UX/UI aspects; I was a UX team of one.
@@ -117,6 +117,7 @@
 								Academic Tutoring’s mission statement:
 								<br />
 								<br />
+								<blockquote>
 								Academic Tutoring embraces the power of students helping
 								students and supports all individuals—regardless of identity,
 								culture, point of view, or background—as they navigate the
@@ -124,6 +125,7 @@
 								focus on gateway major courses, certified student employees
 								work alongside each student to foster serious academic
 								exploration and inspire lifelong learning.
+								</blockquote>
 								<br />
 								<br />
 								When I presented mock ups of the landing page in both a hand 
