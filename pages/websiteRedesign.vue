@@ -117,7 +117,7 @@
 								<br />
 								<br />
 								<blockquote>
-								<p/>Academic Tutoring embraces the power of students helping
+								<p>Academic Tutoring embraces the power of students helping
 								students and supports all individuals—regardless of identity,
 								culture, point of view, or background—as they navigate the
 								challenges associated with their educational goals. With a
