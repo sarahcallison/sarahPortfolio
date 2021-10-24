@@ -113,17 +113,17 @@
 								mission. 
 								<br />
 								<br />
-								Academic Tutoring’s mission statement:</p>
+								Academic Tutoring’s mission statement:
 								<br />
-								<blockquote>
-								<p>Academic Tutoring embraces the power of students helping
+								<br />
+								Academic Tutoring embraces the power of students helping
 								students and supports all individuals—regardless of identity,
 								culture, point of view, or background—as they navigate the
 								challenges associated with their educational goals. With a
 								focus on gateway major courses, certified student employees
 								work alongside each student to foster serious academic
 								exploration and inspire lifelong learning.
-								</p></blockquote>
+								<br />
 								<br />
 								<p>When I presented mock ups of the landing page in both a hand 
 								drawn and a vector-based style, the team unanimously agreed 
