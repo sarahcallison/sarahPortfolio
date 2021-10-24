@@ -179,6 +179,11 @@
 								UVU’s primary color palette is forest green, black, white and metallic silver. 
 								Per UVU’s style guide, a complimentary color palette of lighter greens can be 
 								used with discretion in addition to the primary palette. 
+								<br />
+								<br />
+								Since UVU uses pre-coded elements, we were somewhat constrained by what we 
+								could include in the UI. Custom elements mean more work for the developer 
+								and are not always approved.
 							</p>
 
 							<h4 class="text-center subtitle">Problem Solving</h4>
@@ -234,6 +239,11 @@
 								removed from the site. Any content which was placed above essential information about 
 								our services, such as hours and locations, was removed or placed lower on the page so 
 								that this information was the first content to be seen. 
+								<br />
+								<br />
+								I would have chosen to remove some of the heavier green elements, such as the drop-down
+								tiles featured on the Supplemental Instruction page, to make the UI feel cleaner. The team
+								preferred to keep these elements in the second iteration. 
 								<br />
 								<br />
 								I gathered some user feedback by external means. A project for one of my classes required 
