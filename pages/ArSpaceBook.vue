@@ -41,10 +41,18 @@
 						>
 							<h2 id="problemHeader">The Problem</h2>
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
+								How can we combine the digital and physical world to 
+								create a deeper layer of engagement? Augmented reality 
+								(AR) is one answer. My group was tasked with enhancing 
+								a print book which features at least eight AR features. 
+								We worked in teams of two English students and two 
+								Digital Media students to write, design, and print a 
+								book on a topic of our choice. I was responsible for 
+								creating the AR features and the cover designs. 
+								
+							<br />
+							<br />
+							*Image of print book - text Abby*
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
@@ -72,113 +80,141 @@
 							</h4>
 
 							<p class="text-left">
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit, efficitur convallis nisi feugiat quis. Ut
-								lacus est, egestas vel feugiat in, vehicula quis
-								tortor. Cras pretium odio nisl, eget dignissim
-								nunc commodo et.
+								Our topic needed to be something that the 
+								English students could write persuasively 
+								about. Since the Perseverance rover was to 
+								be launched during the course of our project, 
+								we considered the question of whether a 
+								manned mission to Mars would be feasible in 
+								light of concerns about the health of the 
+								astronauts. The English students would argue 
+								that these missions are feasible due to 
+								advances in medical and nutritional science. 
+								The Digital Media students would create 
+								graphics and AR features that enabled our 
+								users to “experience” what it might be like 
+								to be on a long-term mission in space. 
+
 								<br />
 								<br />
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae; Mauris ultricies blandit metus, et cursus
-								urna congue ut. Mauris mollis tortor eget nisl
-								scelerisque sagittis. Etiam nisl orci, malesuada
-								et aliquet vel, congue sit amet ex. Curabitur
-								tincidunt lacinia ligula, eu pellentesque lectus
-								vestibulum vitae. Sed eu mauris eu sem viverra
-								aliquet. Aliquam erat volutpat. Sed lacinia
-								massa ornare rhoncus facilisis.
+								I researched dozens of NASA articles/videos 
+								and made note of elements that surprised me 
+								or seemed significant to me. As I reviewed 
+								NASA’s content, I asked myself, how could 
+								this cool fact be translated into an AR experience? 
 							</p>
 
-							<h4 class="text-center subtitle">Ux Framework</h4>
-					
-
-							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
-								<br />
-								<br />
-
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
-							</p>
 
 							<h4 class="text-center subtitle">Ideation</h4>
 							
 
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
+								Our professor asked us to make a list of 
+								possible AR features. This turned out to 
+								be a great way to brainstorm. To meet 
+								project requirements, our book was to 
+								include four unique features (we could 
+								have up to two of the same type of feature) 
+								and at least several complex features&#8212;an 
+								original infographic, for example. After 
+								reviewing the capabilities of ZapWorks, 
+								our designated AR-building platform, 
+								Abby and I talked through our lists and 
+								picked these features:
 								<br />
 								<br />
-
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
+								
+								<ul>
+								<li>Face tracking with a 3D model of an astronaut helmet</li>
+								<li>360 image of the surface of Mars (GYROSCOPE?)</li>
+								<li>A sampling of space shuttle flight decks and launched in 360</li>
+								<li>An original animation about nutrition in space</li>
+								<li>An original interactive infographic about some of the common problems astronauts encounter in space</li>
+								<li>An original interactive timeline about the food and nutrition history of space travel</li>
+								<li>A 3D model of the Perseverance rover</li>
+								<li>A telescope view of the night with a parallax effect (original feature created in ZapWorks)</li>
+							</ul>
+							<br />
+							<br />
+							*Image of parallax feature* 
+							<br />
+							<br />
+							Whenever I don’t know where to start, I start 
+							sketching. It took several iterations to 
+							incorporate all of the key points from my NASA 
+							research, but then I was ready to find assets 
+							for my components of the project.
+							<br />
+							<br />
+							*Images of the sketches*
 							</p>
 
 							<h4 class="text-center subtitle">Ui Design</h4>
 						
 
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
+								Our goal was to enable the reader to experience
+								what long-term space travel might be like. We 
+								chose a minimalistic style and let the beautiful 
+								images from NASA speak for themselves. 
 								<br />
 								<br />
-
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
+								One of the key concepts in the book’s copy is 
+								that a manned mission to Mars, though many 
+								years from becoming a reality, should be 
+								pursued. Since the idea of a manned mission to 
+								Mars remains somewhat surreal, I incorporated 
+								surreal elements in the front and back cover 
+								designs. 
+								<br />
+								<br />
+								*Images of covers*
 							</p>
-
-							<h4 class="text-center subtitle">Iteration</h4>
 							
+							<h4 class="text-center subtitle">
+								Problem Solving
+							</h4>
+						
 
 							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
+								The biggest obstacle we faced was the timeline. 
+								The final draft of the copy was due only a few 
+								days before the print deadline. We had an early 
+								version of the copy which included about half 
+								of the required content. We had all of the main 
+								ideas, but didn’t have the final version until 
+								the day it was due.
 								<br />
 								<br />
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
+								I intended to prepare as much of the AR content 
+								as I could before receiving the final draft. 
+								Originally, I planned to create the ZapWorks 
+								projects, download the zap codes (like a QR code) 
+								to include in the print design, and upload the AR 
+								content after the book was sent to print. In 
+								reviewing ZapWorks, I learned that the platform 
+								provides three tools, or project types, to build 
+								AR experiences: Designer, Studio, and UniversalAR. 
+								The ability to switch project types in ZapWorks 
+								has been deprecated so changing the project type 
+								invalidates the zap code. 
+								<br />
+								<br />
+								*Image of page with QR code*
+								<br />
+								<br />
+								This meant that I didn’t have very much time to 
+								figure out if the features I planned would work 
+								with the project type we selected for each ZapCode. 
+								As a work around, I created dummy content to upload 
+								to test the project types, which made for more work, 
+								but ensured the success of our AR features. 
+								<br />
+								<br />
+								Since ZapWorks was a new platform to both me and my 
+								partner, most of the time I spent creating the AR 
+								features was invested in testing the experience on 
+								both Android and iOS devices. 
 							</p>
 
 							<img
@@ -199,27 +235,6 @@
 								Second Iteration
 							</figcaption>
 
-							<h4 class="text-center subtitle">
-								Problem Solving
-							</h4>
-						
-
-							<p>
-								Lorem ipsum dolor sit amet, consectetur
-								adipiscing elit. Nullam dapibus convallis sapien
-								sed egestas. Nunc suscipit sem lorem, non
-								pretium risus rutrum ut. Mauris sagittis urna
-								elit.
-								<br />
-								<br />
-								Aliquam hendrerit vitae tortor id iaculis.
-								Vestibulum varius quam eros, sit amet mattis
-								nulla varius vel. Maecenas feugiat mi quis
-								mattis ultricies. Morbi vitae lectus in erat
-								blandit egestas. Vestibulum ante ipsum primis in
-								faucibus orci luctus et ultrices posuere cubilia
-								curae;
-							</p>
 
 							<div class="embed-responsive embed-responsive-4by3">
 								<iframe
@@ -247,30 +262,28 @@
 						</h4>
 
 						<p class="text-left">
-							Lorem ipsum dolor sit amet, consectetur adipiscing
-							elit. Nullam dapibus convallis sapien sed egestas.
-							Nunc suscipit sem lorem, non pretium risus rutrum
-							ut. Mauris sagittis urna elit, efficitur convallis
-							nisi feugiat quis. Ut lacus est, egestas vel feugiat
-							in, vehicula quis tortor. Cras pretium odio nisl,
-							eget dignissim nunc commodo et.
+							*Image of astronaut faded and unfaded*
+							<br />
+							<br />
+							Perhaps the most meaningful AR interaction is 
+							featured in the interactive infographic about 
+							issues that astronauts experience in space. When 
+							the user taps on the plus icon over the astronaut’s 
+							heart, popup text explains how astronauts are at-risk 
+							for experiencing psychological and cognitive 
+							difficulties from being isolated in space. As this text
+							appears, the astronaut image desaturates and fades in 
+							opacity. Next, an explanation about how astronauts can 
+							combat these issues appears, and the astronaut image 
+							resaturates and increases to 100% opacity. This 
+							interaction was especially meaningful due to the COVID 
+							lockdowns and gathering restrictions. 
 							<br />
 							<br />
 
-							Aliquam hendrerit vitae tortor id iaculis.
-							Vestibulum varius quam eros, sit amet mattis nulla
-							varius vel. Maecenas feugiat mi quis mattis
-							ultricies. Morbi vitae lectus in erat blandit
-							egestas. Vestibulum ante ipsum primis in faucibus
-							orci luctus et ultrices posuere cubilia curae;
-							Mauris ultricies blandit metus, et cursus urna
-							congue ut. Mauris mollis tortor eget nisl
-							scelerisque sagittis. Etiam nisl orci, malesuada et
-							aliquet vel, congue sit amet ex. Curabitur tincidunt
-							lacinia ligula, eu pellentesque lectus vestibulum
-							vitae. Sed eu mauris eu sem viverra aliquet. Aliquam
-							erat volutpat. Sed lacinia massa ornare rhoncus
-							facilisis.
+							To put it simply, I’ve learned to start early and test 
+							often, and that a finished product is most satisfying 
+							when it adds meaning for the user.
 						</p>
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
