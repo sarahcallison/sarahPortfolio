@@ -47,7 +47,7 @@
 								make their content adaptable across a variety of platforms. 
 								<br />
 								<br />
-								In my Immersive Authoring II course, I was tasked with creating a business persona 
+								In my Adaptive Media Experiences course, I was tasked with creating a business persona 
 								and adapting this persona’s content across multiple platforms. I created Brandish, a would-be marketing 
 								resource, that publishes content about how to build a brand from the ground up. 
 							</p>
