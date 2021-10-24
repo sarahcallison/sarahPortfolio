@@ -472,7 +472,7 @@ export default {
 	}
 	
 	blockquote {
-		margin-left: 5%;
+		margin-left: 10%;
 	}
 	
 #problemHeader {	
