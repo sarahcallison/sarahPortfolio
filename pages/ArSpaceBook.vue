@@ -52,7 +52,6 @@
 								
 							<br />
 							<br />
-							*Image of print book - text Abby*
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
@@ -80,6 +79,9 @@
 							</h4>
 
 							<p class="text-left">
+								*Image of print book - text Abby*
+								<br />
+								<br />
 								Our topic needed to be something that the 
 								English students could write persuasively 
 								about. Since the Perseverance rover was to 
@@ -126,7 +128,7 @@
 								
 								<ul>
 								<li>Face tracking with a 3D model of an astronaut helmet</li>
-								<li>360 image of the surface of Mars (GYROSCOPE?)</li>
+								<li>360 image of the surface of Mars</li>
 								<li>A sampling of space shuttle flight decks and launched in 360</li>
 								<li>An original animation about nutrition in space</li>
 								<li>An original interactive infographic about some of the common problems astronauts encounter in space</li>
@@ -134,8 +136,6 @@
 								<li>A 3D model of the Perseverance rover</li>
 								<li>A telescope view of the night with a parallax effect (original feature created in ZapWorks)</li>
 							</ul>
-							<br />
-							<br />
 							*Image of parallax feature* 
 							<br />
 							<br />
