@@ -482,6 +482,7 @@ export default {
 	
 	blockquote {
 		margin: 0 0 0 10%;
+		width: 600px;
 	}
 	
 #problemHeader {	
