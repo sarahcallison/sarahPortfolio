@@ -481,7 +481,7 @@ export default {
 	}
 	
 	blockquote {
-		margin-left: 10%;
+		margin: 0 0 0 10%;
 	}
 	
 #problemHeader {	
