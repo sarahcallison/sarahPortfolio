@@ -207,8 +207,9 @@
 								leave the issue of user testing alone until other projects were finished.
 								<br />
 								<br />
-								A few months later, I drafted a user test proposal which included several testing 
-								platforms we could use and pitched it to the director. This time, he was on board 
+								A few months later, I drafted a <a target="blank" href="/usabilityTestPlan>usability test plan</a> 
+								and researched several testing 
+								platforms we could use and pitched them to the director. This time, he was on board 
 								and I contacted our developer about adding the code. The developer informed us 
 								that UVU already had user testing protocols in place, but their web team was not
 								able to create a test for us at that time due to a high workload. When I checked 
