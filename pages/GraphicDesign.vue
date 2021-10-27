@@ -450,7 +450,7 @@ export default {
 			#macImg {
 				margin-top: 0;
 			}
-		
+		}
 	}
 }
 
