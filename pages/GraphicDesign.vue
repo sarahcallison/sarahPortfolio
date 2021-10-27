@@ -406,6 +406,13 @@ export default {
 @media only screen and (min-width: 320px) {
 	.graphicDesign {
 	
+		.projectContainers {
+			#macImg {
+				margin-top: 0;
+				margin-bottom: 0;
+			}
+		}
+			
 			#firstProjContainer {
 				padding-bottom: 200px;
 			}
