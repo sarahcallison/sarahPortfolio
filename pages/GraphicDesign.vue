@@ -445,13 +445,6 @@ export default {
 				padding-top: 0px;
 				padding-bottom: 0px;
 			}
-			
-			.projectContainers {
-			#macImg {
-				margin-top: -200px;
-				margin-bottom: 100;
-			}
-			}
 		
 	}
 }
