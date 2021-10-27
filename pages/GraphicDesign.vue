@@ -409,7 +409,7 @@ export default {
 		.projectContainers {
 			#macImg {
 				margin-top: 0;
-				margin-bottom: 0;
+				margin-bottom: 100px;
 			}
 		}
 			
