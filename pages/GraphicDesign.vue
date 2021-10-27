@@ -227,13 +227,11 @@ export default {
 		GradButton,
 		NextNav
 	},
-
 	data() {
 		return {
 			scrollPosition: null
 		};
 	},
-
 	mounted() {
 		window.addEventListener("scroll", this.updateScroll);
 	},
@@ -251,22 +249,18 @@ export default {
 <style lang="scss" scoped>
 .graphicDesign {
 	color: black;
-
 	.noNav {
 	}
-
 	.showNav {
 		position: fixed;
 		bottom: 0;
 		opacity: 0.99;
-
 		animation: fadeIn 1s;
 		-webkit-animation: fadeIn 1s;
 		-moz-animation: fadeIn 1s;
 		-o-animation: fadeIn 1s;
 		-ms-animation: fadeIn 1s;
 	}
-
 	@keyframes fadeIn {
 		0% {
 			opacity: 0;
@@ -275,7 +269,6 @@ export default {
 			opacity: 1;
 		}
 	}
-
 	@-moz-keyframes fadeIn {
 		0% {
 			opacity: 0;
@@ -284,7 +277,6 @@ export default {
 			opacity: 1;
 		}
 	}
-
 	@-webkit-keyframes fadeIn {
 		0% {
 			opacity: 0;
@@ -293,7 +285,6 @@ export default {
 			opacity: 1;
 		}
 	}
-
 	@-o-keyframes fadeIn {
 		0% {
 			opacity: 0;
@@ -302,7 +293,6 @@ export default {
 			opacity: 1;
 		}
 	}
-
 	@-ms-keyframes fadeIn {
 		0% {
 			opacity: 0;
@@ -311,25 +301,21 @@ export default {
 			opacity: 1;
 		}
 	}
-
 	.close {
 		position: absolute;
 		right: 20px;
 		top: 20px;
 		height: 32px;
 		cursor: pointer;
-
 		#closeImg {
 			content: url("@/assets/images/closeHover.png");
 			content: url("@/assets/images/close.png");
 			width: 45px;
-
 			&:hover {
 				content: url("@/assets/images/closeHover.png");
 			}
 		}
 	}
-
 	#firstProjContainer {	
 	padding-bottom: 100px;
 	}
@@ -356,16 +342,13 @@ export default {
 #solutionHeader {
 	font-size: 45px;
 }
-
 	.projectContainers {
 		padding-top: 100px;
 		padding-bottom: 100px;
-
 		#macImg {
 			margin-top: -300px;
 			margin-bottom: 100px;
 		}
-
 		.textSection {
 			h4 {
 				font-size: 14px;
@@ -376,26 +359,21 @@ export default {
 				margin: 60px 0 30px 0;
 				font-size: 20px;
 			}
-
 			.firstHeader {
 				margin: 40px 0;
 			}
-
 			h2 {
 				font-size: 50px;
 				font-family: "Made";
 				color: $header;
 			}
-
 			p {
 				font-size: 16px;
 			}
-
 			figcaption {
 				color: $bodyGray;
 				padding-bottom: 40px;
 			}
-
 			.purpHeader {
 				font-size: 18px;
 				background-image: linear-gradient(
@@ -409,9 +387,7 @@ export default {
 				text-transform: uppercase;
 				margin-top: 25px;
 			}
-
 		}
-
 		.gradLine {
 			height: 3px;
 			width: 80px;
@@ -419,17 +395,14 @@ export default {
 			background-image: linear-gradient(to right, $gradDark, $gradLight);
 		}
 	}
-
 	.infoColor {
 		background-image: linear-gradient(
 			to right,
 			$bgLightPurple,
 			$bgDarkPurple
-		):
+		);
 	}
-
 }
-
 @media only screen and (min-width: 320px) {
 	.graphicDesign {
 	
@@ -446,17 +419,9 @@ export default {
 				padding-top: 0px;
 				padding-bottom: 0px;
 			}
-			
-		.projectContainers {
-			#macImg {
-				margin-top: 0;
-				margin-bottom: 0;
-			}
-			}
 		
 	}
 }
-
 @media only screen and (min-width: 768px) {
 	.graphicDesign {
 		.projectContainers {
@@ -464,13 +429,11 @@ export default {
 				margin-top: 0;
 				margin-bottom: 0;
 			}
-
 			.textSection {
 				h4 {
 					font-size: 16px;
 					letter-spacing: $tracking250;
 				}
-
 				h2 {
 					font-size: 60px;
 					font-family: "Made";
@@ -480,7 +443,6 @@ export default {
 		}
 	}
 }
-
 @media only screen and (min-width: 992px) {
 	.graphicDesign {
 	
@@ -505,6 +467,4 @@ export default {
 		}
 	}
 }
-
-
 </style>
