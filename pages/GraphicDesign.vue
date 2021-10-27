@@ -427,7 +427,7 @@ export default {
 			$bgDarkPurple
 		):
 	}
-}
+
 }
 
 @media only screen and (min-width: 320px) {
