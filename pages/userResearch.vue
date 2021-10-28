@@ -62,8 +62,8 @@
 							
 
 							<h4 class="purpHeader">Deliverables</h4>
-							<p class="highFidText">Interactive infographic
-							Academic research report
+							<p class="highFidText">Interactive infographic<br>
+							Academic research report<br>
 							Provider personas</p>	
 							<GradButton
 								title="View infographic"
