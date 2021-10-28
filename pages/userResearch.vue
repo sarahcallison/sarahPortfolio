@@ -50,14 +50,10 @@
 								to rapidly adopt Telehealth in 2020. An expected three-year 
 								timeframe for remote Telehealth implementation was completed 
 								in an unprecedented three weeks. Improving the user experience 
-								of remote digital healthcare became a global priority.  
-							<br />
-							<br />
-							My senior project group was tasked with improving the Telehealth 
-							experience for users in rural Tahiti. We were unable to travel to 
-							Tahiti due to COVID international travel restrictions, so we 
-							focused on improving the Telehealth experience locally. We were 
-							responsible for the research phase of the project. 
+								of remote digital healthcare became a global priority. My senior 
+								project group was tasked with improving the Telehealth 
+								experience for medical providers. We were 
+								responsible for the research phase of the project. 
 							<br />
 							<br />
 							I was responsible for creating the interactive infographic, writing
@@ -106,6 +102,7 @@
 								After speaking with faculty advisors from the Digital Media and Public 
 								and Community Health departments, we came up with these questions to 
 								guide and focus research tasks: 
+								<br />
 								<ol>
 								<li>What does a provider need to comfortably take care of patients remotely?</li>
 								<li>How are current digital solutions meeting or not meeting provider needs?</li>
