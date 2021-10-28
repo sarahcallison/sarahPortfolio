@@ -62,9 +62,9 @@
 							
 
 							<h4 class="purpHeader">Deliverables</h4>
-							<p class="highFidText">Interactive infographic</p>
-							<p class="highFidText">Academic research report</p>
-							<p class="highFidText">Provider personas</p>	
+							<p class="highFidText">Interactive infographic
+							Academic research report
+							Provider personas</p>	
 							<GradButton
 								title="View infographic"
 								url="https://sarahcallison.github.io/"
