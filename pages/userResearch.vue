@@ -68,6 +68,7 @@
 							<GradButton
 								title="View infographic"
 								url="https://sarahcallison.github.io/"
+								target="blank"
 							/>
 						</div>
 					</div>
