@@ -53,10 +53,15 @@
 								of remote digital healthcare became a global priority.  
 							<br />
 							<br />
-							My senior project group was tasked with improving the Telehealth experience for users in rural Tahiti. We were unable to travel to Tahiti due to COVID international travel restrictions, so we focused on improving the Telehealth experience locally. We were responsible for the research phase of the project. 
+							My senior project group was tasked with improving the Telehealth 
+							experience for users in rural Tahiti. We were unable to travel to 
+							Tahiti due to COVID international travel restrictions, so we 
+							focused on improving the Telehealth experience locally. We were 
+							responsible for the research phase of the project. 
 							<br />
 							<br />
-							I was responsible for creating the interactive infographic, writing the survey and interview questions, and writing the academic research report.
+							I was responsible for creating the interactive infographic, writing
+							the survey and interview questions, and writing the academic research report.
 							</p>
 							
 
@@ -88,71 +93,129 @@
 								*Image of telehealth cover*
 								<br />
 								<br />
-								We began the research phase of this project by completing a review of current Telehealth research. As existing literature focuses primarily on provider acceptance of the use of Telehealth in medical practice, exploratory research to pinpoint user issues experienced by both the provider and the patient was needed. Identifying the underlying cause of these issues would serve as a guide for further research and, in turn, illuminate potential solutions for improving the Telehealth user experience. 
+								We began the research phase of this project by completing a review of 
+								current Telehealth research. As existing literature focuses primarily 
+								on provider acceptance of the use of Telehealth in medical practice, 
+								exploratory research to pinpoint user issues experienced by both the 
+								provider and the patient was needed. Identifying the underlying cause 
+								of these issues would serve as a guide for further research and, in 
+								turn, illuminate potential solutions for improving the Telehealth 
+								user experience. 
 								<br />
 								<br />
-								After speaking with faculty advisors from the Digital Media and Public and Community Health departments, we came up with these questions to guide and focus research tasks: 
+								After speaking with faculty advisors from the Digital Media and Public 
+								and Community Health departments, we came up with these questions to 
+								guide and focus research tasks: 
 								<ol>
 								<li>What does a provider need to comfortably take care of patients remotely?</li>
 								<li>How are current digital solutions meeting or not meeting provider needs?</li>
 								<li>What gaps in patient care need to be filled?</li>	
 								</ol>
-								A focus on providers in the first phase of our project would serve to guide future research into how issues in the provider user experience impact patient outcomes. 
+								A focus on providers in the first phase of our project would serve to 
+								guide future research into how issues in the provider user experience 
+								impact patient outcomes. 
 								<br />
 								<br />
 								*Image of app research icons*
 								<br />
 								<br />
-								One of the issues that was discussed in the early stages of this research is poor Internet connectivity. Developing a medical resource app that would be available offline was considered. In an audit of current medical resource technology, 16 apps with user reviews of four stars or higher were identified, seven of which are available offline. We refocused our research activities on how to improve existing digital solutions. 
+								One of the issues that was discussed in the early stages of this research 
+								is poor Internet connectivity. Developing a medical resource app that would 
+								be available offline was considered. In an audit of current medical resource
+								technology, 16 apps with user reviews of four stars or higher were identified, 
+								seven of which are available offline. We refocused our research activities on 
+								how to improve existing digital solutions. 
 								<br />
 								<br />
-								In a review of the literature regarding design research methodologies, two concepts were emphasized repeatedly by UX researchers: the importance of variety in obtaining valid results and the use of research as a tool to fuel the design process. 
-								Instead of designing a perfect quantitative study with a large N, researching a diverse set of circumstances can save time, be cost-effective, and deliver useful insights. Sample size is important; however, a large sample of very similar participants may produce results that are not representative of the target audience as a whole. For results that are externally valid, a diverse set of users and conditions should be tested.
+								In a review of the literature regarding design research methodologies, two 
+								concepts were emphasized repeatedly by UX researchers: the importance of 
+								variety in obtaining valid results and the use of research as a tool to fuel 
+								the design process. Instead of designing a perfect quantitative study with a 
+								large N, researching a diverse set of circumstances can save time, be cost-effective,
+								and deliver useful insights. Sample size is important; however, a large sample 
+								of very similar participants may produce results that are not representative of 
+								the target audience as a whole. For results that are externally valid, a diverse 
+								set of users and conditions should be tested.
 								<br />
 								<br />
-								Since time is frequently a limitation, designing a perfect study may not be feasible. Researchers from the Nielsen Norman Group, a premier resource in UX research and design, say that it is most important to start somewhere and keep learning. Research activities should be planned and executed to inform the next step in the design process.
+								Since time is frequently a limitation, designing a perfect study may not be 
+								feasible. Researchers from the Nielsen Norman Group, a premier resource in UX 
+								research and design, say that it is most important to start somewhere and keep 
+								learning. Research activities should be planned and executed to inform the next 
+								step in the design process.
 							</p>
 
 							<h4 class="text-center subtitle">Methods</h4>
 							
 
 							<p>
-								For a more accurate analysis of the Telehealth provider experience, quantitative and qualitative user research methods were utilized. To first identify, and then quantify provider user experience issues, we created a 10-question, multiple choice survey using the Qualtrics platform. This survey was designed to be taken by providers in approximately two minutes. Question topics included how digital solutions are used by providers in daily practice and what issues are encountered during digital solutions usage. 
+								For a more accurate analysis of the Telehealth provider experience, quantitative 
+								and qualitative user research methods were utilized. To first identify, and then 
+								quantify provider user experience issues, we created a 10-question, multiple choice 
+								survey using the Qualtrics platform. This survey was designed to be taken by providers 
+								in approximately two minutes. Question topics included how digital solutions are used 
+								by providers in daily practice and what issues are encountered during digital solutions 
+								usage. 
 								<br />
 								<br />
 
-								The survey link was sent to twenty healthcare clinics and a teletherapy organization, all located within the United States. Additionally, the survey was advertised on the personal social media channels of the researchers. No incentive was offered for completion of the survey. 
+								The survey link was sent to twenty healthcare clinics and a teletherapy organization, 
+								all located within the United States. Additionally, the survey was advertised on the 
+								personal social media channels of the researchers. No incentive was offered for 
+								completion of the survey. 
 								<br />
 								<br />
-								User interviews were utilized to gather qualitative data. The final question of the survey asked providers to share their email address if they would be willing to answer additional questions regarding their Telehealth user experience. The SignUp Genius platform was used to schedule interview time slots. Providers were invited in an email to sign up for a 30-minute remote interview which would take place on Zoom. Interview invitations included a digital recording release form. 
+								User interviews were utilized to gather qualitative data. The final question of the 
+								survey asked providers to share their email address if they would be willing to answer 
+								additional questions regarding their Telehealth user experience. The SignUp Genius 
+								platform was used to schedule interview time slots. Providers were invited in an email
+								to sign up for a 30-minute remote interview which would take place on Zoom. Interview 
+								invitations included a digital recording release form. 
 								<br />
 								<br />
-								Interview questions were designed to probe for the underlying cause of Telehealth user experience issues without leading the interviewee to give expected answers. Providers were asked to identify which user experience issue had the greatest impact on their ability to provide medical care. Additional questions asked providers to describe the functionality of digital solutions given an ideal world. A script was used to standardize each interview and to avoid variations in interview questions that may have biased the responses.
+								Interview questions were designed to probe for the underlying cause of Telehealth user 
+								experience issues without leading the interviewee to give expected answers. Providers 
+								were asked to identify which user experience issue had the greatest impact on their
+								ability to provide medical care. Additional questions asked providers to describe the 
+								functionality of digital solutions given an ideal world. A script was used to standardize
+								each interview and to avoid variations in interview questions that may have biased the 
+								responses.
 							</p>
 
 							<h4 class="text-center subtitle">Results</h4>
 							
 
 							<p>
-								49 clinicians in 17 different medical professions completed the survey. Of the 49 respondents, 58.5 percent utilize a digital solution to find information regarding best practice at least once per day. 26.8 percent of the survey sample uses digital solutions for this purpose multiple times per day. 
+								49 clinicians in 17 different medical professions completed the survey. Of the 49 
+								respondents, 58.5 percent utilize a digital solution to find information regarding 
+								best practice at least once per day. 26.8 percent of the survey sample uses digital 
+								solutions for this purpose multiple times per day. 
 								<br />
 								<br />
 								*Graphs*
 								<br />
 								<br />
-								The frequency in use of digital solutions as a resource for medical information was not surprising. However, lack of Internet connectivity or a digital solution “not working” occurred within our sample population less frequently than was expected. Issues were experienced only several times per month by 43.9 percent of our sample. Another 43.9 percent never experienced these issues. 
+								The frequency in use of digital solutions as a resource for medical information was 
+								not surprising. However, lack of Internet connectivity or a digital solution “not 
+								working” occurred within our sample population less frequently than was expected. 
+								Issues were experienced only several times per month by 43.9 percent of our sample. 
+								Another 43.9 percent never experienced these issues. 
 								<br />
 								<br />
 								*Graphs*
 								<br />
 								<br />
-								Although these issues were experienced relatively infrequently, 61 percent of our respondents indicated that their ability to provide care was impacted when their Internet or digital solution was not working. 
+								Although these issues were experienced relatively infrequently, 61 percent of our 
+								respondents indicated that their ability to provide care was impacted when their 
+								Internet or digital solution was not working. 
 								<br />
 								<br />
 								*Graphs*
 								<br />
 								<br />
-								Additional issues were experienced as providers navigated the UI of their digital solution. 34 percent of our sample stated that their digital solution was difficult to use or navigate. 
+								Additional issues were experienced as providers navigated the UI of their digital 
+								solution. 34 percent of our sample stated that their digital solution was difficult 
+								to use or navigate. 
 								<br />
 								<br />
 								*Graphs*
@@ -161,7 +224,13 @@
 								View an *interactive infographic* of the survey results. 
 								<br />
 								<br />
-								One of the proponents of user experience research is that three to five percent of participants in a usability study identify 85 percent of the usability issues. Of the 49 respondents, 88 percent were willing to participate in a user experience interview, however, only six providers responded to our interview invites. Interviews were conducted with each of the six providers who practice in the following care areas: nursing and nurse education, speech therapy, psychology, respiratory therapy, and certified nurse midwifery. 
+								One of the proponents of user experience research is that three to five percent of 
+								participants in a usability study identify 85 percent of the usability issues. Of 
+								the 49 respondents, 88 percent were willing to participate in a user experience 
+								interview, however, only six providers responded to our interview invites. Interviews 
+								were conducted with each of the six providers who practice in the following care areas: 
+								nursing and nurse education, speech therapy, psychology, respiratory therapy, and certified 
+								nurse midwifery. 
 								<br />
 								<br />
 								Although technical issues such as Internet 
