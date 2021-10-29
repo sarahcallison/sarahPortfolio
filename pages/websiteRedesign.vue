@@ -186,7 +186,9 @@
 								Since UVU uses pre-coded elements, we were somewhat constrained by what we 
 								could include in the UI. Custom elements mean more work for the developer 
 								and are not always approved. We edited these elements to match our style by
-								adding hand drawn accents and using a lighter UVU-approved green. 
+								adding hand drawn accents and using a lighter UVU-approved green. We also had to modify 
+								some of our font selections at our developer's request and use UVU-approved fonts like Raleway that were similar 
+								to the fonts we used in our brand identity. 
 								</p>
 								
 								<img
