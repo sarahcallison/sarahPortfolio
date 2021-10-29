@@ -77,15 +77,18 @@
 							<p class="text-left">
 								The research phase of this project progressed quickly. 
 								The director provided me with a set of low-fidelity 
-								wireframes and copy which determined what content would 
-								go on each page. Though the content was already set, I 
-								compiled and prioritized a list of requirements for each 
-								of our user groups: students, UVU faculty and staff, and 
-								the Academic Tutoring staff. Before I was hired, I met 
+								wireframes to give me an idea of what he would like to 
+								see on the new site. I was also given body copy which 
+								determined what content would go on each page. 
+								<br />
+								<br />
+								Before I was hired, I met 
 								with a tutor from Academic Tutoring multiple times during 
 								an academically-challenging semester. This helped me become 
 								familiar with the user experience of a UVU student, our primary
-								audience. 
+								audience. I compiled and prioritized a list of requirements for each 
+								of our user groups: students, UVU faculty and staff, and 
+								the Academic Tutoring staff. 
 								<br />
 								<br />
 
@@ -108,8 +111,8 @@
 								was decided by the team that I would mock up a landing page in several 
 								styles so we could determine which style best communicates our voice. 
 								To get the ideas flowing, the director and I scoured the internet for 
-								examples. Websites with an open, creative feel that featured hand drawn 
-								elements stood out as the style that might best match Academic Tutoring’s
+								examples. Websites with an open, creative feel and sites that featured hand drawn 
+								elements stood out as examples that might best match Academic Tutoring’s
 								mission. 
 								<br />
 								<br />
@@ -125,14 +128,14 @@
 								exploration and inspire lifelong learning.
 								<br />
 								<br />
-								<p>When I presented mock ups of the landing page in both a hand 
+								When I presented mock ups of the landing page in both a hand 
 								drawn and a vector-based style, the team unanimously agreed 
-								that the relaxed appearance of the hand drawn style represents 
+								that the more relaxed appearance of the hand drawn style represents 
 								who we are. Academic Tutoring is meant to be an inclusive, 
 								creative space where students can make mistakes freely without 
 								negative consequences. Using a hand-drawn style moves away from 
-								traditional and institutional academic websites and communicates 
-								an atmosphere where students have space to grow. 
+								the style of traditional and institutional academic websites and communicates 
+								that we have an atmosphere where students have space to grow. 
 								<br />
 								<br />
 								These design decisions should have been verified with user testing 
@@ -165,13 +168,13 @@
 								resemble hand scratches, so it looks like a natural style—like your own
 								hand scratches.” The use of this typeface along with hand-drawn accents, 
 								like an asterisk, resembles hand-drawn notes that a student might make 
-								as they are learning about and exploring new concepts. Clear hierarchy 
+								as they are exploring new concepts. Clear hierarchy 
 								and clean designs add professionalism to this whimsical style.
 								<br />
 								<br />
 								The “base” of each icon was outsourced to save time. Each icon was then 
-								edited to maintain consistency between the icons throughout the site, 
-								and sparkles were added to reflect our creative, open atmosphere.
+								edited to maintain consistency between the icons throughout the site. 
+								Sparkles were added to reflect our creative, open atmosphere.
 								<br />
 								<br />
 								UVU’s primary color palette is forest green, black, white and metallic silver. 
@@ -181,7 +184,15 @@
 								<br />
 								Since UVU uses pre-coded elements, we were somewhat constrained by what we 
 								could include in the UI. Custom elements mean more work for the developer 
-								and are not always approved.
+								and are not always approved. We edited these elements to match our style by
+								adding hand drawn accents and using a lighter UVU-approved green. 
+								<br />
+								<br />
+								<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/landingPage.png"
+								alt="image of mobile phone app design"
+							/>
 							</p>
 
 							<h4 class="text-center subtitle">Problem Solving</h4>
@@ -192,23 +203,23 @@
 								proposed user testing as a means of evaluating our designs to the director, but 
 								he wanted to postpone testing until the website and other upcoming projects were 
 								completed. After getting feedback from a few friends and family members, it was 
-								clear that the amount of content on the subpages (i.e. Peer Tutoring or Online 
+								clear that the amount of content on the subpages (Peer Tutoring or Online 
 								Tutoring) made the site feel cluttered—important information was harder to find. 
 								Some content was repeated on each page to maintain consistency, which resulted 
 								in more clutter.
 								<br />
 								<br />
-								Since this project was my first assignment of my first design position, and the 
-								content was planned and created by the director, I was hesitant to bring up this 
+								Since this was my first assignment of my first design position, I was hesitant to push the
 								issue. The director has a great eye for design and subscribes to high-quality 
-								design content. Since the director didn’t think it was necessary, I decided to 
-								leave the issue of user testing alone until other projects were finished.
+								design content. Since he didn’t think user testing was necessary, I decided to 
+								leave this issue alone.
 								<br />
 								<br />
-								A few months later, I drafted a <a target="blank" href="/usabilityTestPlan.pdf">usability test plan</a> 
+								A few months later, I still felt strongly that we needed to get feedback from our users. I drafted 
+								a <a target="blank" href="/usabilityTestPlan.pdf">usability test plan</a> 
 								and researched several testing 
-								platforms we could use and pitched them to the director. This time, he was on board 
-								and I contacted our developer about adding the code. The developer informed us 
+								platforms we could use. I pitched my plan to the director and this time, he was on board. 
+								I contacted our developer about adding the code. The developer informed us 
 								that UVU already had user testing protocols in place, but their web team was not
 								able to create a test for us at that time due to a high workload. When I checked 
 								with my director again after a couple of months, he said that he liked the website 
@@ -216,7 +227,7 @@
 								<br />
 								<br />
 								After another month or so, several team members provided feedback about the website 
-								which was in line with feedback I had received previously. The site felt cluttered 
+								which was in line with feedback I had received previously: the site felt cluttered 
 								and some of the content was geared toward mid-management level positions such as 
 								faculty or staff, rather than students. I communicated their feedback to the director.
 								By that time, I’d had some successes as an intern with other projects and felt more 
@@ -232,20 +243,33 @@
 							
 
 							<p>
-								The second iteration of the website is a streamlined version of the first iteration. 
+								The second iteration is a streamlined version of the first iteration. 
 								Repetitive content was removed. Content that was geared toward faculty or staff was 
-								removed from the student pages and placed on the Faculty Resources page as needed or 
-								removed from the site. Any content which was placed above essential information about 
+								moved from the student pages to the Faculty Resources page or 
+								deleted from the site. Any content which was placed above essential information about 
 								our services, such as hours and locations, was removed or placed lower on the page so 
-								that this information was the first content to be seen. 
+								that the most important information was the first content to be seen by the user. 
 								<br />
 								<br />
+								*image of peer tutoring page*
+								<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/landingPage.png"
+								alt="image of mobile phone app design"
+							/>
+								
 								I would have chosen to remove some of the heavier green elements, such as the drop-down
 								tiles featured on the Supplemental Instruction page, to make the UI feel cleaner. The team
 								preferred to keep these elements in the second iteration. 
 								<br />
 								<br />
-								I gathered some user feedback by external means. A project for one of my classes required 
+								*image of tiles*
+								<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/landingPage.png"
+								alt="image of mobile phone app design"
+							/>
+								I was able to gather some user feedback by external means. A project for one of my classes required 
 								us to perform three rounds of user testing on an app or a website. I submitted a mockup 
 								similar to Academic Tutoring’s website—one with a combination of images and icons, and 
 								one with only icons. Feedback from 10 UVU students between the ages of 18 - 35 indicated
@@ -253,6 +277,13 @@
 								designs. Based on that feedback, we removed all of the images from the website. 
 								<br />
 								<br />
+								*image of three services*
+								<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/landingPage.png"
+								alt="image of mobile phone app design"
+							/>
+								
 								Feedback from the Academic Tutoring team on the second iteration was positive.
 							</p>
 							
@@ -273,17 +304,6 @@
 							<figcaption class="text-center mt-3">
 								Second Iteration
 							</figcaption>
-
-							<div class="embed-responsive embed-responsive-4by3">
-								<iframe
-									class="embed-responsive-item px-0 mt-5"
-									src="https://drive.google.com/file/d/1rHYEas-9goS-TaNQ705-PsIYNYuTd_hq/preview"
-									allowfullscreen
-								></iframe>
-							</div>
-							<figcaption class="text-center mt-3">
-								Second Iteration
-							</figcaption>
 						</div>
 					</div>
 				</div>
@@ -301,7 +321,7 @@
 
 						<p class="text-left">
 							I learned so many valuable lessons as an intern at Academic Tutoring 
-							that it is challenging to pick only a few. The most important lessons 
+							that it is difficult to pick only a few. The most important lessons 
 							I learned were these:
 
 							<br />
@@ -317,7 +337,7 @@
 							When my pitch for user testing wasn’t approved on multiple occasions, I 
 							realized that it was my pitch that needed to change rather than the director. 
 							A presentation of how user testing could improve the bottom line for Academic 
-							Tutoring rather than a discussion of design principles would have been an 
+							Tutoring rather than a discussion of design principles may have been an 
 							effective strategy.
 							<br />
 							<br />
