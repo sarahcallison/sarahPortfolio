@@ -32,7 +32,7 @@
 							<img
 								class="img-fluid"
 								id="macImg"
-								src="@/assets/images/digital/mac.png"
+								src="@/assets/images/digital/arSpaceBookHeader.png"
 								alt="image of mac computer"
 							/>
 						</div>
