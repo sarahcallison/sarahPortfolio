@@ -43,7 +43,8 @@
 							<p>
 								When I joined the Academic Tutoring team, the visual presence of the 
 								department fit the persona of a staid academic office—sedate, respectable, 
-								and unadventurous. To align the department’s appearance with its forward-thinking mission, a new brand identity and an updated website were in order.
+								and unadventurous. To align the department’s appearance with its forward-thinking 
+								mission, a new brand identity and an updated website were in order.
 								<br />
 								<br />
 								My role in this project was responsible for all UX/UI aspects; I was a UX team of one.
@@ -277,18 +278,8 @@
 								I would have chosen to remove some of the heavier green elements, such as the drop-down
 								tiles featured on the Supplemental Instruction page, to make the UI feel cleaner. The team
 								preferred to keep these elements in the second iteration. 
-								</p>
-								
-								<img
-								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/tiles.png"
-								alt="image of web page"
-							/>
-							<figcaption class="text-center mt-3">
-								Supplemental Instruction tiles
-							</figcaption>
-							
-							<p>
+								<br />
+								<br />
 								I was able to gather some user feedback by external means. A project for one of my classes required 
 								us to perform three rounds of user testing on an app or a website. I submitted a mockup 
 								similar to Academic Tutoring’s website—one with a combination of images and icons, and 
@@ -556,7 +547,7 @@ export default {
 			figcaption {
 				color: $bodyGray;
 				padding-bottom: 40px;
-				font-size: 11px;
+				font-size: 14px;
 			}
 
 			.purpHeader {
