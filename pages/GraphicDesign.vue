@@ -351,7 +351,9 @@ export default {
 			figcaption {
 				color: $bodyGray;
 				padding-bottom: 40px;
+				font-size: 14px;
 			}
+			
 			.purpHeader {
 				font-size: 18px;
 				background-image: linear-gradient(
