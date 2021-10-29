@@ -227,27 +227,8 @@
 								First Iteration
 							</figcaption>
 
-							<img
-								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/second.jpg"
-								alt="image of mobile phone app design"
-							/>
-							<figcaption class="text-center mt-3">
-								Second Iteration
-							</figcaption>
 
-
-							<div class="embed-responsive embed-responsive-4by3">
-								<iframe
-									class="embed-responsive-item px-0 mt-5"
-									src="https://drive.google.com/file/d/1rHYEas-9goS-TaNQ705-PsIYNYuTd_hq/preview"
-									allowfullscreen
-								></iframe>
-							</div>
-							<figcaption class="text-center mt-3">
-								Second Iteration
-							</figcaption>
-						</div>
+							
 					</div>
 				</div>
 			</div>
@@ -493,6 +474,7 @@ export default {
 			figcaption {
 				color: $bodyGray;
 				padding-bottom: 40px;
+				font-size: 14px;
 			}
 
 			.purpHeader {
