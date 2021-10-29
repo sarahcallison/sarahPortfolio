@@ -42,11 +42,11 @@
 							<h2 id="problemHeader">The Problem</h2>
 							<p>
 								Silicon Slopes describes their platform as the voice, hub, and heart of Utah’s 
-								startup and tech community. The Silicon Slopes Magazine layouts are currently 
+								startup and tech community. The layouts for their magazine, the Silicon Slopes Magaine, are currently 
 								completed by a Director of Production who has a good eye for design, but minimal 
-								design experience. Fresh designs were needed to match Silicon Slope’s up-to-date 
+								design experience. Fresh designs were needed to match the magazine's up-to-date 
 								content. I was asked to create design samples for one section of the magazine to 
-								showcase my design skills.
+								showcase my design skills with the possibility of future employment on the magazine staff.
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
@@ -78,7 +78,7 @@
 								I familiarized myself with the Silicon Slopes brand 
 								identity by reviewing content in the most recent 
 								issue of the magazine and by reviewing their web 
-								and social media content. I spent some time on 
+								and social media content. Then I spent some time on 
 								Google and Pinterest researching what other 
 								magazines in Utah are doing right now. 
 
@@ -90,10 +90,8 @@
 							<p>
 								To get the ideas flowing, I sketched design 
 								concepts that came to me while I was researching. 
-								I sketched multiple iterations so that I was 
-								left with several clean ideas. Typically after a 
-								few rounds of sketching, I’m able to work out 
-								the basic elements of a design. Several of the 
+								Typically after a few rounds of sketching, I’m able to work out 
+								the basic elements of a design. However, several of the 
 								designs I sketched proved to be difficult to 
 								create—it would have been a challenge to maintain 
 								continuity between each issue while providing a 
@@ -117,7 +115,7 @@
 								issues titles like, “Winter” and “Spring,” I wanted to 
 								create designs that would be consistently recognizable 
 								as that particular section’s header, but featured a 
-								fresh twist each issue. The winter issue designs 
+								fresh twist in each issue. The winter issue designs 
 								feature snow-capped mountains and pine trees while 
 								the spring designs could incorporate vines and blossoms.
 								<br />
@@ -132,7 +130,7 @@
 							<p>
 								I sent my work to the magazine’s director to get 
 								feedback on changes that may be needed for the 
-								second iteration and to get a style guide.
+								second iteration.
 								His feedback was positive and I was 
 								offered a position. I was to be contacted when they 
 								were ready for me to begin work on the next issue. I 
@@ -149,26 +147,6 @@
 							/>
 							<figcaption class="text-center mt-3">
 								First Iteration
-							</figcaption>
-
-							<img
-								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/second.jpg"
-								alt="image of mobile phone app design"
-							/>
-							<figcaption class="text-center mt-3">
-								Second Iteration
-							</figcaption>
-
-							<div class="embed-responsive embed-responsive-4by3">
-								<iframe
-									class="embed-responsive-item px-0 mt-5"
-									src="https://drive.google.com/file/d/1rHYEas-9goS-TaNQ705-PsIYNYuTd_hq/preview"
-									allowfullscreen
-								></iframe>
-							</div>
-							<figcaption class="text-center mt-3">
-								Second Iteration
 							</figcaption>
 						</div>
 					</div>
