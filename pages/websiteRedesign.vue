@@ -147,7 +147,7 @@
 							<img
 								class="img-fluid px-0 mt-5"
 								src="@/assets/images/digital/landingPage.png"
-								alt="image of mobile phone app design"
+								alt="image of the Academic Tutoring home page"
 							/>
 							<figcaption class="text-center mt-3">
 								Academic Tutoring's new landing page
@@ -190,9 +190,22 @@
 								<br />
 								<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/landingPage.png"
-								alt="image of mobile phone app design"
+								src="@/assets/images/digital/customize.png"
+								alt="image of web page"
 							/>
+							<figcaption class="text-center mt-3">
+								Customized pre-configured elements on the Peer Tutoring page
+							</figcaption>
+							
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/customize2.png"
+								alt="image of web page"
+							/>
+							<figcaption class="text-center mt-3">
+								We used an original image to customize content on the Supplemental Instruction page
+							</figcaption>
+							
 							</p>
 
 							<h4 class="text-center subtitle">Problem Solving</h4>
@@ -251,24 +264,31 @@
 								that the most important information was the first content to be seen by the user. 
 								<br />
 								<br />
-								*image of peer tutoring page*
+								
 								<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/landingPage.png"
-								alt="image of mobile phone app design"
+								src="@/assets/images/digital/importantInfo.png"
+								alt="image of web page"
 							/>
+							<figcaption class="text-center mt-3">
+								The hours and locations of our lab was given priority on this page
+							</figcaption>
 								
 								I would have chosen to remove some of the heavier green elements, such as the drop-down
 								tiles featured on the Supplemental Instruction page, to make the UI feel cleaner. The team
 								preferred to keep these elements in the second iteration. 
 								<br />
 								<br />
-								*image of tiles*
+								
 								<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/landingPage.png"
-								alt="image of mobile phone app design"
+								src="@/assets/images/digital/tiles.png"
+								alt="image of web page"
 							/>
+							<figcaption class="text-center mt-3">
+								Supplemental Instruction tiles
+							</figcaption>
+							
 								I was able to gather some user feedback by external means. A project for one of my classes required 
 								us to perform three rounds of user testing on an app or a website. I submitted a mockup 
 								similar to Academic Tutoring’s website—one with a combination of images and icons, and 
@@ -277,33 +297,17 @@
 								designs. Based on that feedback, we removed all of the images from the website. 
 								<br />
 								<br />
-								*image of three services*
 								<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/landingPage.png"
-								alt="image of mobile phone app design"
+								src="@/assets/images/digital/iconsOnly.png"
+								alt="image of web page"
 							/>
+								<figcaption class="text-center mt-3">
+								Icons on the landing page
+							</figcaption>
 								
-								Feedback from the Academic Tutoring team on the second iteration was positive.
 							</p>
 							
-							<img
-								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/landingPage.png"
-								alt="image of mobile phone app design"
-							/>
-							<figcaption class="text-center mt-3">
-								First Iteration
-							</figcaption>
-
-							<img
-								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/second.jpg"
-								alt="image of mobile phone app design"
-							/>
-							<figcaption class="text-center mt-3">
-								Second Iteration
-							</figcaption>
 						</div>
 					</div>
 				</div>
