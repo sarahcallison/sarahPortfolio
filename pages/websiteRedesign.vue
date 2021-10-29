@@ -188,6 +188,7 @@
 								adding hand drawn accents and using a lighter UVU-approved green. 
 								<br />
 								<br />
+								</p>
 								<img
 								class="img-fluid px-0 mt-5"
 								src="@/assets/images/digital/customize.png"
@@ -206,7 +207,7 @@
 								We used an original image to customize content on the Supplemental Instruction page
 							</figcaption>
 							
-							</p>
+							
 
 							<h4 class="text-center subtitle">Problem Solving</h4>
 							
@@ -264,7 +265,7 @@
 								that the most important information was the first content to be seen by the user. 
 								<br />
 								<br />
-								
+								</p>
 								<img
 								class="img-fluid px-0 mt-5"
 								src="@/assets/images/digital/importantInfo.png"
@@ -273,13 +274,13 @@
 							<figcaption class="text-center mt-3">
 								The hours and locations of our lab was given priority on this page
 							</figcaption>
-								
+								<p>
 								I would have chosen to remove some of the heavier green elements, such as the drop-down
 								tiles featured on the Supplemental Instruction page, to make the UI feel cleaner. The team
 								preferred to keep these elements in the second iteration. 
 								<br />
 								<br />
-								
+								</p>
 								<img
 								class="img-fluid px-0 mt-5"
 								src="@/assets/images/digital/tiles.png"
@@ -288,7 +289,7 @@
 							<figcaption class="text-center mt-3">
 								Supplemental Instruction tiles
 							</figcaption>
-							
+							<p>
 								I was able to gather some user feedback by external means. A project for one of my classes required 
 								us to perform three rounds of user testing on an app or a website. I submitted a mockup 
 								similar to Academic Tutoring’s website—one with a combination of images and icons, and 
@@ -297,6 +298,7 @@
 								designs. Based on that feedback, we removed all of the images from the website. 
 								<br />
 								<br />
+								</p>
 								<img
 								class="img-fluid px-0 mt-5"
 								src="@/assets/images/digital/iconsOnly.png"
@@ -306,7 +308,7 @@
 								Icons on the landing page
 							</figcaption>
 								
-							</p>
+						
 							
 						</div>
 					</div>
