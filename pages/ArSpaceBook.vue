@@ -292,15 +292,6 @@
 							
 							<p class="text-left">
 							
-							<img
-								class="img-fluid px-0 mt-5"
-								src="@/assets/images/print/astronaut.png"
-								alt="image of mobile phone app design"
-							/>
-							<figcaption class="text-center mt-3">
-								A feature in the interactive infographic
-							</figcaption>
-							
 							Perhaps the most meaningful AR interaction is 
 							featured in the interactive infographic about 
 							issues that astronauts experience in space. When 
