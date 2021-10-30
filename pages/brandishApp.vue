@@ -207,20 +207,8 @@
 								navigation. I hid some of the content so that the 
 								user could choose to progressively disclose 
 								content at their own pace. 
-								</p>
-								
-							<div class="centerImg">
-							<img
-								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/platforms.png"
-								alt="image of mobile phone app design"
-							/>
-							<figcaption class="text-center mt-3">
-								Progressive disclosure was used to make the UI cleaner
-							</figcaption>
-							</div>
-								
-								<p>
+								<br />
+								<br />
 								Black and white is bold, but the app’s UI didn’t say 
 								“brandish”—it felt cold and a little flat. I added 
 								some pops of neon-colored gradients and a background 
@@ -429,7 +417,6 @@ export default {
 	}
 	
 	.centerImg {
-		display: flex;
 		margin-left: auto;
 		margin-right: auto;
 	}
