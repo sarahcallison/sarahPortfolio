@@ -188,7 +188,8 @@
 								from an ellipse icon or the word “more” could be used.
 							</p>
 							
-														<img
+							<div class="centerImg">
+							<img
 								class="img-fluid px-0 mt-5"
 								src="@/assets/images/digital/welcome.png"
 								alt="image of mobile phone app navigation"
@@ -196,6 +197,7 @@
 							<figcaption class="text-center mt-3">
 								The bottom nav menu
 							</figcaption>
+							</div>
 
 							<h4 class="text-center subtitle">Iteration</h4>
 
@@ -207,7 +209,8 @@
 								content at their own pace. 
 								</p>
 								
-								<img
+							<div class="centerImg">
+							<img
 								class="img-fluid px-0 mt-5"
 								src="@/assets/images/digital/platforms.png"
 								alt="image of mobile phone app design"
@@ -215,6 +218,7 @@
 							<figcaption class="text-center mt-3">
 								Progressive disclosure was used to make the UI cleaner
 							</figcaption>
+							</div>
 								
 								<p>
 								Black and white is bold, but the app’s UI didn’t say 
@@ -422,6 +426,10 @@ export default {
 				content: url("@/assets/images/closeHover.png");
 			}
 		}
+	}
+	
+	.centerImg {
+		margin: auto;
 	}
 
 	#firstProjContainer {
