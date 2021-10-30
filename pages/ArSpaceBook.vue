@@ -305,8 +305,14 @@
 							resaturates and increases to 100% opacity. This 
 							interaction was especially meaningful due to the COVID 
 							lockdowns and gathering restrictions. 
-							<br />
-							<br />
+							
+							<div class="centerImg">
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/print/astronaut.png"
+								alt="image of zap code"
+							/>
+							</div>
 
 							To put it simply, I’ve learned to start early and test 
 							often, and that a finished product is most satisfying 
@@ -448,6 +454,12 @@ export default {
 		}
 	}
 
+	.centerImg {
+		position:relative;
+		height:100%;
+		width:100%;
+		text-align: center;
+	}
 	
 	#firstProjContainer {	
 		padding-bottom: 100px;
