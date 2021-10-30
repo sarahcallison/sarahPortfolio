@@ -158,7 +158,7 @@
 							
 							<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/c/infographicSketch.jpg"
+								src="@/assets/images/print/infographicSketch.jpg"
 								alt="image of sketches"
 							/>
 							<figcaption class="text-center mt-3">
