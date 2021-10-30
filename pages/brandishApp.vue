@@ -417,8 +417,10 @@ export default {
 	}
 	
 	.centerImg {
-		margin-left: auto;
-		margin-right: auto;
+		position:relative;
+		height:100%;
+		width:100%;
+		text-align: center;
 	}
 
 	#firstProjContainer {
