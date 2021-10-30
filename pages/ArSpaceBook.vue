@@ -305,6 +305,7 @@
 							resaturates and increases to 100% opacity. This 
 							interaction was especially meaningful due to the COVID 
 							lockdowns and gathering restrictions. 
+							</p>
 							
 							<div class="centerImg">
 							<img
@@ -312,8 +313,12 @@
 								src="@/assets/images/print/astronaut.png"
 								alt="image of zap code"
 							/>
+							<figcaption class="text-center mt-3">
+								The astronaut feature in the interactive infographic
+							</figcaption>
 							</div>
 
+							<p class="text-left">
 							To put it simply, I’ve learned to start early and test 
 							often, and that a finished product is most satisfying 
 							when it adds meaning for the user.
