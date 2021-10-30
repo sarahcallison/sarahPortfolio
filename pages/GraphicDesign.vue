@@ -128,6 +128,9 @@
 								src="@/assets/images/print/design1.png"
 								alt="image of magazine header"
 							/>
+							<figcaption class="text-center mt-3">
+								Variation 1
+							</figcaption>
 							
 							
 							<img
@@ -135,6 +138,9 @@
 								src="@/assets/images/print/design2.png"
 								alt="image of magazine header"
 							/>
+							<figcaption class="text-center mt-3">
+								Variation 2
+							</figcaption>
 						
 							
 							<img
@@ -142,7 +148,9 @@
 								src="@/assets/images/print/design3.png"
 								alt="image of magazine header"
 							/>
-							
+							<figcaption class="text-center mt-3">
+								Variation 3
+							</figcaption>
 							
 							
 
