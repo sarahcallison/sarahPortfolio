@@ -82,8 +82,7 @@
 								content and apps are already available. I found 
 								multiple sources that provide marketing services, 
 								such as consulting from Brandology or business card 
-								design from Brandly, rather than guidance on how to 
-								build a brand on your own. One of the more well-known 
+								design from Brandly. One of the more well-known 
 								brand-building platforms, HubSpot, provides some 
 								marketing resources and methodologies, but focuses 
 								on inbound marketing, sales, and service software. 
@@ -93,18 +92,17 @@
 								marketing—at least in the initial stages of growing 
 								their brand. Brandish content, specifically the Brandish 
 								app, is designed to take the user through the process of 
-								building a basic marketing plan—focusing on foundational 
+								building a basic marketing plan—focusing on foundational marketing 
 								concepts rather than the mechanics of tracking leads and 
 								sales. Once the user has the basic concepts down, other 
-								Brandish platforms, such as social channels, would provide 
-								an endless stream of ideas and tips to hone their marketing 
-								efforts.
+								Brandish platforms, such as social channels, provide 
+								ideas and tips to hone their marketing efforts.
 								<br />
 								<br />
 								I was stumped when it came time to pick a name for my business. 
 								It seemed all the variations of the word “brand” were already 
 								in use. I wanted something bold that would stand out from all 
-								of the trendy or obvious choices like brandology or brandily. 
+								of the trendy or obvious choices like brandology or brandily so 
 								I searched online thesauri and talked with friends and family
 								about my ideas. The word “brandish” was proposed. This felt 
 								like a winning combination of the word brand paired with a bold 
@@ -117,25 +115,37 @@
 							<h4 class="text-center subtitle">Ideation</h4>
 
 							<p>
-								I began the ideation process by sketching, progressing to low-fidelity 
-								wireframes. With each iteration, I included more content 
+								I began the ideation process by sketching, and progressed to low-fidelity 
+								wireframes. With each iteration, I added more layers of content 
 								from my research to build a richer experience for the user.  
-								<br />
-								<br />
-
-								*Images of sketches*
-								<br />
-								<br />
-								
+							</p>
+							
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/brandishSketch.jpg"
+								alt="image of brandish logo"
+							/>
+							<figcaption class="text-center mt-3">
+								First iteration of sketches
+							</figcaption>
+							
+								<p>
 								When I was building my business persona, I created a negative 
 								space logo in black and white. I love the simplicity of black and 
 								white. This high-contrast color combination feels clean and bold. 
-								The app’s color scheme matched the logo’s color scheme for the 
-								reasons listed above and consistency with the Brandish brand.
-								<br />
-								<br />
-								*Image of logo*
+								I used black and white as the app’s color scheme for the 
+								reasons listed above and to maintain consistency with the Brandish brand.
 							</p>
+							
+							
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/logo.jpg"
+								alt="image of brandish logo"
+							/>
+							<figcaption class="text-center mt-3">
+								Brandish logo
+							</figcaption>
 
 							<h4 class="text-center subtitle">Ui Design</h4>
 
@@ -156,18 +166,18 @@
 
 								Once I had the dimensions down, I started on the 
 								navigation. Traditionally, a popout menu is featured 
-								in the upper right corner. I’ve frequently found this 
+								in the upper corners of an app. I’ve frequently found this 
 								menu difficult to reach while navigating on my phone. 
 								I have a minor skeletal malformation called Brachydactyly 
-								type D or “stub thumb.” The last phalanx or section of 
+								type D or “stub thumb.” The last section of 
 								my thumb is stunted, making my thumb shorter than average. 
 								This condition is sometimes called “toe thumb.” Imagine 
 								navigating an app with one of your toes! Okay, it’s not 
 								that bad, but it does make reaching that corner menu harder.
 								<br />
 								<br />
-								I decided to do some more research on mobile navigation. 
-								I read an article by UX designer Kiril Karov about 
+								I decided to do some more research on mobile navigation and
+								came across an article by UX designer Kiril Karov about 
 								reinventing app navigation: “One-handed Use of Tab Bar/Bottom 
 								Navigation — Best Practices for Reachability.” Karov talks 
 								about how a majority of users navigate using their thumb, 
@@ -176,10 +186,16 @@
 								use a bottom navigation menu. This app only has three menu 
 								items—if additional items were needed, a menu that pops out 
 								from an ellipse icon or the word “more” could be used.
-								<br />
-								<br />
-								*image of nav*
 							</p>
+							
+														<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/welcome.png"
+								alt="image of mobile phone app navigation"
+							/>
+							<figcaption class="text-center mt-3">
+								The bottom nav menu
+							</figcaption>
 
 							<h4 class="text-center subtitle">Iteration</h4>
 
@@ -188,19 +204,25 @@
 								sections featured too much information for easy 
 								navigation. I hid some of the content so that the 
 								user could choose to progressively disclose 
-								information at their own pace. 
-								<br />
-								<br />
-								*image of plus icons*
-								<br />
-								<br />
+								content at their own pace. 
+								</p>
+								
+								<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/platforms.png"
+								alt="image of mobile phone app design"
+							/>
+							<figcaption class="text-center mt-3">
+								Progressive disclosure was used to make the UI cleaner
+							</figcaption>
+								
+								<p>
 								Black and white is bold, but the app’s UI didn’t say 
 								“brandish”—it felt cold and a little flat. I added 
 								some pops of neon-colored gradients and a background 
 								gradient to add some warmth and texture. 
 								<br />
 								<br />
-								*Iteration images*
 							</p>
 
 							<img
@@ -220,10 +242,6 @@
 							<figcaption class="text-center mt-3">
 								Second Iteration
 							</figcaption>
-
-							<h4 class="text-center subtitle">
-								Problem Solving
-							</h4>
 
 							<div class="embed-responsive embed-responsive-4by3">
 								<iframe
@@ -258,9 +276,12 @@
 							around a problem I experience on a daily basis. Navigating on 
 							my phone wasn’t ruining my day, but it started to bug me 
 							increasingly over time until I was able to put my finger 
-							(or thumb) on what the issue was. I was invested in finding a 
-							solution for one of my frustrating problems. I want to be as 
-							invested in solving frustrating problems for other people, 
+							(or thumb) on what the issue was. 
+							<br />
+							<br />
+							So, I was pretty invested in finding a 
+							solution for one of my frustrating problems. I want to be just as 
+							motivated to solve frustrating problems for other people, 
 							the users, in any project that I design for. Becoming invested 
 							in the problems of someone else takes empathy and hard work, 
 							which is something that I plan to keep practicing. 
