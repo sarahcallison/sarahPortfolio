@@ -33,7 +33,7 @@
 								class="img-fluid"
 								id="macImg"
 								src="@/assets/images/digital/arSpaceBookHeader.png"
-								alt="image of mac computer"
+								alt="image of floating astronaut"
 							/>
 						</div>
 						<div
@@ -85,17 +85,17 @@
 								<br />
 								Our topic needed to be something that the 
 								English students could write persuasively 
-								about. Since the Perseverance rover was to 
+								about. Since the Perseverance rover was scheduled to 
 								be launched during the course of our project, 
 								we considered the question of whether a 
 								manned mission to Mars would be feasible in 
 								light of concerns about the health of the 
 								astronauts. The English students would argue 
-								that these missions are feasible due to 
+								that these missions should be pursued due to 
 								advances in medical and nutritional science. 
 								The Digital Media students would create 
-								graphics and AR features that enabled our 
-								users to “experience” what it might be like 
+								graphics and AR features that enable our 
+								users to experience what it might be like 
 								to be on a long-term mission in space. 
 
 								<br />
@@ -116,8 +116,7 @@
 								possible AR features. This turned out to 
 								be a great way to brainstorm. To meet 
 								project requirements, our book was to 
-								include four unique features (we could 
-								have up to two of the same type of feature) 
+								include four unique features (up to two of the same type of feature) 
 								and at least several complex features&#8212;an 
 								original infographic, for example. After 
 								reviewing the capabilities of ZapWorks, 
@@ -130,36 +129,63 @@
 								<ul>
 								<li>Face tracking with a 3D model of an astronaut helmet</li>
 								<li>360 image of the surface of Mars</li>
-								<li>A sampling of space shuttle flight decks and launched in 360</li>
+								<li>A sampling of space shuttle flight decks and launches in 360</li>
 								<li>An original animation about nutrition in space</li>
 								<li>An original interactive infographic about some of the common problems astronauts encounter in space</li>
-								<li>An original interactive timeline about the food and nutrition history of space travel</li>
+								<li>An original animated timeline about the food and nutrition history of space travel</li>
 								<li>A 3D model of the Perseverance rover</li>
-								<li>A telescope view of the night with a parallax effect (original feature created in ZapWorks)</li>
+								<li>A telescope view of the night sky with a parallax effect (original feature created in ZapWorks)</li>
 							</ul>
-							*Image of parallax feature* 
-							<br />
-							<br />
+							</p>
+							
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/parallax.png"
+								alt="image of night sky through telescope"
+							/>
+							<figcaption class="text-center mt-3">
+								A telescope view of the night sky with a parallax effect
+							</figcaption>
+
+							
+							<p>
 							Whenever I don’t know where to start, I start 
 							sketching. It took several iterations to 
 							incorporate all of the key points from my NASA 
 							research, but then I was ready to find assets 
 							for my components of the project.
-							<br />
-							<br />
-							*Images of the sketches*
 							</p>
+							
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/infographicSketch.jpg"
+								alt="image of sketches"
+							/>
+							<figcaption class="text-center mt-3">
+								A sketch of the interactive infographic feature
+							</figcaption>
+							
 
 							<h4 class="text-center subtitle">Ui Design</h4>
 						
 
 							<p>
 								Our goal was to enable the reader to experience
-								what long-term space travel might be like. We 
-								chose a minimalistic style and let the beautiful 
+								what long-term space travel might be like. So we 
+								chose a minimalistic style for the book design and let the beautiful 
 								images from NASA speak for themselves. 
-								<br />
-								<br />
+							</p>
+							
+								<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/rocket.png"
+								alt="image of rocket launch"
+							/>
+							<figcaption class="text-center mt-3">
+								The front cover
+							</figcaption>
+								
+							<p>
 								One of the key concepts in the book’s copy is 
 								that a manned mission to Mars, though many 
 								years from becoming a reality, should be 
@@ -167,10 +193,25 @@
 								Mars remains somewhat surreal, I incorporated 
 								surreal elements in the front and back cover 
 								designs. 
-								<br />
-								<br />
-								*Images of covers*
 							</p>
+							
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/front.jpeg"
+								alt="image of front book cover"
+							/>
+							<figcaption class="text-center mt-3">
+								The front cover
+							</figcaption>
+							
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/back.jpeg"
+								alt="image of back book cover"
+							/>
+							<figcaption class="text-center mt-3">
+								The back cover
+							</figcaption>
 							
 							<h4 class="text-center subtitle">
 								Problem Solving
@@ -199,11 +240,18 @@
 								The ability to switch project types in ZapWorks 
 								has been deprecated so changing the project type 
 								invalidates the zap code. 
-								<br />
-								<br />
-								*Image of page with QR code*
-								<br />
-								<br />
+								</p>
+								
+								<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/zapCode.png"
+								alt="image of zap code"
+							/>
+							<figcaption class="text-center mt-3">
+								The instructions we included at the beginning of the book
+							</figcaption>
+							
+								<p>
 								This meant that I didn’t have very much time to 
 								figure out if the features I planned would work 
 								with the project type we selected for each ZapCode. 
@@ -218,14 +266,7 @@
 								both Android and iOS devices. 
 							</p>
 
-							<img
-								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/first.jpg"
-								alt="image of mobile phone app design"
-							/>
-							<figcaption class="text-center mt-3">
-								First Iteration
-							</figcaption>
+							
 
 
 							
@@ -243,10 +284,16 @@
 							Lessons Learned
 						</h4>
 
-						<p class="text-left">
-							*Image of astronaut faded and unfaded*
-							<br />
-							<br />
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/zapCode.png"
+								alt="image of mobile phone app design"
+							/>
+							<figcaption class="text-center mt-3">
+								A feature in the interactive infographic
+							</figcaption>
+							
+							<p class="text-left">
 							Perhaps the most meaningful AR interaction is 
 							featured in the interactive infographic about 
 							issues that astronauts experience in space. When 
