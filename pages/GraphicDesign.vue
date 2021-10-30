@@ -128,27 +128,21 @@
 								src="@/assets/images/print/design1.png"
 								alt="image of magazine header"
 							/>
-							<figcaption class="text-center mt-3">
-								First Iteration
-							</figcaption>
+							
 							
 							<img
 								class="img-fluid px-0 mt-5"
 								src="@/assets/images/print/design2.png"
 								alt="image of magazine header"
 							/>
-							<figcaption class="text-center mt-3">
-								First Iteration
-							</figcaption>
+						
 							
 							<img
 								class="img-fluid px-0 mt-5"
 								src="@/assets/images/print/design3.png"
 								alt="image of magazine header"
 							/>
-							<figcaption class="text-center mt-3">
-								First Iteration
-							</figcaption>
+							
 							
 							
 
