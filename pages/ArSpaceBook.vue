@@ -140,7 +140,7 @@
 							
 							<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/parallax.png"
+								src="@/assets/images/print/parallax.png"
 								alt="image of night sky through telescope"
 							/>
 							<figcaption class="text-center mt-3">
@@ -158,7 +158,7 @@
 							
 							<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/infographicSketch.jpg"
+								src="@/assets/images/c/infographicSketch.jpg"
 								alt="image of sketches"
 							/>
 							<figcaption class="text-center mt-3">
@@ -178,7 +178,7 @@
 							
 								<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/rocket.png"
+								src="@/assets/images/print/rocket.png"
 								alt="image of rocket launch"
 							/>
 							<figcaption class="text-center mt-3">
@@ -197,7 +197,7 @@
 							
 							<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/front.jpeg"
+								src="@/assets/images/print/front.jpeg"
 								alt="image of front book cover"
 							/>
 							<figcaption class="text-center mt-3">
@@ -206,7 +206,7 @@
 							
 							<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/back.jpeg"
+								src="@/assets/images/print/back.jpeg"
 								alt="image of back book cover"
 							/>
 							<figcaption class="text-center mt-3">
@@ -244,7 +244,7 @@
 								
 								<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/zapCode.png"
+								src="@/assets/images/print/zapCode.png"
 								alt="image of zap code"
 							/>
 							<figcaption class="text-center mt-3">
@@ -286,7 +286,7 @@
 
 							<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/zapCode.png"
+								src="@/assets/images/print/zapCode.png"
 								alt="image of mobile phone app design"
 							/>
 							<figcaption class="text-center mt-3">
