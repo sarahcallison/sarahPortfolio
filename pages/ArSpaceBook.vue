@@ -136,7 +136,7 @@
 								<li>A 3D model of the Perseverance rover</li>
 								<li>A telescope view of the night sky with a parallax effect (original feature created in ZapWorks)</li>
 							</ul>
-							</p>
+							
 							
 							<img
 								class="img-fluid px-0 mt-5"
@@ -146,7 +146,7 @@
 							<figcaption class="text-center mt-3">
 								A telescope view of the night sky with a parallax effect
 							</figcaption>
-
+							</p>
 							
 							<p>
 							Whenever I don’t know where to start, I start 
@@ -264,6 +264,8 @@
 								partner, most of the time I spent creating the AR 
 								features was invested in testing the experience on 
 								both Android and iOS devices. 
+								<br />
+								<br />
 							</p>
 
 							
@@ -286,7 +288,7 @@
 
 							<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/print/zapCode.png"
+								src="@/assets/images/print/astronaut.png"
 								alt="image of mobile phone app design"
 							/>
 							<figcaption class="text-center mt-3">
