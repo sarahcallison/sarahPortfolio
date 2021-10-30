@@ -120,9 +120,37 @@
 								the spring designs could incorporate vines and blossoms.
 								<br />
 								<br />
+								
+								</p>
 
-								*Images of designs*
-							</p>
+								<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/print/design1"
+								alt="image of magazine header"
+							/>
+							<figcaption class="text-center mt-3">
+								First Iteration
+							</figcaption>
+							
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/print/design2"
+								alt="image of magazine header"
+							/>
+							<figcaption class="text-center mt-3">
+								First Iteration
+							</figcaption>
+							
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/print/design3"
+								alt="image of magazine header"
+							/>
+							<figcaption class="text-center mt-3">
+								First Iteration
+							</figcaption>
+							
+							
 
 							<h4 class="text-center subtitle">Iteration</h4>
 							
@@ -139,15 +167,7 @@
 								the position, due to a miscommunication, the CEO hadn’t 
 								approved a separate position to work on the magazine. 
 							</p>
-
-							<img
-								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/first.jpg"
-								alt="image of mobile phone app design"
-							/>
-							<figcaption class="text-center mt-3">
-								First Iteration
-							</figcaption>
+							
 						</div>
 					</div>
 				</div>
