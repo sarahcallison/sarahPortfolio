@@ -429,7 +429,9 @@ export default {
 	}
 	
 	.centerImg {
-		margin: auto;
+		display: flex;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	#firstProjContainer {
