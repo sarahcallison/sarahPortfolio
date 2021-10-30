@@ -182,7 +182,7 @@
 								alt="image of rocket launch"
 							/>
 							<figcaption class="text-center mt-3">
-								The front cover
+								One of NASA's image assets
 							</figcaption>
 								
 							<p>
