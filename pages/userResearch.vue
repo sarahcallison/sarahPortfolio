@@ -63,6 +63,7 @@
 							<h4 class="purpHeader">Deliverables</h4>
 							<p class="highFidText">Interactive infographic<br>
 							<a href="/academicResearch.pdf" target="blank">Academic research report</a>
+							</p>
 							
 							<GradButton
 								title="View infographic"
@@ -356,8 +357,9 @@
 						</p>
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
-						<p class="highFidText">Interactive infographic<br>
+						<p class="text-center highFidText">Interactive infographic<br>
 							<a href="/academicResearch.pdf" target="blank">Academic research report</a><br>
+							</p>
 							
 							<GradButton
 								title="View infographic"
@@ -510,6 +512,19 @@ export default {
 	}
 	
 	
+a {
+			background-image: linear-gradient(
+					to right,
+					$gradDark,
+					$gradLight
+				);
+				background-clip: text;
+				-webkit-text-fill-color: transparent;
+				-moz-text-fill-color: transparent;
+			}
+			
+		}
+
 #problemHeader {	
 	margin-bottom: 35px;
 	font-size: 45px;
