@@ -62,8 +62,8 @@
 
 							<h4 class="purpHeader">Deliverables</h4>
 							<p class="highFidText">Interactive infographic<br>
-							Academic research report<br>
-							Provider personas</p>	
+							<a href="/docs/academicResearch.pdf" target="blank">Academic research report</a><br>
+							
 							<GradButton
 								title="View infographic"
 								url="https://sarahcallison.github.io/"
@@ -356,14 +356,14 @@
 						</p>
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
-						<p class="text-center highFidText">
-							High-fidelity prototype
-						</p>
-						<GradButton
-							class="text-center"
-							title="Go To XD Adobe.com"
-							url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
-						/>
+						<p class="highFidText">Interactive infographic<br>
+							<a href="/docs/academicResearch.pdf" target="blank">Academic research report</a><br>
+							
+							<GradButton
+								title="View infographic"
+								url="https://sarahcallison.github.io/"
+								target="blank"
+							/>
 					</div>
 				</div>
 			</div>
