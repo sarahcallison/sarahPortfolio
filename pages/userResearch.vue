@@ -358,7 +358,7 @@
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
 						<p class="text-center highFidText">Interactive infographic<br>
-							<a href="/academicResearch.pdf" target="blank">Academic research report</a><br>
+							<a href="/academicResearch.pdf" target="blank">Academic research report</a>
 							</p>
 							
 							<GradButton
@@ -523,7 +523,7 @@ a {
 				-moz-text-fill-color: transparent;
 			}
 			
-		}
+		
 
 #problemHeader {	
 	margin-bottom: 35px;
