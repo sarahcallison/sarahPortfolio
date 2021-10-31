@@ -62,7 +62,7 @@
 
 							<h4 class="purpHeader">Deliverables</h4>
 							<p class="highFidText">Interactive infographic<br>
-							<a href="/docs/academicResearch.pdf" target="blank">Academic research report</a><br>
+							<a href="/academicResearch.pdf" target="blank">Academic research report</a><br>
 							
 							<GradButton
 								title="View infographic"
@@ -357,7 +357,7 @@
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
 						<p class="highFidText">Interactive infographic<br>
-							<a href="/docs/academicResearch.pdf" target="blank">Academic research report</a><br>
+							<a href="/academicResearch.pdf" target="blank">Academic research report</a><br>
 							
 							<GradButton
 								title="View infographic"
