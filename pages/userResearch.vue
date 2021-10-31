@@ -62,7 +62,7 @@
 
 							<h4 class="purpHeader">Deliverables</h4>
 							<p class="highFidText">Interactive infographic<br>
-							<a href="/academicResearch.pdf" target="blank">Academic research report</a><br>
+							<a href="/academicResearch.pdf" target="blank">Academic research report</a>
 							
 							<GradButton
 								title="View infographic"
@@ -315,7 +315,7 @@
 								
 							<img
 								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/persona.png"
+								src="@/assets/images/digital/personas.png"
 								alt="image of persona profile"
 							/>
 							<figcaption class="text-center mt-3">
