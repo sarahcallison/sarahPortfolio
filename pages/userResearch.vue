@@ -262,7 +262,7 @@
 							</figcaption>	
 								
 								<p>
-								View an <a href"https://sarahcallison.github.io/" target="blank">interactive infographic</a> of the survey results. 
+								View an <a href="https://sarahcallison.github.io/" target="blank">interactive infographic</a> of the survey results. 
 								<br />
 								<br />
 								One of the proponents of user experience research is that three to five percent of 
