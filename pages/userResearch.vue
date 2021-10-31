@@ -66,7 +66,7 @@
 							</p>
 							
 							<GradButton
-								title="View interactive infographic"
+								title="View infographic"
 								url="https://sarahcallison.github.io/"
 								target="blank"
 							/>
