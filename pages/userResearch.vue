@@ -66,7 +66,7 @@
 							</p>
 							
 							<GradButton
-								title="View infographic"
+								title="View interactive infographic"
 								url="https://sarahcallison.github.io/"
 								target="blank"
 							/>
@@ -362,6 +362,7 @@
 							</p>
 							
 							<GradButton
+								class="text-center"
 								title="View infographic"
 								url="https://sarahcallison.github.io/"
 								target="blank"
