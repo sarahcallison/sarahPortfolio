@@ -50,14 +50,13 @@
 								to rapidly adopt Telehealth in 2020. An expected three-year 
 								timeframe for remote Telehealth implementation was completed 
 								in an unprecedented three weeks. Improving the user experience 
-								of remote digital healthcare became a global priority. My senior 
-								project group was tasked with improving the Telehealth 
-								experience for medical providers. We were 
-								responsible for the research phase of the project. 
+								of remote digital healthcare became a global priority. 
 							<br />
 							<br />
-							I was responsible for creating the interactive infographic, writing
-							the survey and interview questions, and writing the academic research report.
+								My senior project group was tasked with improving the Telehealth 
+								experience for medical providers. We were responsible for the research phase
+								of the project. I was responsible for creating the interactive infographic, writing
+								the survey and interview questions, and writing the academic research report.
 							</p>
 							
 
@@ -85,9 +84,18 @@
 							<h4 class="text-center subtitle firstHeader">
 								Research
 							</h4>
-
+							
+							
+								<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/cover.png"
+								alt="image of interactive infographic"
+							/>
+							<figcaption class="text-center mt-3">
+								Interactive infographic of survey results
+							</figcaption>
+							
 							<p class="text-left">
-								*Image of telehealth cover*
 								<br />
 								<br />
 								We began the research phase of this project by completing a review of 
@@ -112,11 +120,18 @@
 								A focus on providers in the first phase of our project would serve to 
 								guide future research into how issues in the provider user experience 
 								impact patient outcomes. 
-								<br />
-								<br />
-								*Image of app research icons*
-								<br />
-								<br />
+								</p>
+								
+								<img
+									class="img-fluid px-0 mt-5"
+									src="@/assets/images/digital/apps.png"
+									alt="image of app icons"
+								/>
+								<figcaption class="text-center mt-3">
+									Apps reviewed on Google Play and Apple Store on 9/17/2020
+								</figcaption>
+								
+								<p>
 								One of the issues that was discussed in the early stages of this research 
 								is poor Internet connectivity. Developing a medical resource app that would 
 								be available offline was considered. In an audit of current medical resource
@@ -158,9 +173,9 @@
 								<br />
 
 								The survey link was sent to twenty healthcare clinics and a teletherapy organization, 
-								all located within the United States. Additionally, the survey was advertised on the 
-								personal social media channels of the researchers. No incentive was offered for 
-								completion of the survey. 
+								all located within the United States&#8212;one respondent was located in Europe.
+								Additionally, the survey was advertised on the personal social media channels of the 
+								researchers. No incentive was offered for completion of the survey. 
 								<br />
 								<br />
 								User interviews were utilized to gather qualitative data. The final question of the 
@@ -188,38 +203,66 @@
 								respondents, 58.5 percent utilize a digital solution to find information regarding 
 								best practice at least once per day. 26.8 percent of the survey sample uses digital 
 								solutions for this purpose multiple times per day. 
-								<br />
-								<br />
-								*Graphs*
-								<br />
-								<br />
+								</p>
+								
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/graph2.png"
+								alt="image of graph"
+							/>
+							<figcaption class="text-center mt-3">
+								Provider use of digital solutions
+							</figcaption>
+								
+								<p>
 								The frequency in use of digital solutions as a resource for medical information was 
 								not surprising. However, lack of Internet connectivity or a digital solution “not 
 								working” occurred within our sample population less frequently than was expected. 
 								Issues were experienced only several times per month by 43.9 percent of our sample. 
 								Another 43.9 percent never experienced these issues. 
-								<br />
-								<br />
-								*Graphs*
-								<br />
-								<br />
+								</p>
+								
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/graph4.png"
+								alt="image of graph"
+							/>
+							<figcaption class="text-center mt-3">
+								Internet connectivity issues experienced by providers
+							</figcaption>	
+								
+								<p>
 								Although these issues were experienced relatively infrequently, 61 percent of our 
 								respondents indicated that their ability to provide care was impacted when their 
 								Internet or digital solution was not working. 
-								<br />
-								<br />
-								*Graphs*
-								<br />
-								<br />
+								</p>
+								
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/graph6.png"
+								alt="image of graph"
+							/>
+							<figcaption class="text-center mt-3">
+								Impact of issues on provider's ability to provide care
+							</figcaption>	
+								
+								<p>
 								Additional issues were experienced as providers navigated the UI of their digital 
 								solution. 34 percent of our sample stated that their digital solution was difficult 
 								to use or navigate. 
-								<br />
-								<br />
-								*Graphs*
-								<br />
-								<br />
-								View an *interactive infographic* of the survey results. 
+								</p>
+								
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/graph3.png"
+								alt="image of graph"
+							/>
+							<figcaption class="text-center mt-3">
+								Breakdown of issues experienced by providers
+							</figcaption>	
+								
+								<p>
+								View an <a href"https://sarahcallison.github.io/" target="blank">interactive infographic</a> of the survey results. 
 								<br />
 								<br />
 								One of the proponents of user experience research is that three to five percent of 
@@ -260,7 +303,7 @@
 								avoiding response biases.
 								<br />
 								<br />
-								Four provider *personas*(link)were 
+								Four provider personas were 
 								created as a tool for future researchers. After 
 								exploratory research based on the patient user 
 								experience is completed, patient personas should 
@@ -268,11 +311,18 @@
 								solutions of a chatbot and/or voicebot, and voice-enabled 
 								search and charting will need to be re-evaluated based 
 								on the results of patient user research. 
-								<br />
-								<br />
-								*Image of part of persona*
-								<br />
-								<br />
+								</p>
+								
+							<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/digital/persona.png"
+								alt="image of persona profile"
+							/>
+							<figcaption class="text-center mt-3">
+								Provider personas based on our sample
+							</figcaption>
+								
+								<p>
 								Once research is completed, the design process 
 								should include testing of both low- and high-fidelity 
 								prototypes before building the design. User testing 
@@ -282,34 +332,6 @@
 								testing to identify any user experience issues. 
 							</p>
 
-							<img
-								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/first.jpg"
-								alt="image of mobile phone app design"
-							/>
-							<figcaption class="text-center mt-3">
-								First Iteration
-							</figcaption>
-
-							<img
-								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/second.jpg"
-								alt="image of mobile phone app design"
-							/>
-							<figcaption class="text-center mt-3">
-								Second Iteration
-							</figcaption>
-
-							<div class="embed-responsive embed-responsive-4by3">
-								<iframe
-									class="embed-responsive-item px-0 mt-5"
-									src="https://drive.google.com/file/d/1rHYEas-9goS-TaNQ705-PsIYNYuTd_hq/preview"
-									allowfullscreen
-								></iframe>
-							</div>
-							<figcaption class="text-center mt-3">
-								Second Iteration
-							</figcaption>
 						</div>
 					</div>
 				</div>
