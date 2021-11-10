@@ -29,7 +29,7 @@
 						/>
 					</a>
 					
-					<!--
+					
 					<a href="https://dribbble.com/sarahcal">
 						<img
 							src="@/assets/images/socialIcons/dribble.png"
@@ -37,7 +37,7 @@
 							class="socialImages"
 						/>
 					</a>
-					-->
+					
 				</div>
 			</div>
 		</div>
