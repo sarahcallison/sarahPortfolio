@@ -81,7 +81,7 @@
 					<h2>Brandish App</h2>
 					<div class="gradLine"></div>
 					<p>
-						A high-fidelity prototype of a mobile app that 
+						High-fidelity prototype of an app that 
 						teaches users how to market their brand
 					</p>
 					<NuxtLink
@@ -206,7 +206,7 @@ export default {
 			.textSection {
 					
 				p {
-					width: 85%;
+					width: 65%;
 				}
 			}
 		}
@@ -219,14 +219,14 @@ export default {
 			.textSection {
 					
 				p {
-					width: 85%;
+					width: 65%;
 				}
 				
 				#rightText {
 					display: inline;
 					float: right;
 					margin-bottom: 3rem;
-					margin-left: 15%;
+					margin-left: 22%;
 				}
 				
 				#right {
