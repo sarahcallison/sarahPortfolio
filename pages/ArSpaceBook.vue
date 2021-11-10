@@ -79,14 +79,7 @@
 								Research
 							</h4>
 							
-								<img
-								class="img-fluid px-0 mt-5"
-								src="@/assets/images/print/book.jpg"
-								alt="image of printed book"
-							/>
-							<figcaption class="text-center mt-3">
-								A telescope view of the night sky with a parallax effect
-							</figcaption>
+							
 
 							<p class="text-left">
 								
@@ -277,7 +270,14 @@
 								<br />
 							</p>
 
-							
+								<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/print/book.jpg"
+								alt="image of printed book"
+							/>
+							<figcaption class="text-center mt-3">
+								The front cover of our printed book
+							</figcaption>
 
 
 							
