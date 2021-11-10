@@ -497,10 +497,6 @@ export default {
 	padding-bottom: 50px;
 	}
 	
-	blockquote {
-		margin: 0 0 0 10%;
-		width: 600px;
-	}
 	
 #problemHeader {	
 	margin-bottom: 35px;
@@ -656,7 +652,7 @@ export default {
 			}
 			
 			.mainText p {
-				width: 600px;
+				width: 60%;
 				margin: 0 auto;
 			}
 			
