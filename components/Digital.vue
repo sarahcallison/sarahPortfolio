@@ -206,7 +206,18 @@ export default {
 			.textSection {
 					
 				p {
-					width: 65%;
+					width: 70%;
+				}
+				
+				#rightText {
+					display: inline;
+					float: right;
+					margin-bottom: 3rem;
+					margin-left: 22%;
+				}
+				
+				#right {
+					padding-left: 10%;
 				}
 			}
 		}
