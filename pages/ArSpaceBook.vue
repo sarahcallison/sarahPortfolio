@@ -78,11 +78,18 @@
 							<h4 class="text-center subtitle firstHeader">
 								Research
 							</h4>
+							
+								<img
+								class="img-fluid px-0 mt-5"
+								src="@/assets/images/print/book.jpg"
+								alt="image of printed book"
+							/>
+							<figcaption class="text-center mt-3">
+								A telescope view of the night sky with a parallax effect
+							</figcaption>
 
 							<p class="text-left">
-								*Image of print book - text Abby*
-								<br />
-								<br />
+								
 								Our topic needed to be something that the 
 								English students could write persuasively 
 								about. Since the Perseverance rover was scheduled to 
