@@ -14,6 +14,7 @@
 					-->
 					<a
 						href="https://www.linkedin.com/in/sarah-callison-06227420a"
+						target="blank"
 					>
 						<img
 							src="@/assets/images/socialIcons/linkedIn.png"
@@ -21,7 +22,9 @@
 							class="socialImages"
 						/>
 					</a>
-					<a href="https://instagram.com/ispyadesigner">
+					<a href="https://instagram.com/ispyadesigner"
+						target="blank"
+					>
 						<img
 							src="@/assets/images/socialIcons/instagram.png"
 							alt="instagram icon contact"
@@ -30,7 +33,9 @@
 					</a>
 					
 					
-					<a href="https://dribbble.com/sarahcal">
+					<a href="https://dribbble.com/sarahcal"
+						target="blank"
+						>
 						<img
 							src="@/assets/images/socialIcons/dribble.png"
 							alt="behance icon contact"
