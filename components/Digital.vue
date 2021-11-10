@@ -12,7 +12,7 @@
 					<div class="gradLine"></div>
 					<p>
 						A new brand identity and an updated website 
-						for UVU’s Academic Tutoring department
+						for UVU Academic Tutoring
 					</p>
 					<NuxtLink
 						style="cursor: auto; textDecoration: none;"
