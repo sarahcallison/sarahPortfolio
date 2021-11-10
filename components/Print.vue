@@ -11,7 +11,7 @@
 					<h2>AR Space Book</h2>
 					<div class="gradLine"></div>
 					<p>
-						Print meets augmented reality to bring outer 
+						Augmented reality meets print to bring outer 
 						space to life in the library
 					</p>
 					<NuxtLink
@@ -292,8 +292,19 @@ export default {
 		.projectContainers {
 			.textSection {
 					
-				p {
-					width: 85%;
+					p {
+					width: 75%;
+				}
+				
+				#rightText {
+					display: inline;
+					float: right;
+					margin-bottom: 3rem;
+					margin-left: 22%;
+				}
+				
+				#right {
+					padding-left: 10%;
 				}
 				
 			}
@@ -307,14 +318,14 @@ export default {
 			.textSection {
 					
 				p {
-					width: 85%;
+					width: 70%;
 				}
 				
 				#rightText {
 					display: inline;
 					float: right;
 					margin-bottom: 3rem;
-					margin-left: 15%;
+					margin-left: 22%;
 				}
 				
 				#right {
