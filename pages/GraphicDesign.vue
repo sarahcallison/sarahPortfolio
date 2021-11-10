@@ -466,7 +466,7 @@ export default {
 			}
 			
 			.mainText p {
-				width: 600px;
+				width: 60%;
 				margin: 0 auto;
 			}
 			
