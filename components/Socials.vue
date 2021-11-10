@@ -3,6 +3,7 @@
 		<div class="row justify-content-center my-4">
 			<div class="col-12 col-md-6 col-lg-5">
 				<div class="d-flex justify-content-around">
+				<!--
 					<a href="https://behance.net/sarahcallison">
 						<img
 							src="@/assets/images/socialIcons/behance.png"
@@ -10,6 +11,7 @@
 							class="socialImages"
 						/>
 					</a>
+					-->
 					<a
 						href="https://www.linkedin.com/in/sarah-callison-06227420a"
 					>
@@ -26,6 +28,8 @@
 							class="socialImages"
 						/>
 					</a>
+					
+					<!--
 					<a href="https://dribbble.com/sarahcal">
 						<img
 							src="@/assets/images/socialIcons/dribble.png"
@@ -33,6 +37,7 @@
 							class="socialImages"
 						/>
 					</a>
+					-->
 				</div>
 			</div>
 		</div>
