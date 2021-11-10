@@ -219,7 +219,7 @@ export default {
 			.textSection {
 					
 				p {
-					width: 75%;
+					width: 70%;
 				}
 				
 				#rightText {
