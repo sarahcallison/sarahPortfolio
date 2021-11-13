@@ -87,29 +87,12 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: '/print/showerCard' }
+							params: { img: '/print/fancyAmp' }
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/print/cardMockUp.jpg"
-							alt="image of invitations and cards"
-						/>
-					</NuxtLink>
-				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<NuxtLink
-						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
-							params: { img: `/print/greenSpread` }
-						}"
-					>
-						<img
-							class="img-fluid"
-							src="@/assets/images/print/greenSpread.jpg"
+							src="@/assets/images/print/fancyAmp.jpg"
 							alt="image of invitations and cards"
 						/>
 					</NuxtLink>
@@ -138,12 +121,46 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
+							params: { img: `/print/otherPurpleFlowers` }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/otherPurpleFlowers.jpg"
+							alt="image of invitations and cards"
+						/>
+					</NuxtLink>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
 							params: { img: `/print/plantAndPencil` }
 						}"
 					>
 						<img
 							class="img-fluid"
 							src="@/assets/images/print/plantAndPencil.jpg"
+							alt="image of invitations and cards"
+						/>
+					</NuxtLink>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: { img: `/print/floralAmp` }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/floralAmp.jpg"
 							alt="image of invitations and cards"
 						/>
 					</NuxtLink>
@@ -178,6 +195,40 @@
 						<img
 							class="img-fluid"
 							src="@/assets/images/print/rosesAndLeaves.jpg"
+							alt="image of invitations and cards"
+						/>
+					</NuxtLink>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: { img: `/print/theWeddingOf` }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/theWeddingOf.jpg"
+							alt="image of invitations and cards"
+						/>
+					</NuxtLink>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: { img: `/print/vines` }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/vines.jpg"
 							alt="image of invitations and cards"
 						/>
 					</NuxtLink>
