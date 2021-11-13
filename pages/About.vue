@@ -84,7 +84,7 @@ export default {
 	.aboutTextContainer {
 		h1 {
 			font-family: "Made";
-			margin-top: 100px;
+			margin-top: 4%;
 			color: $header;
 			font-size: 50px;
 		}
