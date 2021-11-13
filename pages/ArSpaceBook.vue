@@ -60,6 +60,7 @@
 							<GradButton
 								title="View PDF of Book"
 								url="/printPages.pdf"
+								target="blank"
 							/>
 						</div>
 					</div>
@@ -339,6 +340,7 @@
 							class="text-center"
 							title="View PDF of book"
 							url="/printPages.pdf"
+							target="blank"
 						/>
 					</div>
 				</div>
