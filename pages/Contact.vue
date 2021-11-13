@@ -11,7 +11,7 @@
 							<div class="col-11 col-md-6 align-self-center">
 								<h1>Need to launch an idea?</h1>
 								<p>
-									I’d love to talk about your next project.
+									I’d to talk about your next project.
 									Send me an email or connect with me on
 									LinkedIn, Instagram, Behance or Dribble.
 								</p>
