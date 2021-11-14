@@ -113,6 +113,7 @@
 								and Community Health departments, we came up with these questions to 
 								guide and focus research tasks: 
 								<br />
+								<br />
 								<ol>
 								<li>What does a provider need to comfortably take care of patients remotely?</li>
 								<li>How are current digital solutions meeting or not meeting provider needs?</li>
@@ -121,18 +122,9 @@
 								A focus on providers in the first phase of our project would serve to 
 								guide future research into how issues in the provider user experience 
 								impact patient outcomes. 
-								</p>
-								
-								<img
-									class="img-fluid px-0 mt-5"
-									src="@/assets/images/digital/apps.png"
-									alt="image of app icons"
-								/>
-								<figcaption class="text-center mt-3">
-									Apps reviewed on Google Play and Apple Store on 9/17/2020
-								</figcaption>
-								
-								<p>
+								<br />
+								<br />
+							
 								One of the issues that was discussed in the early stages of this research 
 								is poor Internet connectivity. Developing a medical resource app that would 
 								be available offline was considered. In an audit of current medical resource
