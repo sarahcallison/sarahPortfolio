@@ -51,7 +51,7 @@
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
-							<p class="highFidText">High-fidelity prototype</p>
+							<p class="highFidText">High-fidelity prototype. Please note that the prototype link may load slowly.</p>
 							<GradButton
 								title="View Prototype"
 								url="https://xd.adobe.com/view/f7dd9dec-1211-468d-aee0-bd9292267f87-a28e/"
@@ -120,6 +120,7 @@
 								Academic Tutoring’s mission statement:
 								<br />
 								<br />
+								<i>
 								Academic Tutoring embraces the power of students helping
 								students and supports all individuals—regardless of identity,
 								culture, point of view, or background—as they navigate the
@@ -127,6 +128,7 @@
 								focus on gateway major courses, certified student employees
 								work alongside each student to foster serious academic
 								exploration and inspire lifelong learning.
+								</i>
 								<br />
 								<br />
 								When I presented mock ups of the landing page in both a hand 
@@ -265,18 +267,8 @@
 								deleted from the site. Any content which was placed above essential information about 
 								our services, such as hours and locations, was removed or placed lower on the page so 
 								that the most important information was the first content to be seen by the user. 
-								</p>
-								
-								<img
-								class="img-fluid px-0 mt-5"
-								src="@/assets/images/digital/importantInfo.png"
-								alt="image of web page"
-							/>
-							<figcaption class="text-center mt-3">
-								The hours and locations of our lab was given priority on this page
-							</figcaption>
-								
-								<p>
+								<br />
+								<br />
 								I would have chosen to remove some of the heavier green elements, such as the drop-down
 								tiles featured on the Supplemental Instruction page, to make the UI feel cleaner. The team
 								preferred to keep these elements in the second iteration. 
@@ -345,7 +337,7 @@
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
 						<p class="text-center highFidText">
-							High-fidelity prototype
+							High-fidelity prototype. Please note that the prototype link may load slowly.
 						</p>
 						<GradButton
 							class="text-center"
