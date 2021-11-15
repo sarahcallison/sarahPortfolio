@@ -2,7 +2,7 @@
 	<!-- websiteRedesign Content -->
 	<div class="websiteRedesign">
 	
-		<div @click="$router.push(`index/#secondNav`)" class="close">
+		<div @click="$router.push(`/#secondNav`)" class="close">
 			<img
 				id="closeImg"
 				src="@/assets/images/closeHover.png"
