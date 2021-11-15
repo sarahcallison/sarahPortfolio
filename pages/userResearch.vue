@@ -88,7 +88,7 @@
 							
 							
 								<img
-								class="img-fluid px-0 mt-5" id=firstImg"
+								class="img-fluid px-0 mt-5" id="firstImg"
 								src="@/assets/images/digital/cover.png"
 								alt="image of interactive infographic"
 							/>
