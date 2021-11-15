@@ -1,12 +1,22 @@
 <template>
 	<!-- websiteRedesign Content -->
 	<div class="websiteRedesign">
-		<div @click="$router.go('Digital')" class="close">
+	<!--
+		<div @click="$router.go(-1)" class="close">
 			<img
 				id="closeImg"
 				src="@/assets/images/closeHover.png"
 				src2="@/assets/images/close.png"
 			/>
+		</div>
+		-->
+		<div>
+		<router-link to="Digital">
+			<img
+				id="closeImg"
+				src="@/assets/images/closeHover.png"
+				src2="@/assets/images/close.png"
+		</router-link>
 		</div>
 		<!-- First Section -->
 		<div class="container projectContainers" id="firstProjContainer">
