@@ -559,7 +559,8 @@ a {
 
 			figcaption {
 				color: $bodyGray;
-				padding-bottom: 40px;
+				padding-bottom: 20px;
+				font-size: 14px;
 			}
 
 			.purpHeader {
