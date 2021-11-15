@@ -2,7 +2,7 @@
 	<!-- websiteRedesign Content -->
 	<div class="websiteRedesign">
 	
-		<div @click="$router.push(`Digital`)" class="close">
+		<div @click="$router.push(`About`)" class="close">
 			<img
 				id="closeImg"
 				src="@/assets/images/closeHover.png"
