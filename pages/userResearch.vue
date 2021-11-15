@@ -88,7 +88,7 @@
 							
 							
 								<img
-								class="img-fluid px-0 mt-5"
+								class="img-fluid px-0 mt-5" id=firstImg"
 								src="@/assets/images/digital/cover.png"
 								alt="image of interactive infographic"
 							/>
@@ -97,8 +97,6 @@
 							</figcaption>
 							
 							<p class="text-left">
-								<br />
-								<br />
 								We began the research phase of this project by completing a review of 
 								current Telehealth research. As existing literature focuses primarily 
 								on provider acceptance of the use of Telehealth in medical practice, 
@@ -525,6 +523,10 @@ a {
 	
 	#solutionHeader {
 	font-size: 45px;
+	}
+	
+	#firstImg {
+	margin-top: 0;
 	}
 
 
