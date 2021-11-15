@@ -2,7 +2,7 @@
 	<!-- websiteRedesign Content -->
 	<div class="websiteRedesign">
 	
-		<div @click="$router.go(-1)" class="close">
+		<div @click="$router.go(index)" class="close">
 			<img
 				id="closeImg"
 				src="@/assets/images/closeHover.png"
