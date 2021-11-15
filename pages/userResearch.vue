@@ -1,7 +1,7 @@
 <template>
 	<!-- userResearch Content -->
 	<div class="userResearch">
-		<div @click="$router.go(-1)" class="close">
+		<div @click="$router.push(`/#secondNav`)" class="close">
 			<img
 				id="closeImg"
 				src="@/assets/images/closeHover.png"
@@ -559,7 +559,7 @@ a {
 
 			figcaption {
 				color: $bodyGray;
-				padding-bottom: 20px;
+				padding-bottom: 30px;
 				font-size: 14px;
 			}
 
