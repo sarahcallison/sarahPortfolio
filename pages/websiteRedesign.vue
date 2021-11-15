@@ -1,7 +1,7 @@
 <template>
 	<!-- websiteRedesign Content -->
 	<div class="websiteRedesign">
-		<div @click="$router.go(-1)" class="close">
+		<div @click="$router.go('Digital')" class="close">
 			<img
 				id="closeImg"
 				src="@/assets/images/closeHover.png"
