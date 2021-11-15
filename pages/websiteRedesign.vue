@@ -51,7 +51,7 @@
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
-							<p class="highFidText">High-fidelity prototype. Please note that the prototype link may load slowly.</p>
+							<p class="highFidText">High-fidelity prototype (prototype link may load slowly)</p>
 							<GradButton
 								title="View Prototype"
 								url="https://xd.adobe.com/view/f7dd9dec-1211-468d-aee0-bd9292267f87-a28e/"
@@ -337,7 +337,7 @@
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
 						<p class="text-center highFidText">
-							High-fidelity prototype. Please note that the prototype link may load slowly.
+							High-fidelity prototype (prototype link may load slowly)
 						</p>
 						<GradButton
 							class="text-center"
