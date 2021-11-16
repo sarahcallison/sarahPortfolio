@@ -412,6 +412,25 @@ export default {
 
 @media only screen and (min-width: 320px) {
 	.main {
+	
+	p {
+		padding-left: 5px;
+	}
+	
+	h2 {
+		padding-left: 5px;
+	}
+	
+	h4 {
+		padding-left: 5px;
+	}
+	
+	.gradLine {
+		padding-left: 5px;
+	}
+	
+	
+	
 		.projectContainers {
 			#rightText {
 			display: inline;
@@ -420,9 +439,7 @@ export default {
 			margin-left: 0;
 			}
 			
-			.textSection {
-			padding-left: 0;
-			}
+			
 		}
 		
 		
