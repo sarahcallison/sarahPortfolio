@@ -423,7 +423,7 @@ export default {
 	
 	.projectContainers {
 	
-			projectImg img {
+		img {
 				padding-top: 50px;
 			}
 			
@@ -516,7 +516,8 @@ export default {
 			}
 			
 			.mb-4,.my-4 {
-				margin: 0 0 1rem 0;
+				margin-top: 1rem !important;
+				margin-bottom: 1rem !important;
 			}
 		}
 	}
@@ -548,7 +549,8 @@ export default {
 			}
 			
 			.mb-4,.my-4 {
-				margin: 0 0 1rem 0;
+				margin-top: 1rem !important;
+				margin-bottom: 1rem !important;
 			}
 		}
 	}
