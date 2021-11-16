@@ -430,7 +430,7 @@ export default {
 			margin-left: 0;
 			}
 			
-			.noImgPad {
+			.noImgPad img {
 			padding-top: 0;
 			}
 			
