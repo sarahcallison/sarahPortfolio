@@ -482,8 +482,8 @@ export default {
 			}
 			
 			.mb-4,.my-4 {
-				margin-top: 0.5rem;
-				margin-bottom: 0.5rem;
+				margin-top: 0.5rem !important;
+				margin-bottom: 0.5rem !important;
 			}
 		}
 	}
