@@ -206,6 +206,7 @@ export default {
 			left: auto;
 			right: 0;
 			padding: 0 10px;
+			height: 25vh;
 		}
 	}
 
