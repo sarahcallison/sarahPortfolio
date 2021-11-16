@@ -1,7 +1,7 @@
 <template>
 	<!-- websiteRedesign Content -->
 	<div class="arSpaceBook">
-		<div @click="$router.go(-1)" class="close">
+		<div @click="$router.push(`/#secondNav`)" class="close">
 			<img
 				id="closeImg"
 				src="@/assets/images/closeHover.png"
@@ -56,7 +56,8 @@
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
-							<p class="highFidText">Printed book</p>
+							<p class="highFidText">High-fidelity prototype<br />
+							(prototype link may load slowly)</p>
 							<GradButton
 								title="View PDF of Book"
 								url="/printPages.pdf"
@@ -162,7 +163,7 @@
 								src="@/assets/images/print/infographicSketch.jpg"
 								alt="image of sketches"
 							/>
-							<figcaption class="text-center mt-3">
+							<figcaption class="text-center mt-3 no-padding">
 								A sketch of the interactive infographic feature
 							</figcaption>
 							
@@ -210,7 +211,7 @@
 								src="@/assets/images/print/back.jpeg"
 								alt="image of back book cover"
 							/>
-							<figcaption class="text-center mt-3">
+							<figcaption class="text-center mt-3 no-padding">
 								The back cover
 							</figcaption>
 							
@@ -333,9 +334,8 @@
 						</p>
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
-						<p class="text-center highFidText">
-							Printed book
-						</p>
+						<p class="highFidText text-center">High-fidelity prototype<br />
+							(prototype link may load slowly)</p>
 						<GradButton
 							class="text-center"
 							title="View PDF of book"
@@ -467,6 +467,10 @@ export default {
 			}
 		}
 	}
+	
+	.no-padding {
+	padding-bottom: 0;
+	}
 
 	.centerImg {
 		position:relative;
@@ -503,6 +507,9 @@ export default {
 		font-size: 45px;
 		}
 
+.container-fluid {
+	padding: 0;
+}
 
 	.projectContainers {
 		padding-top: 100px;
@@ -544,7 +551,7 @@ export default {
 
 			figcaption {
 				color: $bodyGray;
-				padding-bottom: 40px;
+				padding-bottom: 30px;
 				font-size: 14px;
 			}
 
