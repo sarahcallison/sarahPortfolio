@@ -476,6 +476,10 @@ export default {
 				
 					
 			}
+			
+			.mb-4,.my-4 {
+				margin: 8 0;
+			}
 		}
 	}
 }
@@ -505,6 +509,10 @@ export default {
 				}
 				
 			}
+			
+			.mb-4,.my-4 {
+				margin: 1rem 0;
+			}
 		}
 	}
 }
@@ -532,6 +540,10 @@ export default {
 				#right {
 					padding-left: 10%;
 				}
+			}
+			
+			.mb-4,.my-4 {
+				margin: 1rem 0;
 			}
 		}
 	}
