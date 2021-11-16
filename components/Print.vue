@@ -243,7 +243,7 @@
 					<div class="gradLine"></div>
 				</div>
 				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start noImgPad"
 				>
 		
 						<img
@@ -433,7 +433,9 @@ export default {
 			
 		}
 		
-		
+		.noImgPad {
+			padding-top: 0;
+		}
 
 		
 			#content-desktop {display: none;}
