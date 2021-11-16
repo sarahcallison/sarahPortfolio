@@ -52,7 +52,8 @@
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
-							<p class="highFidText">High-fidelity prototype (prototype link may load slowly)</p>
+							<p class="highFidText">High-fidelity prototype</p>
+							<p class="highFidText">(prototype link may load slowly)</p>
 							<GradButton
 								title="View Prototype"
 								url="https://xd.adobe.com/view/f7dd9dec-1211-468d-aee0-bd9292267f87-a28e/"
@@ -208,7 +209,7 @@
 								src="@/assets/images/digital/customize2.png"
 								alt="image of web page"
 							/>
-							<figcaption class="text-center mt-3">
+							<figcaption class="text-center mt-3" id="suppImg">
 								We used an original image to customize content on the Supplemental Instruction page
 							</figcaption>
 							
@@ -498,6 +499,10 @@ export default {
 	
 	#solutionHeader {
 	font-size: 45px;
+	}
+	
+	#suppImg {
+	padding-bottom: 0;
 	}
 
 
