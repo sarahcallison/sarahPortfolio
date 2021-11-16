@@ -1,7 +1,7 @@
 <template>
 	<!-- brandishApp Content -->
 	<div class="brandishApp">
-		<div @click="$router.go(-1)" class="close">
+			<div @click="$router.push(`/#secondNav`)" class="close">
 			<img
 				id="closeImg"
 				src="@/assets/images/closeHover.png"
@@ -485,7 +485,8 @@ export default {
 
 			figcaption {
 				color: $bodyGray;
-				padding-bottom: 40px;
+				padding-bottom: 30px;
+				font-size: 14px;
 			}
 			
 			.embed-responsive embed-responsive-4by3 {
