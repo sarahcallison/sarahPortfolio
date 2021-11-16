@@ -74,7 +74,7 @@
 			</div>
 		</div>
 		<!-- Third Section -->
-		<div class="container projectContainers">
+		<div class="container projectContainers" id="content-desktop">
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
 					<h2>Invitations & Cards</h2>
@@ -235,6 +235,115 @@
 				</div>
 			</div>
 		</div>
+		
+		<div class="container projectContainers" id="content-mobile">
+			<div class="row">
+				<div class="col-12 align-self-center textSection">
+					<h2>Invitations & Cards</h2>
+					<div class="gradLine"></div>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+		
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/fancyAmp.jpg"
+							alt="image of invitations and cards"
+						/>
+
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/petals.jpg"
+							alt="image of invitations and cards"
+						/>
+				
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/otherPurpleFlowers.jpg"
+							alt="image of invitations and cards"
+						/>
+				
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/plantAndPencil.jpg"
+							alt="image of invitations and cards"
+						/>
+					
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/floralAmp.jpg"
+							alt="image of invitations and cards"
+						/>
+				
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/roses.jpg"
+							alt="image of invitations and cards"
+						/>
+				
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/rosesAndLeaves.jpg"
+							alt="image of invitations and cards"
+						/>
+					
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/theWeddingOf.jpg"
+							alt="image of invitations and cards"
+						/>
+				
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/vines.jpg"
+							alt="image of invitations and cards"
+						/>
+			
+				</div>
+			</div>
+		</div>
+		
 	</div>
 </template>
 
@@ -311,12 +420,20 @@ export default {
 			margin-left: 0;
 			}
 		}
+		
+			#content-desktop {display: none;}
+			#content-mobile {display: block;}
+		
 	}
 }
 
 @media only screen and (min-width: 768px) {
 	.main {
 		.projectContainers {
+		
+			#content-desktop {display: block;}
+			#content-mobile {display: none;}
+		
 			.textSection {
 				padding-left: 15px;
 				padding-right: 15px;
@@ -340,6 +457,10 @@ export default {
 
 @media only screen and (min-width: 992px) {
 	.main {
+	
+		#content-desktop {display: block;}
+			#content-mobile {display: none;}
+	
 		.projectContainers {
 			.textSection {
 					
@@ -366,6 +487,10 @@ export default {
 @media only screen and (min-width: 1200px) {
 	.main {
 		.projectContainers {
+		
+			#content-desktop {display: block;}
+			#content-mobile {display: none;}
+		
 			.textSection {
 					
 				p {
