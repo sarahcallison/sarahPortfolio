@@ -413,21 +413,15 @@ export default {
 @media only screen and (min-width: 320px) {
 	.main {
 	
-	
-	
-	
-		.projectContainers {
+	.projectContainers {
 			#rightText {
 			display: inline;
 			float: right;
 			margin-bottom: 3rem;
 			margin-left: 0;
+			color: blue;
 			}
 			
-			.mobileText {
-			
-				padding-left: 5px;
-			}
 			
 		}
 		
