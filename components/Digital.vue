@@ -5,7 +5,7 @@
 		<div class="container projectContainers">
 			<div class="row">
 				<div
-					class="col-12 col-md-7 col-lg-6 align-self-center textSection"
+					class="col-12 col-md-7 col-lg-6 align-self-center textSection mobileText"
 				>
 					<h4>Utah Valley University</h4>
 					<h2>Website Redesign</h2>
@@ -36,7 +36,7 @@
 				<div class="container">
 					<div class="row">
 						<div
-							class="col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection text-md-right"
+							class="col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection mobileText text-md-right"
 						>
 							<h4>Utah Valley University</h4>
 							<h2>User Research</h2>
