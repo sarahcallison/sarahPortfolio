@@ -82,19 +82,21 @@
 					<div class="row justify-content-md-center">
 						<div class="col-12 col-md-10 align-self-center px-4 px-md-0 textSection mainText">
 							<h2 class="text-center" id="solutionHeader">The Solution</h2>
-							<h4 class="text-center subtitle firstHeader">
-								Research
-							</h4>
+							
 							
 							
 								<img
-								class="img-fluid px-0 mt-5" id="firstImg"
+								class="img-fluid px-0 mt-5"
 								src="@/assets/images/digital/cover.png"
 								alt="image of interactive infographic"
 							/>
 							<figcaption class="text-center mt-3">
 								Interactive infographic of survey results
 							</figcaption>
+							
+							<h4 class="text-center subtitle firstHeader">
+								Research
+							</h4>
 							
 							<p class="text-left">
 								We began the research phase of this project by completing a review of 
@@ -525,9 +527,6 @@ a {
 	font-size: 45px;
 	}
 	
-	#firstImg {
-	margin-top: 0;
-	}
 
 
 	.projectContainers {
