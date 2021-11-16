@@ -174,6 +174,14 @@ export default {
 			margin-bottom: 3rem;
 			margin-left: 0;
 			}
+			
+			img {
+				padding-top: 50px;
+			}
+			
+			.mobileText {
+				padding-left: 20px;
+			}
 		}
 	}
 }
