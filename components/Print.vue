@@ -420,7 +420,7 @@ export default {
 			}
 			
 			.mobileText {
-				padding-left: 5px;
+				padding-left: 20px;
 			}
 			
 			#rightText {
