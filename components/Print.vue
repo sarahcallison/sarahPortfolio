@@ -246,7 +246,8 @@
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start noImgPad"
 				>
 		
-						<img
+						<img 
+							id="topImg"
 							class="img-fluid"
 							src="@/assets/images/print/fancyAmp.jpg"
 							alt="image of invitations and cards"
@@ -432,6 +433,11 @@ export default {
 			
 			.noImgPad img {
 			padding-top: 0;
+			margin: 0;
+			}
+			
+			topImg {
+				padding-top: 50px;
 			}
 			
 		}
