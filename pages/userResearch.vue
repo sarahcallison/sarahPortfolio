@@ -62,7 +62,7 @@
 
 							<h4 class="purpHeader">Deliverables</h4>
 							<p class="highFidText">Interactive infographic<br>
-							Academic research report
+							<a href="/academicResearch.pdf" target="blank">Academic research report</a>
 							</p>
 							
 							<GradButton
