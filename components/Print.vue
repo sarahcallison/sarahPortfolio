@@ -405,7 +405,7 @@ export default {
 	}
 	
 	.mb-4,.my-4 {
-				margin: 0;
+				margin: 0 !important;
 			}
 
 	.infoColor {
