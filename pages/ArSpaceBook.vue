@@ -56,8 +56,8 @@
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
-							<p class="highFidText" id="no-margin">High-fidelity prototype</p>
-							<p class="slowLink">(prototype link may load slowly)</p>
+							<p class="highFidText">High-fidelity prototype<br />
+							(prototype link may load slowly)</p>
 							<GradButton
 								title="View PDF of Book"
 								url="/printPages.pdf"
@@ -494,7 +494,6 @@ export default {
 	
 	#lessons {
 		padding-top: 30px;
-		padding-bottom: 0;
 	}
 	
 	#problemContainer {
