@@ -4,6 +4,7 @@
 		<!--
 		<div @click="$router.push(`/#secondNav`)" class="close">
 		-->
+		Router.events.on('routeChangeComplete', () => { window.scrollTo(0, 0); });
 		<div @click="$router.push('/#secondNav').then(() => window.scrollTo(0, 0))" class="close">
 			<img
 				id="closeImg"
