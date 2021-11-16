@@ -269,13 +269,13 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'jess'
+								img: 'lineAndShape'
 							}
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/jess.jpg"
+							src="@/assets/images/gallery/lineAndShape.jpg"
 							alt="image of illustration"
 						/>
 					</NuxtLink>
@@ -623,7 +623,7 @@
 					
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/jess.jpg"
+							src="@/assets/images/gallery/lineAndShape.jpg"
 							alt="image of illustration"
 						/>
 				
