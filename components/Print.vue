@@ -403,6 +403,10 @@ export default {
 	img {
 		padding: 0;
 	}
+	
+	.mb-4,.my-4 {
+				margin: 0;
+			}
 
 	.infoColor {
 		background-image: linear-gradient(
