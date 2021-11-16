@@ -74,7 +74,7 @@
 			</div>
 		</div>
 		<!-- Third Section -->
-		<div class="container projectContainers" id="content-desktop">
+		<div class="container projectContainers gallery" id="content-desktop">
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
 					<h2>Invitations & Cards</h2>
@@ -236,7 +236,7 @@
 			</div>
 		</div>
 		
-		<div class="container projectContainers" id="content-mobile">
+		<div class="container projectContainers gallery" id="content-mobile">
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
 					<h2>Invitations & Cards</h2>
@@ -428,6 +428,10 @@ export default {
 			float: right;
 			margin-bottom: 3rem;
 			margin-left: 0;
+			}
+			
+			.gallery img {
+				padding-top: 0;
 			}
 			
 			.mb-4,.my-4 {
