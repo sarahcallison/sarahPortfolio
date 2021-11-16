@@ -5,7 +5,7 @@
 		<div class="container projectContainers">
 			<div class="row">
 				<div
-					class="col-12 col-md-7 col-lg-6 align-self-center textSection"
+					class="col-12 col-md-7 col-lg-6 align-self-center textSection mobileText"
 				>
 					<h4>Utah Valley University</h4>
 					<h2>AR Space Book</h2>
@@ -36,7 +36,7 @@
 				<div class="container">
 					<div class="row">
 						<div
-							class="col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection text-md-right" id="right"
+							class="col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection text-md-right mobileText" id="right"
 						>
 							<h4>Silicon Slopes Magazine</h4>
 							<h2>Graphic Design</h2>
@@ -413,21 +413,6 @@ export default {
 @media only screen and (min-width: 320px) {
 	.main {
 	
-	p {
-		padding-left: 5px;
-	}
-	
-	h2 {
-		padding-left: 5px;
-	}
-	
-	h4 {
-		padding-left: 5px;
-	}
-	
-	.gradLine {
-		padding-left: 5px;
-	}
 	
 	
 	
@@ -439,6 +424,10 @@ export default {
 			margin-left: 0;
 			}
 			
+			.mobileText {
+			
+				padding-left: 5px;
+			}
 			
 		}
 		
