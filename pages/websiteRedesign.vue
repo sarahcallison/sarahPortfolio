@@ -338,7 +338,7 @@
 						</p>
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
-						<p class="highFidText">High-fidelity prototype<br />
+						<p class="highFidText class="text-center">High-fidelity prototype<br />
 							(prototype link may load slowly)</p>
 						<GradButton
 							class="text-center"
