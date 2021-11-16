@@ -1,7 +1,7 @@
 <template>
 	<!-- websiteRedesign Content -->
 	<div class="graphicDesign">
-		<div @click="$router.go(-1)"  class="close">
+			<div @click="$router.push(`/#secondNav`)" class="close">
 			<img
 				id="closeImg"
 				src="@/assets/images/closeHover.png"
@@ -203,6 +203,7 @@
 							class="text-center"
 							title="View PDF"
 							url="https://xd.adobe.com/view/729e9ab2-12f3-4c6f-9d05-5ce0775a0fbd-27cd/"
+							target="blank"
 						/>
 					</div>
 				</div>
@@ -372,7 +373,7 @@ export default {
 			}
 			figcaption {
 				color: $bodyGray;
-				padding-bottom: 40px;
+				padding-bottom: 30px;
 				font-size: 14px;
 			}
 			
