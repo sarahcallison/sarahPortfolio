@@ -56,7 +56,7 @@
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
-							<p class="highFidText">High-fidelity prototype<br />
+							<p class="highFidText slowLink">High-fidelity prototype<br />
 							(prototype link may load slowly)</p>
 							<GradButton
 								title="View PDF of Book"
@@ -163,7 +163,7 @@
 								src="@/assets/images/print/infographicSketch.jpg"
 								alt="image of sketches"
 							/>
-							<figcaption class="text-center mt-3 no-padding">
+							<figcaption class="text-center mt-3" id="no-padding">
 								A sketch of the interactive infographic feature
 							</figcaption>
 							
@@ -211,7 +211,7 @@
 								src="@/assets/images/print/back.jpeg"
 								alt="image of back book cover"
 							/>
-							<figcaption class="text-center mt-3 no-padding">
+							<figcaption class="text-center mt-3" id="noPad">
 								The back cover
 							</figcaption>
 							
@@ -468,8 +468,13 @@ export default {
 		}
 	}
 	
-	.no-padding {
+	#no-padding {
 	padding-bottom: 0;
+	}
+	
+	.slowLink {
+		font-size: 14px;
+		color: $bodyGray;
 	}
 
 	.centerImg {
@@ -489,6 +494,7 @@ export default {
 	
 	#lessons {
 		padding-top: 30px;
+		padding-bottom: 0;
 	}
 	
 	#problemContainer {
@@ -509,6 +515,10 @@ export default {
 
 .container-fluid {
 	padding: 0;
+}
+
+#noPad {
+	padding-bottom: 0;
 }
 
 	.projectContainers {
