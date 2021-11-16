@@ -158,7 +158,7 @@ export default {
 			padding: 0 5%;
 
 			#name {
-				margin: 30px 0;
+				margin: 15px 0;
 				font-size: 50px;
 			}
 
@@ -195,6 +195,10 @@ export default {
 		.jumboImage {
 			margin-top: 0;
 		}
+		
+		#name {
+				margin: 15px 0;
+			}
 
 		.infoText {
 			width: 45%;
