@@ -62,12 +62,17 @@
 
 							<h4 class="purpHeader">Deliverables</h4>
 							<p class="highFidText">Interactive infographic<br>
-							<a href="/academicResearch.pdf" target="blank">Academic research report</a>
+							Academic research report
 							</p>
 							
 							<GradButton
 								title="View infographic"
 								url="https://sarahcallison.github.io/"
+								target="blank"
+							/>
+							<GradButton
+								title="View infographic"
+								url="/academicResearch.pdf"
 								target="blank"
 							/>
 						</div>
