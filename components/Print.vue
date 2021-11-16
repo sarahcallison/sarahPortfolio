@@ -478,7 +478,8 @@ export default {
 			}
 			
 			.mb-4,.my-4 {
-				margin: 0 0 8px 0;
+				margin-left: 0.5rem;
+				margin-right: 0.5rem;
 			}
 		}
 	}
