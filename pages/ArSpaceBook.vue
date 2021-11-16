@@ -1,7 +1,10 @@
 <template>
 	<!-- websiteRedesign Content -->
 	<div class="arSpaceBook">
-		<div @click="$router.push(`/#secondNav` {scroll: false})" class="close">
+		<!--
+		<div @click="$router.push(`/#secondNav`)" class="close">
+		-->
+		<div @click="$router.push('/#secondNav').then(() => window.scrollTo(0, 0))" class="close">
 			<img
 				id="closeImg"
 				src="@/assets/images/closeHover.png"
