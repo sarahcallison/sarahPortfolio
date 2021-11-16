@@ -247,7 +247,6 @@
 				>
 		
 						<img 
-							id="topImg"
 							class="img-fluid"
 							src="@/assets/images/print/fancyAmp.jpg"
 							alt="image of invitations and cards"
@@ -431,14 +430,11 @@ export default {
 			margin-left: 0;
 			}
 			
-			.noImgPad img {
-			padding-top: 0;
-			margin: 0;
+			.mb-4,.my-4 {
+				margin: 0;
 			}
 			
-			topImg {
-				padding-top: 50px;
-			}
+			
 			
 		}
 		
