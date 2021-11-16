@@ -2,7 +2,7 @@
 	<!-- Main Content -->
 	<div class="main">
 		<!-- First Section -->
-		<div class="container projectContainers">
+		<div class="container projectContainers projectImg">
 			<div class="row">
 				<div
 					class="col-12 col-md-7 col-lg-6 align-self-center textSection mobileText"
@@ -31,7 +31,7 @@
 			</div>
 		</div>
 		<!-- Second Section -->
-		<div class="container-fluid infoColor projectContainers">
+		<div class="container-fluid infoColor projectContainers projectImg">
 			<div class="row">
 				<div class="container">
 					<div class="row">
@@ -74,7 +74,7 @@
 			</div>
 		</div>
 		<!-- Third Section -->
-		<div class="container projectContainers gallery" id="content-desktop">
+		<div class="container projectContainers" id="content-desktop">
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
 					<h2>Invitations & Cards</h2>
@@ -236,7 +236,7 @@
 			</div>
 		</div>
 		
-		<div class="container projectContainers gallery" id="content-mobile">
+		<div class="container projectContainers" id="content-mobile">
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
 					<h2>Invitations & Cards</h2>
@@ -400,6 +400,10 @@ export default {
 		}
 	}
 
+	img {
+		padding: 0;
+	}
+
 	.infoColor {
 		background-image: linear-gradient(
 			to right,
@@ -415,7 +419,7 @@ export default {
 	
 	.projectContainers {
 	
-			img {
+			projectImg img {
 				padding-top: 50px;
 			}
 			
