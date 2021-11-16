@@ -455,6 +455,10 @@ export default {
 		
 			#content-desktop {display: block;}
 			#content-mobile {display: none;}
+			
+				img {
+				padding-top: 0;
+			}
 		
 			.textSection {
 				padding-left: 15px;
@@ -489,6 +493,11 @@ export default {
 			#content-mobile {display: none;}
 	
 		.projectContainers {
+		
+			img {
+				padding-top: 0;
+			}
+		
 			.textSection {
 					
 					p {
