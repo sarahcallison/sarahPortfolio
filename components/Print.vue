@@ -421,6 +421,12 @@ export default {
 			}
 		}
 		
+		.textSection {
+			padding-left: 0;
+			padding-right: 50px;
+			}
+
+		
 			#content-desktop {display: none;}
 			#content-mobile {display: block;}
 		
