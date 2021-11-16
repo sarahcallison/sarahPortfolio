@@ -414,12 +414,20 @@ export default {
 	.main {
 	
 	.projectContainers {
+	
+			img {
+				padding-top: 50px;
+			}
+			
+			.mobileText {
+				padding-left: 5px;
+			}
+			
 			#rightText {
 			display: inline;
 			float: right;
 			margin-bottom: 3rem;
 			margin-left: 0;
-			color: blue;
 			}
 			
 			
