@@ -419,12 +419,13 @@ export default {
 			margin-bottom: 3rem;
 			margin-left: 0;
 			}
+			
+			.textSection {
+			padding-left: 0;
+			}
 		}
 		
-		.textSection {
-			padding-left: 0;
-			padding-right: 50px;
-			}
+		
 
 		
 			#content-desktop {display: none;}
