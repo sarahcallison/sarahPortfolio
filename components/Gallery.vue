@@ -269,13 +269,13 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'lineAndShape'
+								img: 'physicsThumbnail'
 							}
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/lineAndShape.jpg"
+							src="@/assets/images/gallery/physicsThumbnail.jpg"
 							alt="image of illustration"
 						/>
 					</NuxtLink>
@@ -352,13 +352,13 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'physicsThumbnail'
+								img: 'lineAndShape'
 							}
 						}"
 					>
 						<img
 							class="img-fluid "
-							src="@/assets/images/gallery/physicsThumbnail.jpg"
+							src="@/assets/images/gallery/lineAndShape.jpg"
 							alt="image of illustration"
 						/>
 					</NuxtLink>
@@ -623,7 +623,7 @@
 					
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/lineAndShape.jpg"
+							src="@/assets/images/gallery/physicsThumbnail.jpg"
 							alt="image of illustration"
 						/>
 				
@@ -671,7 +671,7 @@
 					
 						<img
 							class="img-fluid "
-							src="@/assets/images/gallery/physicsThumbnail.jpg"
+							src="@/assets/images/gallery/lineAndShape.jpg"
 							alt="image of illustration"
 						/>
 
