@@ -478,7 +478,7 @@ export default {
 			}
 			
 			.mb-4,.my-4 {
-				margin: 8 0;
+				margin: 0 0 8px 0;
 			}
 		}
 	}
@@ -511,7 +511,7 @@ export default {
 			}
 			
 			.mb-4,.my-4 {
-				margin: 1rem 0;
+				margin: 0 0 1rem 0;
 			}
 		}
 	}
@@ -543,7 +543,7 @@ export default {
 			}
 			
 			.mb-4,.my-4 {
-				margin: 1rem 0;
+				margin: 0 0 1rem 0;
 			}
 		}
 	}
