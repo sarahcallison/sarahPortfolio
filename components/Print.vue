@@ -400,9 +400,6 @@ export default {
 		}
 	}
 
-	img {
-		padding: 0;
-	}
 	
 	.mb-4,.my-4 {
 				margin: 0 !important;
@@ -436,10 +433,6 @@ export default {
 			float: right;
 			margin-bottom: 3rem;
 			margin-left: 0;
-			}
-			
-			.gallery img {
-				padding-top: 0;
 			}
 			
 			.mb-4,.my-4 {
