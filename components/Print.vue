@@ -430,13 +430,11 @@ export default {
 			margin-left: 0;
 			}
 			
+			.noImgPad {
+			padding-top: 0;
+			}
 			
 		}
-		
-		.noImgPad {
-			padding-top: 0;
-		}
-
 		
 			#content-desktop {display: none;}
 			#content-mobile {display: block;}
