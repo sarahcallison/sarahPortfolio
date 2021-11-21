@@ -3,8 +3,140 @@
 	<div class="galleryMain">
 		<!-- First Section -->
 		<div class="container galleryContainers" id="content-desktop">
+			
+			<!-- Illustrations -->
+			<div class="row mt-5">
+				<div class="col-12 align-self-center textSection">
+					<h2>Illustrations</h2>
+					<div class="gradLine"></div>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'x'
+							}
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/x.jpg"
+							alt="image of illustration"
+						/>
+					</NuxtLink>
+				</div>
+
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'physicsThumbnail'
+							}
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/physicsThumbnail.jpg"
+							alt="image of illustration"
+						/>
+					</NuxtLink>
+				</div>
+
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'mightyFicusThumbnail'
+							}
+						}"
+					>
+						<img
+							class="img-fluid "
+							src="@/assets/images/gallery/mightyFicusThumbnail.jpg"
+							alt="image of illustration"
+						/>
+					</NuxtLink>
+				</div>
+
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						url="@/assets/images/gallery/timothy.jpg"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'timothy'
+							}
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/timothy.jpg"
+							alt="image of illustration"
+						/>
+					</NuxtLink>
+				</div>
+
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						url="@/assets/images/gallery/protegeThumbnail.jp"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'protegeThumbnail'
+							}
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/protegeThumbnail.jpg"
+							alt="image of illustration"
+						/>
+					</NuxtLink>
+				</div>
+
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						url="@/assets/images/gallery/physicsThumbnail.jpg"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								img: 'lineAndShape'
+							}
+						}"
+					>
+						<img
+							class="img-fluid "
+							src="@/assets/images/gallery/lineAndShape.jpg"
+							alt="image of illustration"
+						/>
+					</NuxtLink>
+				</div>
+			</div>
+			
 			<div class="row mb-5">
 				<div class="col-12 align-self-center textSection">
+					
 					<h2>Interaction Design</h2>
 					<div class="gradLine"></div>
 				</div>
@@ -235,135 +367,7 @@
 				</div>
 			</div>
 
-			<!-- Illustrations -->
-			<div class="row mt-5">
-				<div class="col-12 align-self-center textSection">
-					<h2>Illustrations</h2>
-					<div class="gradLine"></div>
-				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<NuxtLink
-						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
-							params: {
-								img: 'x'
-							}
-						}"
-					>
-						<img
-							class="img-fluid"
-							src="@/assets/images/gallery/x.jpg"
-							alt="image of illustration"
-						/>
-					</NuxtLink>
-				</div>
-
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<NuxtLink
-						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
-							params: {
-								img: 'physicsThumbnail'
-							}
-						}"
-					>
-						<img
-							class="img-fluid"
-							src="@/assets/images/gallery/physicsThumbnail.jpg"
-							alt="image of illustration"
-						/>
-					</NuxtLink>
-				</div>
-
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<NuxtLink
-						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
-							params: {
-								img: 'mightyFicusThumbnail'
-							}
-						}"
-					>
-						<img
-							class="img-fluid "
-							src="@/assets/images/gallery/mightyFicusThumbnail.jpg"
-							alt="image of illustration"
-						/>
-					</NuxtLink>
-				</div>
-
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<NuxtLink
-						class="toImageNuxtLink"
-						url="@/assets/images/gallery/timothy.jpg"
-						:to="{
-							name: 'ImgBackground',
-							params: {
-								img: 'timothy'
-							}
-						}"
-					>
-						<img
-							class="img-fluid"
-							src="@/assets/images/gallery/timothy.jpg"
-							alt="image of illustration"
-						/>
-					</NuxtLink>
-				</div>
-
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<NuxtLink
-						class="toImageNuxtLink"
-						url="@/assets/images/gallery/protegeThumbnail.jp"
-						:to="{
-							name: 'ImgBackground',
-							params: {
-								img: 'protegeThumbnail'
-							}
-						}"
-					>
-						<img
-							class="img-fluid"
-							src="@/assets/images/gallery/protegeThumbnail.jpg"
-							alt="image of illustration"
-						/>
-					</NuxtLink>
-				</div>
-
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<NuxtLink
-						class="toImageNuxtLink"
-						url="@/assets/images/gallery/physicsThumbnail.jpg"
-						:to="{
-							name: 'ImgBackground',
-							params: {
-								img: 'lineAndShape'
-							}
-						}"
-					>
-						<img
-							class="img-fluid "
-							src="@/assets/images/gallery/lineAndShape.jpg"
-							alt="image of illustration"
-						/>
-					</NuxtLink>
-				</div>
-			</div>
+			
 		</div>
 		
 		<div class="container galleryContainers" id="content-mobile">
