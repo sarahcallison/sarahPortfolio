@@ -703,6 +703,12 @@ export default {
 <style lang="scss" scoped>
 .galleryMain {
 	color: black;
+	
+	#illustrations {
+	
+		margin-bottom: 50px;
+	
+	}
 
 	.galleryContainers {
 		padding-top: 100px;
