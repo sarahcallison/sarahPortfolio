@@ -5,7 +5,7 @@
 		<div class="container galleryContainers" id="content-desktop">
 			
 			<!-- Illustrations -->
-			<div class="row mt-5">
+			<div class="row mt-5" id="illustrations">
 				<div class="col-12 align-self-center textSection">
 					<h2>Illustrations</h2>
 					<div class="gradLine"></div>
@@ -18,13 +18,13 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'x'
+								img: 'mightyFicusThumbnail'
 							}
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/x.jpg"
+							src="@/assets/images/gallery/mightyFicusThumbnail.jpg"
 							alt="image of illustration"
 						/>
 					</NuxtLink>
@@ -58,13 +58,13 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'mightyFicusThumbnail'
+								img: 'valentines'
 							}
 						}"
 					>
 						<img
 							class="img-fluid "
-							src="@/assets/images/gallery/mightyFicusThumbnail.jpg"
+							src="@/assets/images/gallery/valentines.jpg"
 							alt="image of illustration"
 						/>
 					</NuxtLink>
