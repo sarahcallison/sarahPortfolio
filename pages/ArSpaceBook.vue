@@ -356,6 +356,7 @@
 			prev=""
 		/>
 	</div>
+	</div>
 </template>
 
 <script>
