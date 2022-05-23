@@ -615,7 +615,7 @@
 				
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/x.jpg"
+							src="@/assets/images/gallery/valentines.jpg"
 							alt="image of illustration"
 						/>
 					
