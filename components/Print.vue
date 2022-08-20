@@ -1,83 +1,12 @@
 <template>
 	<!-- Main Content -->
 	<div class="main">
-		<!-- First Section -->
-		<div class="container projectContainers projectImg">
-			<div class="row">
-				<div
-					class="col-12 col-md-7 col-lg-6 align-self-center textSection mobileText"
-				>
-					<h4>Utah Valley University</h4>
-					<h2>AR Space Book</h2>
-					<div class="gradLine"></div>
-					<p>
-						Augmented reality meets print to bring outer 
-						space to life in the library
-					</p>
-					<NuxtLink
-						style="cursor: auto; textDecoration: none;"
-						to="/ArSpaceBook"
-					>
-						<GradButton title="View Project" />
-					</NuxtLink>
-				</div>
-				<div class="col-12 col-md-5 col-lg-6 align-self-center">
-					<img
-						class="img-fluid"
-						src="@/assets/images/arSpaceBookCover.png"
-						alt="image of floating astronaut"
-					/>
-				</div>
-			</div>
-		</div>
-		<!-- Second Section -->
-		<div class="container-fluid infoColor projectContainers projectImg">
-			<div class="row">
-				<div class="container">
-					<div class="row">
-						<div
-							class="col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection text-md-right mobileText" id="right"
-						>
-							<h4>Silicon Slopes Magazine</h4>
-							<h2>Graphic Design</h2>
-							<div class="gradLine ml-md-auto"></div>
-							<p id="rightText">
-								Fresh designs to align 
-								this publication with its up-to-date content
-							</p>
-							<div id="rightButton">
-							<NuxtLink
-								style="cursor: auto; textDecoration: none;"
-								to="/GraphicDesign"
-							>
-								<GradButton title="View Project" />
-							</NuxtLink>
-							</div>
-						</div>
-						<div
-							class="col-12 col-md-5 col-lg-6 order-md-1 align-self-center"
-						>
-							<picture>
-								<source
-									media="(min-width:768px)"
-									srcset="@/assets/images/siliconSlopes.png"
-								/>
-								<img
-									src="@/assets/images/siliconSlopes.png"
-									alt="Image of Silicon Slopes magazine header"
-									class="img-fluid"
-								/>
-							</picture>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+		
 		<!-- Third Section -->
 		<div class="container projectContainers" id="content-desktop">
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
-					<h2>Invitations & Cards</h2>
+					<h2>Invitations</h2>
 					<div class="gradLine"></div>
 				</div>
 				<div
@@ -239,7 +168,7 @@
 		<div class="container projectContainers" id="content-mobile">
 			<div class="row">
 				<div class="col-12 align-self-center textSection">
-					<h2>Invitations & Cards</h2>
+					<h2>Invitations</h2>
 					<div class="gradLine"></div>
 				</div>
 				<div
@@ -343,6 +272,81 @@
 				</div>
 			</div>
 		</div>
+		
+		<!-- Second Section -->
+		<div class="container-fluid infoColor projectContainers projectImg">
+			<div class="row">
+				<div class="container">
+					<div class="row">
+						<div
+							class="col-12 col-md-7 col-lg-6 order-md-2 align-self-center textSection text-md-right mobileText" id="right"
+						>
+							<h4>Silicon Slopes Magazine</h4>
+							<h2>Graphic Design</h2>
+							<div class="gradLine ml-md-auto"></div>
+							<p id="rightText">
+								Fresh designs to align 
+								this publication with its up-to-date content
+							</p>
+							<div id="rightButton">
+							<NuxtLink
+								style="cursor: auto; textDecoration: none;"
+								to="/GraphicDesign"
+							>
+								<GradButton title="View Project" />
+							</NuxtLink>
+							</div>
+						</div>
+						<div
+							class="col-12 col-md-5 col-lg-6 order-md-1 align-self-center"
+						>
+							<picture>
+								<source
+									media="(min-width:768px)"
+									srcset="@/assets/images/siliconSlopes.png"
+								/>
+								<img
+									src="@/assets/images/siliconSlopes.png"
+									alt="Image of Silicon Slopes magazine header"
+									class="img-fluid"
+								/>
+							</picture>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!-- First Section -->
+		<div class="container projectContainers projectImg">
+			<div class="row">
+				<div
+					class="col-12 col-md-7 col-lg-6 align-self-center textSection mobileText"
+				>
+					<h4>Utah Valley University</h4>
+					<h2>AR Space Book</h2>
+					<div class="gradLine"></div>
+					<p>
+						Augmented reality meets print to bring outer 
+						space to life in the library
+					</p>
+					<NuxtLink
+						style="cursor: auto; textDecoration: none;"
+						to="/ArSpaceBook"
+					>
+						<GradButton title="View Project" />
+					</NuxtLink>
+				</div>
+				<div class="col-12 col-md-5 col-lg-6 align-self-center">
+					<img
+						class="img-fluid"
+						src="@/assets/images/arSpaceBookCover.png"
+						alt="image of floating astronaut"
+					/>
+				</div>
+			</div>
+		</div>
+
 		
 	</div>
 </template>
