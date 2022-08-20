@@ -33,7 +33,7 @@
 								
 								<div id="content-mobile">
 								<GradButton 
-									title="Download Resume" 
+									title="View Resume" 
 									url="/mobileResume_sarahCallison.pdf"
 									target="blank"
 								/>
