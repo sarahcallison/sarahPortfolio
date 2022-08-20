@@ -25,7 +25,7 @@
 								
 								<div id="content-desktop">
 								<GradButton 
-									title="Download Resume" 
+									title="View Resume" 
 									url="/resume_sarahCallison.pdf"
 									target="_blank"
 								/>
