@@ -349,13 +349,13 @@
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
 					
-					<GradButton
+					<GradButton class="bottomAlign"
 								title="View academic research report"
 								url="https://sarahcallison.github.io/"
 								target="blank"
 							/>
 							
-							<GradButton
+							<GradButton class="bottomAlign"
 								title="View infographic"
 								url="https://sarahcallison.github.io/"
 								target="blank"
@@ -587,6 +587,10 @@ a {
 			margin: 20px 0;
 			background-image: linear-gradient(to right, $gradDark, $gradLight);
 		}
+	}
+	
+	.bottomAlign {
+			margin: auto;
 	}
 
 	.infoColor {
