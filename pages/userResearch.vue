@@ -361,12 +361,14 @@
 						
 							
 							<GradButton
+								class="text-center"
 								title="View report"
 								url="https://sarahcallison.github.io/"
 								target="blank"
 							/>
 							
 							<GradButton
+								class="text-center"
 								title="View infographic"
 								url="https://sarahcallison.github.io/"
 								target="blank"
