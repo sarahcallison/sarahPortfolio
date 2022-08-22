@@ -349,7 +349,7 @@
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
 					
-					<GradButton #gradButton
+					<GradButton id="gradButton"
 								title="View academic research report"
 								url="https://sarahcallison.github.io/"
 								target="blank"
