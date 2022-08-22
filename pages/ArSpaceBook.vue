@@ -44,13 +44,16 @@
 							<p>
 								How can we combine the digital and physical world to 
 								create a deeper layer of engagement? Augmented reality 
-								(AR) is one answer. In my Immersive Authoring II course, 
+								(AR) is one answer. 
+								<br />
+							<br />
+								In my Immersive Authoring II course, 
 								my group was tasked with enhancing 
-								a print book which features at least eight AR features. 
+								a print book with at least eight AR features. 
 								We worked in teams of two English students and two 
 								Digital Media students to write, design, and print a 
 								book on a topic of our choice. I was responsible for 
-								creating the AR features and the cover designs. 
+								designing and creating the AR features and the cover designs. 
 								
 							<br />
 							<br />
@@ -89,7 +92,7 @@
 								Our topic needed to be something that the 
 								English students could write persuasively 
 								about. Since the Perseverance rover was scheduled to 
-								be launched during the course of our project, 
+								launch during the course of our project, 
 								we considered the question of whether a 
 								manned mission to Mars would be feasible in 
 								light of concerns about the health of the 
@@ -104,7 +107,7 @@
 								<br />
 								<br />
 								I researched dozens of NASA articles/videos 
-								and made note of elements that surprised me 
+								and made note of elements that were a surprise 
 								or seemed significant to me. As I reviewed 
 								NASA’s content, I asked myself, how could 
 								this cool fact be translated into an AR experience? 
@@ -118,13 +121,13 @@
 								Our professor asked us to make a list of 
 								possible AR features. This turned out to 
 								be a great way to brainstorm. To meet 
-								project requirements, our book was to 
+								project requirements, our book had to 
 								include four unique features (up to two of the same type of feature) 
 								and at least several complex features&#8212;an 
 								original infographic, for example. After 
 								reviewing the capabilities of ZapWorks, 
 								our designated AR-building platform, 
-								Abby and I talked through our lists and 
+								my partner and I talked through our lists and 
 								picked these features:
 								<br />
 								<br />
@@ -165,7 +168,7 @@
 								alt="image of sketches"
 							/>
 							<figcaption class="text-center mt-3" id="no-padding">
-								A sketch of the interactive infographic feature
+								A sketch of the interactive infographic features
 							</figcaption>
 							
 
@@ -173,10 +176,10 @@
 						
 
 							<p>
-								Our goal was to enable the reader to experience
+								Our goal was to help the reader experience
 								what long-term space travel might be like. So we 
-								chose a minimalistic style for the book design and let the beautiful 
-								images from NASA speak for themselves. 
+								chose a minimalistic style for the book design and let the beautiful NASA
+								images speak for themselves. 
 							</p>
 							
 								<img
@@ -224,11 +227,9 @@
 							<p>
 								The biggest obstacle we faced was the timeline. 
 								The final draft of the copy was due only a few 
-								days before the print deadline. We had an early 
+								days before the print deadline. As we started designing, we had an early 
 								version of the copy which included about half 
-								of the required content. We had all of the main 
-								ideas, but didn’t have the final version until 
-								the day it was due.
+								of the required content. 
 								<br />
 								<br />
 								I intended to prepare as much of the AR content 
@@ -304,7 +305,7 @@
 							
 							Perhaps the most meaningful AR interaction is 
 							featured in the interactive infographic about 
-							issues that astronauts experience in space. When 
+							issues that astronauts face in space. When 
 							the user taps on the plus icon over the astronaut’s 
 							heart, popup text explains how astronauts are at-risk 
 							for experiencing psychological and cognitive 
@@ -313,7 +314,7 @@
 							opacity. Next, an explanation about how astronauts can 
 							combat these issues appears, and the astronaut image 
 							resaturates and increases to 100% opacity. This 
-							interaction was especially meaningful due to the COVID 
+							interaction was especially relevant due to the COVID 
 							lockdowns and gathering restrictions. 
 							</p>
 							
