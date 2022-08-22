@@ -70,11 +70,7 @@
 								url="https://sarahcallison.github.io/"
 								target="blank"
 							/>
-							<GradButton
-								title="View infographic"
-								url="/academicResearch.pdf"
-								target="blank"
-							/>
+							
 						</div>
 					</div>
 				</div>
