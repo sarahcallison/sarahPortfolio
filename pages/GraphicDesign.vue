@@ -98,7 +98,7 @@
 								<br />
 
 								For example, I was assigned to create designs for 
-								the “Made in Utah” section, but some designs would 
+								the “Made in Utah” section, but some designs would have 
 								been better suited for the "Women in Business" section. 
 								There needed to be a clear distinction between each 
 								section so I saved those designs for later and went 
