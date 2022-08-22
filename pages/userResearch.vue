@@ -488,7 +488,7 @@ export default {
 	}
 	
 	#gradButton {
-	margin: 50px auto 50px auto;
+	margin: 50px 25% 50px 25%;
 
 	
 	}
