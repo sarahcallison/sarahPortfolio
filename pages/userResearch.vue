@@ -349,13 +349,13 @@
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
 					
-					<GradButton class="bottomAlign"
+					<GradButton #gradButton
 								title="View academic research report"
 								url="https://sarahcallison.github.io/"
 								target="blank"
 							/>
 							
-							<GradButton class="bottomAlign"
+							<GradButton #gradButton
 								title="View infographic"
 								url="https://sarahcallison.github.io/"
 								target="blank"
@@ -485,6 +485,14 @@ export default {
 				content: url("@/assets/images/closeHover.png");
 			}
 		}
+	}
+	
+	#gradButton {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	
 	}
 	
 	#firstProjContainer {	
