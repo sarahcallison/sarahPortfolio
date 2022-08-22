@@ -349,13 +349,13 @@
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
 					
-					<GradButton class="gradButton"
+					<GradButton id="marginOverride"
 								title="View academic research report"
 								url="https://sarahcallison.github.io/"
 								target="blank"
 							/>
 							
-							<GradButton class="gradButton"
+							<GradButton id="marginOverride2"
 								title="View infographic"
 								url="https://sarahcallison.github.io/"
 								target="blank"
@@ -654,10 +654,13 @@ a {
 				margin: 0 auto;
 				}
 				
-				.gradButton {
+			#marginOverride {
 				width: 60%;
-				margin: 0 auto;
-				}
+			}
+			
+			marginOverride2 {
+				width: 60%;
+			}
 				
 			.highFidText {
 				margin-bottom: 2rem;
