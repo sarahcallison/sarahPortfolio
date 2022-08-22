@@ -491,7 +491,7 @@ export default {
 	margin-top: 50px;
 	margin-bottom: 50px;
 	margin-left: auto;
-	margin-right: auto;
+	margin-right: 500px;
 	
 	}
 	
