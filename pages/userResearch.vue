@@ -348,13 +348,14 @@
 						</p>
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
-						<p class="highFidText">
-							<a href="/academicResearch.pdf" target="blank">Academic research report</a><br>
-							Interactive infographic
-							</p>
+					
+					<GradButton
+								title="View academic research report"
+								url="https://sarahcallison.github.io/"
+								target="blank"
+							/>
 							
 							<GradButton
-								class="text-center"
 								title="View infographic"
 								url="https://sarahcallison.github.io/"
 								target="blank"
