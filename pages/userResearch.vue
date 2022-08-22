@@ -488,10 +488,8 @@ export default {
 	}
 	
 	#gradButton {
-	margin-top: 50px;
-	margin-bottom: 50px;
-	margin-left: 600px;
-	margin-right: 0px;
+	margin-top: 50px; auto 50px auto;
+
 	
 	}
 	
