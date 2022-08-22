@@ -487,11 +487,7 @@ export default {
 		}
 	}
 	
-	.gradButton {
-	margin: 50px auto 50px auto;
 
-	
-	}
 	
 	#firstProjContainer {	
 		padding-bottom: 100px;
@@ -658,7 +654,7 @@ a {
 				margin: 0 auto;
 				}
 				
-				.gradButton a {
+				.gradButton {
 				width: 60%;
 				margin: 0 auto;
 				}
