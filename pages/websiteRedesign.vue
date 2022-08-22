@@ -97,10 +97,7 @@
 								consistent with both Academic Tutoring’s and UVU’s brand identity. 
 								As one of 60+ departments within UVU, our new identity needed to 
 								represent the department in a way that was both recognizable and 
-								unique, but stayed true to UVU’s design standard. A careful review 
-								of UVU’s style guide provided the guidance I needed to meet the 
-								university’s design constraints. Staying consistent with our brand 
-								required a little more effort.  
+								unique, but stayed true to UVU’s design standard.
 							</p>
 
 							<h4 class="text-center subtitle">Ideation</h4>
@@ -109,12 +106,11 @@
 							<p>
 								Since the website was my first assignment as an intern, I hadn’t 
 								had time to develop a new brand identity for Academic Tutoring. It 
-								was decided by the team that I would mock up a landing page in several 
-								styles so we could determine which style best communicates our voice. 
+								was decided by the team that I would mock up a landing page in several different
+								styles to determine which style best communicates our mission. 
 								To get the ideas flowing, the director and I scoured the internet for 
-								examples. Websites with an open, creative feel and sites that featured hand drawn 
-								elements stood out as examples that might best match Academic Tutoring’s
-								mission. 
+								examples. Websites with an open, creative feel that featured hand drawn 
+								elements stood out to us. 
 								<br />
 								<br />
 								Academic Tutoring’s mission statement:
@@ -133,11 +129,10 @@
 								<br />
 								When I presented mock ups of the landing page in both a hand 
 								drawn and a vector-based style, the team unanimously agreed 
-								that the more relaxed appearance of the hand drawn style represents 
+								that the hand drawn style represents 
 								who we are. Academic Tutoring is meant to be an inclusive, 
-								creative space where students can make mistakes freely without 
-								negative consequences. Using a hand-drawn style moves away from 
-								the style of traditional and institutional academic websites and communicates 
+								creative space where students can make mistakes without 
+								negative consequences. Using a hand-drawn style communicates 
 								that we have an atmosphere where students have space to grow. 
 								<br />
 								<br />
@@ -161,7 +156,7 @@
 								The signage for this event, which was created before I joined the team, 
 								features a background texture made of school-related icons. Since this 
 								event garnered campus-wide attention in the past, the director requested 
-								that I incorporate the icon motif in the new website.
+								that I incorporate the icon motif in our new website.
 								<br />
 								<br />
 
@@ -172,12 +167,12 @@
 								hand scratches.” The use of this typeface along with hand-drawn accents, 
 								like an asterisk, resembles hand-drawn notes that a student might make 
 								as they are exploring new concepts. Clear hierarchy 
-								and clean designs add professionalism to this whimsical style.
+								and clean design add professionalism to this whimsical style.
 								<br />
 								<br />
 								The “base” of each icon was outsourced to save time. Each icon was then 
 								edited to maintain consistency between the icons throughout the site. 
-								Sparkles were added to reflect our creative, open atmosphere.
+								Sparkles were added to reflect our creative, fun atmosphere.
 								<br />
 								<br />
 								UVU’s primary color palette is forest green, black, white and metallic silver. 
@@ -187,9 +182,9 @@
 								<br />
 								Since UVU uses pre-coded elements, we were somewhat constrained by what we 
 								could include in the UI. Custom elements mean more work for the developer 
-								and are not always approved. We edited these elements to match our style by
+								and are not always approved. As this was the case, we edited these pre-coded elements to match our style by
 								adding hand drawn accents and using a lighter UVU-approved green. We also had to modify 
-								some of our font selections at our developer's request and use UVU-approved fonts like Raleway that were similar 
+								some of our font selections at our developer's request and use UVU-approved fonts, like Raleway, that were similar 
 								to the fonts we used in our brand identity. 
 								</p>
 								
@@ -221,8 +216,8 @@
 								proposed user testing as a means of evaluating our designs to the director, but 
 								he wanted to postpone testing until the website and other upcoming projects were 
 								completed. After getting feedback from a few friends and family members, it was 
-								clear that the amount of content on the subpages (Peer Tutoring or Online 
-								Tutoring) made the site feel cluttered—important information was harder to find. 
+								clear that the amount of content on the subpages (Peer Tutoring and Online 
+								Tutoring) made the site feel cluttered. Important information was harder to find. 
 								Some content was repeated on each page to maintain consistency, which resulted 
 								in more clutter.
 								<br />
@@ -230,7 +225,7 @@
 								Since this was my first assignment of my first design position, I was hesitant to push the
 								issue. The director has a great eye for design and subscribes to high-quality 
 								design content. Since he didn’t think user testing was necessary, I decided to 
-								leave this issue alone.
+								leave the issue alone.
 								<br />
 								<br />
 								A few months later, I still felt strongly that we needed to get feedback from our users. I drafted 
@@ -250,7 +245,7 @@
 								faculty or staff, rather than students. I communicated their feedback to the director.
 								By that time, I’d had some successes as an intern with other projects and felt more 
 								confidence in my evaluation of our website. User testing was not approved, but a 
-								second iteration of the site was given a green light.
+								second iteration of the website was given a green light.
 							</p>
 
 						
@@ -264,7 +259,10 @@
 								The second iteration is a streamlined version of the first iteration. 
 								Repetitive content was removed. Content that was geared toward faculty or staff was 
 								moved from the student pages to the Faculty Resources page or 
-								deleted from the site. Any content which was placed above essential information about 
+								deleted from the site. 
+								<br />
+								<br />
+								Any content which was placed above essential information about 
 								our services, such as hours and locations, was removed or placed lower on the page so 
 								that the most important information was the first content to be seen by the user. 
 								<br />
@@ -321,13 +319,6 @@
 							illuminates the problems with the greatest negative impact on the user 
 							experience. If the fix for these problems is not readily apparent, which 
 							it rarely is, feedback from users provides clues to the solution. 
-							<br />
-							<br />
-							When my pitch for user testing wasn’t approved on multiple occasions, I 
-							realized that it was my pitch that needed to change rather than the director. 
-							A presentation of how user testing could improve the bottom line for Academic 
-							Tutoring rather than a discussion of design principles may have been an 
-							effective strategy.
 							<br />
 							<br />
 							The last high-fidelity prototype I sent to the web developer was completed in 
