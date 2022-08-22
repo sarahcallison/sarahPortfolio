@@ -50,6 +50,23 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
+							params: { img: `/print/plantAndPencil` }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/plantAndPencil.jpg"
+							alt="image of invitations and cards"
+						/>
+					</NuxtLink>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
 							params: { img: `/print/otherPurpleFlowers` }
 						}"
 					>
@@ -67,46 +84,29 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `/print/roses` }
+							params: { img: `/print/olivia_black` }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/olivia_black.jpg"
+							alt="image of invitations and cards"
+						/>
+					</NuxtLink>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: { img: `/roses` }
 						}"
 					>
 						<img
 							class="img-fluid"
 							src="@/assets/images/print/roses.jpg"
-							alt="image of invitations and cards"
-						/>
-					</NuxtLink>
-				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<NuxtLink
-						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
-							params: { img: `/print/theWeddingOf_2022` }
-						}"
-					>
-						<img
-							class="img-fluid"
-							src="@/assets/images/print/theWeddingOf_2022.jpg"
-							alt="image of invitations and cards"
-						/>
-					</NuxtLink>
-				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<NuxtLink
-						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
-							params: { img: `/print/plantAndPencil` }
-						}"
-					>
-						<img
-							class="img-fluid"
-							src="@/assets/images/print/plantAndPencil.jpg"
 							alt="image of invitations and cards"
 						/>
 					</NuxtLink>
@@ -135,12 +135,12 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `/print/olivia_black` }
+							params: { img: `/print/theWeddingOf_2022` }
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/print/olivia_black.jpg"
+							src="@/assets/images/print/theWeddingOf_2022.jpg"
 							alt="image of invitations and cards"
 						/>
 					</NuxtLink>
@@ -199,7 +199,29 @@
 					
 						<img
 							class="img-fluid"
+							src="@/assets/images/print/plantAndPencil.jpg"
+							alt="image of invitations and cards"
+						/>
+				
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					
+						<img
+							class="img-fluid"
 							src="@/assets/images/print/otherPurpleFlowers.jpg"
+							alt="image of invitations and cards"
+						/>
+					
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/olivia_black.jpg"
 							alt="image of invitations and cards"
 						/>
 				
@@ -211,28 +233,6 @@
 						<img
 							class="img-fluid"
 							src="@/assets/images/print/roses.jpg"
-							alt="image of invitations and cards"
-						/>
-					
-				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					
-						<img
-							class="img-fluid"
-							src="@/assets/images/print/theWeddingOf_2022.jpg"
-							alt="image of invitations and cards"
-						/>
-				
-				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					
-						<img
-							class="img-fluid"
-							src="@/assets/images/print/plantAndPencil.jpg"
 							alt="image of invitations and cards"
 						/>
 				
@@ -254,7 +254,7 @@
 					
 						<img
 							class="img-fluid"
-							src="@/assets/images/print/olivia_black.jpg"
+							src="@/assets/images/print/theWeddingOf_2022.jpg"
 							alt="image of invitations and cards"
 						/>
 				
