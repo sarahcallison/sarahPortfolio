@@ -589,7 +589,7 @@ a {
 		}
 	}
 	
-	.bottomAlign {
+	.bottomAlign a{
 			margin: auto;
 	}
 
