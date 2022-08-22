@@ -656,8 +656,8 @@ a {
 				
 			#marginOverride {
 				width: 60%;
-				{
-		margin: 50px 0 0 0;
+				
+			margin: 50px 0 0 0;
 		cursor: pointer;
 		a {
 			text-decoration: none;
@@ -665,6 +665,7 @@ a {
 			color: $bodyGray;
 			border: $btnStroke solid $bodyGray;
 			padding: 10px 5%;
+			}
 		&:hover {
 			background-image: linear-gradient(to right, $gradDark, $gradLight);
 			background-clip: text;
@@ -674,8 +675,8 @@ a {
 			border-image: linear-gradient(to right, $gradDark, $gradLight) 10;
 		}
 	}
-}
-			}
+
+			
 			
 			marginOverride2 {
 				width: 60%;
