@@ -42,14 +42,13 @@
 							<h2 id="problemHeader" class="smallerHeader">The Problem</h2>
 							<p>
 								With the proliferation of mobile and social media platforms, there is no longer 
-								“one size fits all” for publishing digital content. Users can pick and choose how 
-								they want to get content. To reach a wider audience, digital publishers must
+								“one size fits all” for publishing digital content. To reach a wider audience, digital publishers must
 								make their content adaptable across a variety of platforms. 
 								<br />
 								<br />
 								In my Adaptive Media Experiences course, I was tasked with creating a business persona 
 								and adapting this persona’s content across multiple platforms. I created Brandish, a would-be marketing 
-								resource, that publishes content about how to build a brand from the ground up. 
+								resource, that features content about how to build a brand from the ground up. 
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
@@ -78,8 +77,7 @@
 							</h4>
 
 							<p class="text-left">
-								Early in the semester, I reviewed what marketing 
-								content and apps are already available. I found 
+								Early in the semester, I reviewed what branding/marketing apps are already available. I found 
 								multiple sources that provide marketing services, 
 								such as consulting from Brandology or business card 
 								design from Brandly. One of the more well-known 
@@ -95,18 +93,18 @@
 								building a basic marketing plan—focusing on foundational marketing 
 								concepts rather than the mechanics of tracking leads and 
 								sales. Once the user has the basic concepts down, other 
-								Brandish platforms, such as social channels, provide 
+								Brandish platforms, such as social channels, provide a flow of
 								ideas and tips to hone their marketing efforts.
 								<br />
 								<br />
-								I was stumped when it came time to pick a name for my business. 
-								It seemed all the variations of the word “brand” were already 
+								I was stumped when it came time to pick a name for my persona. 
+								It seemed that all the variations of the word “brand” were already 
 								in use. I wanted something bold that would stand out from all 
-								of the trendy or obvious choices like brandology or brandily so 
+								of the trendy or obvious choices like "brandily," so 
 								I searched online thesauri and talked with friends and family
 								about my ideas. The word “brandish” was proposed. This felt 
-								like a winning combination of the word brand paired with a bold 
-								marketing idea. I selected Brandish with the tagline, Show off 
+								like a winning combination of the word "brand" paired with the bold concept of "brandishing." 
+								I selected Brandish with the tagline, Show off 
 								your brand, and a longer tagline for use on mediums such as a 
 								podcast: Is the world ready for your brand? Don’t promote it. 
 								Brandish it. 
@@ -132,7 +130,7 @@
 								<p>
 								When I was building my business persona, I created a negative 
 								space logo in black and white. I love the simplicity of black and 
-								white. This high-contrast color combination feels clean and bold. 
+								white and this high-contrast color combination feels clean and bold. 
 								I used black and white as the app’s color scheme for the 
 								reasons listed above and to maintain consistency with the Brandish brand.
 							</p>
@@ -152,8 +150,8 @@
 							<p>
 								Prior to this project, I’d spent months working 
 								on UVU websites which feature pre-configured 
-								elements. I had a lot of questions about mobile 
-								dimensions, so I availed myself of the resources 
+								elements. Since it had been a while since I designed from scratch, I had some questions about mobile 
+								dimensions. I availed myself of the resources 
 								provided by InVision and Kapeli’s iOS cheat sheet. 
 								I made some slight modifications to the recommendations 
 								in order to create content hierarchy, but it felt 
@@ -166,8 +164,10 @@
 
 								Once I had the dimensions down, I started on the 
 								navigation. Traditionally, a popout menu is featured 
-								in the upper corners of an app. I’ve frequently found this 
+								in the upper corners of a mobile app. I’ve frequently found this 
 								menu difficult to reach while navigating on my phone. 
+								<br />
+								<br />
 								I have a minor skeletal malformation called Brachydactyly 
 								type D or “stub thumb.” The last section of 
 								my thumb is stunted, making my thumb shorter than average. 
@@ -182,8 +182,8 @@
 								Navigation — Best Practices for Reachability.” Karov talks 
 								about how a majority of users navigate using their thumb, 
 								making it difficult to reach the menus located in the upper 
-								corners. For an easier navigation experience, I decided to 
-								use a bottom navigation menu. This app only has three menu 
+								corners. With this in mind, I designed
+								a bottom navigation menu. This app only has three menu 
 								items—if additional items were needed, a menu that pops out 
 								from an ellipse icon or the word “more” could be used.
 							</p>
@@ -202,7 +202,7 @@
 							<h4 class="text-center subtitle">Iteration</h4>
 
 							<p>
-								This app was designed to be simple, but some of the 
+								This app was intended to be simple, but some of the 
 								sections featured too much information for easy 
 								navigation. I hid some of the content so that the 
 								user could choose to progressively disclose 
@@ -264,16 +264,16 @@
 						</h4>
 
 						<p class="text-left">
-							It was an eye-opening experience to design the user experience 
-							around a problem I experience on a daily basis. Navigating on 
+							It was eye-opening to design the user experience 
+							around a problem I encounter on a daily basis. Navigating on 
 							my phone wasn’t ruining my day, but it started to bug me 
 							increasingly over time until I was able to put my finger 
 							(or thumb) on what the issue was. 
 							<br />
 							<br />
-							So, I was pretty invested in finding a 
-							solution for one of my frustrating problems. I want to be just as 
-							motivated to solve frustrating problems for other people, 
+							Since it was a problem I experienced frequently, I was invested in finding a 
+							solution. I want to be just as 
+							motivated to solve problems for other people, 
 							the users, in any project that I design for. Becoming invested 
 							in the problems of someone else takes empathy and hard work, 
 							which is something that I plan to keep practicing. 
