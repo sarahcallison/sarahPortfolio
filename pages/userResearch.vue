@@ -349,13 +349,13 @@
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
 					
-					<GradButton id="gradButton"
+					<GradButton class="gradButton"
 								title="View academic research report"
 								url="https://sarahcallison.github.io/"
 								target="blank"
 							/>
 							
-							<GradButton #gradButton
+							<GradButton class="gradButton"
 								title="View infographic"
 								url="https://sarahcallison.github.io/"
 								target="blank"
@@ -487,8 +487,8 @@ export default {
 		}
 	}
 	
-	#gradButton {
-	margin: 50px 25% 50px 25%;
+	.gradButton {
+	margin: 50px auto 50px auto;
 
 	
 	}
