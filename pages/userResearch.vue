@@ -57,7 +57,7 @@
 							</p>
 							
 
-							<h4 class="purpHeader text-center">Deliverables</h4>
+							<h4 class="purpHeader">Deliverables</h4>
 							<p class="highFidText">
 							Academic Research Report</br>
 							Interactive Infographic
