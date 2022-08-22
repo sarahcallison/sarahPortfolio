@@ -488,7 +488,7 @@ export default {
 	}
 	
 	#gradButton {
-	margin-top: 50px auto 50px auto;
+	margin: 50px auto 50px auto;
 
 	
 	}
@@ -595,9 +595,7 @@ a {
 		}
 	}
 	
-	.bottomAlign a{
-			margin: auto;
-	}
+
 
 	.infoColor {
 		background-image: linear-gradient(
