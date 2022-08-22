@@ -47,14 +47,12 @@
 							<h2 id="problemHeader">The Problem</h2>
 							<p>
 								The onset of the COVID-19 pandemic forced medical providers 
-								to rapidly adopt Telehealth in 2020. An expected three-year 
-								timeframe for remote Telehealth implementation was completed 
-								in an unprecedented three weeks. Improving the user experience 
+								to rapidly adopt Telehealth in 2020. Improving the user experience 
 								of remote digital healthcare became a global priority. 
 							<br />
 							<br />
-								My senior project group was tasked with researching how the Telehealth 
-								experience for medical providers can be improved. I was responsible for creating the interactive infographic, writing
+								My senior project group was tasked with researching how to improve the Telehealth 
+								experience for medical providers. I was responsible for creating the interactive infographic, writing
 								the survey and interview questions, and writing the academic research report.
 							</p>
 							
@@ -107,10 +105,7 @@
 								current Telehealth research. As existing literature focuses primarily 
 								on provider acceptance of the use of Telehealth in medical practice, 
 								exploratory research to pinpoint user issues experienced by both the 
-								provider and the patient was needed. Identifying the underlying cause 
-								of these issues would serve as a guide for further research and, in 
-								turn, illuminate potential solutions for improving the Telehealth 
-								user experience. 
+								provider and the patient was needed. 
 								<br />
 								<br />
 								After speaking with faculty advisors from the Digital Media and Public 
@@ -123,7 +118,7 @@
 								<li>How are current digital solutions meeting or not meeting provider needs?</li>
 								<li>What gaps in patient care need to be filled?</li>	
 								</ol>
-								A focus on providers in the first phase of our project would serve to 
+								Focusing on providers in the first phase of our project served to 
 								guide future research into how issues in the provider user experience 
 								impact patient outcomes. 
 								<br />
@@ -132,7 +127,7 @@
 								One of the issues that was discussed in the early stages of this research 
 								is poor Internet connectivity. Developing a medical resource app that would 
 								be available offline was considered. In an audit of current medical resource
-								technology, 16 apps with user reviews of four stars or higher were identified, 
+								technology, however, 16 apps with user reviews of four stars or higher were identified, 
 								seven of which are available offline. We refocused our research activities on 
 								how to improve existing digital solutions. 
 								<br />
@@ -347,7 +342,7 @@
 						<p class="text-left">
 							The user experience design process should be cyclical. 
 							As technology and user needs evolve, additional research 
-							and user testing is needed. With a multitude of tools and 
+							and user testing should be completed. With a multitude of tools and 
 							resources available, designers are well-equipped to keep 
 							pace with the rapidly changing Telehealth industry. 
 						</p>
