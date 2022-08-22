@@ -42,9 +42,7 @@
 							<h2 id="problemHeader">The Problem</h2>
 							<p>
 								Silicon Slopes describes their platform as the voice, hub, and heart of Utah’s 
-								startup and tech community. The layouts for their magazine, the Silicon Slopes Magaine, are currently 
-								completed by a Director of Production who has a good eye for design, but minimal 
-								design experience. Fresh designs were needed to match the magazine's up-to-date 
+								startup and tech community. Fresh designs were needed to match the magazine's up-to-date 
 								content. I was asked to create design samples for one section of the magazine to 
 								showcase my design skills with the possibility of future employment on the magazine staff.
 							</p>
@@ -101,7 +99,7 @@
 
 								For example, I was assigned to create designs for 
 								the “Made in Utah” section, but some designs would 
-								been better suited for the women in business section. 
+								been better suited for the "Women in Business" section. 
 								There needed to be a clear distinction between each 
 								section so I saved those designs for later and went 
 								back to the drawing board.
@@ -114,7 +112,7 @@
 								Since the magazine is published quarterly with seasonal 
 								issues titles like, “Winter” and “Spring,” I wanted to 
 								create designs that would be consistently recognizable 
-								as that particular section’s header, but featured a 
+								as that particular section’s header, but feature a 
 								fresh twist in each issue. The winter issue designs 
 								feature snow-capped mountains and pine trees while 
 								the spring designs could incorporate vines and blossoms.
