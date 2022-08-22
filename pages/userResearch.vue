@@ -656,6 +656,25 @@ a {
 				
 			#marginOverride {
 				width: 60%;
+				{
+		margin: 50px 0 0 0;
+		cursor: pointer;
+		a {
+			text-decoration: none;
+			text-transform: uppercase;
+			color: $bodyGray;
+			border: $btnStroke solid $bodyGray;
+			padding: 10px 5%;
+		&:hover {
+			background-image: linear-gradient(to right, $gradDark, $gradLight);
+			background-clip: text;
+			-webkit-text-fill-color: transparent;
+			-moz-text-fill-color: transparent;
+			border: $btnStroke solid;
+			border-image: linear-gradient(to right, $gradDark, $gradLight) 10;
+		}
+	}
+}
 			}
 			
 			marginOverride2 {
