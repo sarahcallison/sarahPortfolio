@@ -57,10 +57,10 @@
 							</p>
 
 							<h4 class="purpHeader">Deliverables</h4>
-							<p class="highFidText">High-fidelity prototype<br />
-							(prototype link may load slowly)</p>
+							<p class="highFidText">PDF of book
+							</p>
 							<GradButton
-								title="View PDF of Book"
+								title="View PDF"
 								url="/printPages.pdf"
 								target="blank"
 							/>
@@ -335,11 +335,11 @@
 						</p>
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
-						<p class="highFidText text-center">High-fidelity prototype<br />
-							(prototype link may load slowly)</p>
+						<p class="highFidText text-center">PDF of book
+							</p>
 						<GradButton
 							class="text-center"
-							title="View PDF of book"
+							title="View PDF"
 							url="/printPages.pdf"
 							target="blank"
 						/>
