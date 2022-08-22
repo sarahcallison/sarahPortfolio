@@ -656,11 +656,17 @@ a {
 			.mainText p {
 				width: 60%;
 				margin: 0 auto;
+				}
+				
+				.gradButton a {
+				width: 60%;
+				margin: 0 auto;
+				}
 				
 			.highFidText {
 				margin-bottom: 2rem;
 				}
-			}
+			
 		}
 	}
 }
