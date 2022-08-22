@@ -57,11 +57,16 @@
 							</p>
 							
 
-							<h4 class="purpHeader">Deliverables</h4>
+							<h4 class="purpHeader text-center">Deliverables</h4>
+							<p class="highFidText">
+							Academic Research Report</br>
+							Interactive Infographic
+							
+						</p>
 						
 							
 							<GradButton
-								title="View academic research report"
+								title="View report"
 								url="https://sarahcallison.github.io/"
 								target="blank"
 							/>
@@ -348,18 +353,25 @@
 						</p>
 
 						<h4 class="purpHeader text-center">Deliverables</h4>
-					
-					<GradButton id="marginOverride"
-								title="View academic research report"
+							<p class="text-center highFidText">
+							Academic Research Report</br>
+							Interactive Infographic
+							
+						</p>
+						
+							
+							<GradButton
+								title="View report"
 								url="https://sarahcallison.github.io/"
 								target="blank"
 							/>
 							
-							<GradButton id="marginOverride2"
+							<GradButton
 								title="View infographic"
 								url="https://sarahcallison.github.io/"
 								target="blank"
 							/>
+							
 					</div>
 				</div>
 			</div>
