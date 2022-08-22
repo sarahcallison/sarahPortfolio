@@ -53,18 +53,20 @@
 								of remote digital healthcare became a global priority. 
 							<br />
 							<br />
-								My senior project group was tasked with improving the Telehealth 
-								experience for medical providers. We were responsible for the research phase
-								of the project. I was responsible for creating the interactive infographic, writing
+								My senior project group was tasked with researching how the Telehealth 
+								experience for medical providers can be improved. I was responsible for creating the interactive infographic, writing
 								the survey and interview questions, and writing the academic research report.
 							</p>
 							
 
 							<h4 class="purpHeader">Deliverables</h4>
-							<p class="highFidText">
-							<a href="/academicResearch.pdf" target="blank">Academic research report</a><br>
-							Interactive infographic
-							</p>
+						
+							
+							<GradButton
+								title="View academic research report"
+								url="https://sarahcallison.github.io/"
+								target="blank"
+							/>
 							
 							<GradButton
 								title="View infographic"
