@@ -33,12 +33,12 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `/print/petals` }
+							params: { img: `/print/petals_2022` }
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/print/petals.jpg"
+							src="@/assets/images/print/petals_2022.jpg"
 							alt="image of invitations and cards"
 						/>
 					</NuxtLink>
@@ -67,40 +67,6 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `/print/plantAndPencil` }
-						}"
-					>
-						<img
-							class="img-fluid"
-							src="@/assets/images/print/plantAndPencil.jpg"
-							alt="image of invitations and cards"
-						/>
-					</NuxtLink>
-				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<NuxtLink
-						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
-							params: { img: `/print/floralAmp` }
-						}"
-					>
-						<img
-							class="img-fluid"
-							src="@/assets/images/print/floralAmp.jpg"
-							alt="image of invitations and cards"
-						/>
-					</NuxtLink>
-				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<NuxtLink
-						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
 							params: { img: `/print/roses` }
 						}"
 					>
@@ -118,12 +84,12 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `/print/rosesAndLeaves` }
+							params: { img: `/print/theWeddingOf_2022` }
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/print/rosesAndLeaves.jpg"
+							src="@/assets/images/print/theWeddingOf_2022.jpg"
 							alt="image of invitations and cards"
 						/>
 					</NuxtLink>
@@ -135,12 +101,12 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `/print/theWeddingOf` }
+							params: { img: `/print/plantAndPencil` }
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/print/theWeddingOf.jpg"
+							src="@/assets/images/print/plantAndPencil.jpg"
 							alt="image of invitations and cards"
 						/>
 					</NuxtLink>
@@ -152,12 +118,46 @@
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
-							params: { img: `/print/vines` }
+							params: { img: `/print/calli` }
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/print/vines.jpg"
+							src="@/assets/images/print/calli.jpg"
+							alt="image of invitations and cards"
+						/>
+					</NuxtLink>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: { img: `/print/olivia_black` }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/olivia_black.jpg"
+							alt="image of invitations and cards"
+						/>
+					</NuxtLink>
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: { img: `/print/vines_2022` }
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/vines_2022.jpg"
 							alt="image of invitations and cards"
 						/>
 					</NuxtLink>
@@ -188,7 +188,7 @@
 					
 						<img
 							class="img-fluid"
-							src="@/assets/images/print/petals.jpg"
+							src="@/assets/images/print/petals_2022.jpg"
 							alt="image of invitations and cards"
 						/>
 				
@@ -210,42 +210,9 @@
 					
 						<img
 							class="img-fluid"
-							src="@/assets/images/print/plantAndPencil.jpg"
-							alt="image of invitations and cards"
-						/>
-					
-				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					
-						<img
-							class="img-fluid"
-							src="@/assets/images/print/floralAmp.jpg"
-							alt="image of invitations and cards"
-						/>
-				
-				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					
-						<img
-							class="img-fluid"
 							src="@/assets/images/print/roses.jpg"
 							alt="image of invitations and cards"
 						/>
-				
-				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					
-						<img
-							class="img-fluid"
-							src="@/assets/images/print/rosesAndLeaves.jpg"
-							alt="image of invitations and cards"
-						/>
 					
 				</div>
 				<div
@@ -254,7 +221,7 @@
 					
 						<img
 							class="img-fluid"
-							src="@/assets/images/print/theWeddingOf.jpg"
+							src="@/assets/images/print/theWeddingOf_2022.jpg"
 							alt="image of invitations and cards"
 						/>
 				
@@ -265,7 +232,40 @@
 					
 						<img
 							class="img-fluid"
-							src="@/assets/images/print/vines.jpg"
+							src="@/assets/images/print/plantAndPencil.jpg"
+							alt="image of invitations and cards"
+						/>
+				
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/calli.jpg"
+							alt="image of invitations and cards"
+						/>
+					
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/olivia_black.jpg"
+							alt="image of invitations and cards"
+						/>
+				
+				</div>
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					
+						<img
+							class="img-fluid"
+							src="@/assets/images/print/vines_2022.jpg"
 							alt="image of invitations and cards"
 						/>
 			
