@@ -134,35 +134,9 @@
 				</div>
 			</div>
 			
-			<div class="row mb-5">
-				<div class="col-12 align-self-center textSection">
-					
-					<h2>Interaction Design</h2>
-					<div class="gradLine"></div>
-				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<NuxtLink
-						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
-							params: {
-								vid: `https://www.youtube.com/embed/5lG3VprBGeQ`
-							}
-						}"
-					>
-						<img
-							class="img-fluid"
-							src="~/assets/images/gallery/tabletMag.jpg"
-							alt="image of tablet magazine"
-						/>
-					</NuxtLink>
-
-					<p class="text-center mt-3 px-1">
-						Demo of interactive magazine concept for tablet
-					</p>
-				</div>
+			
+				
+				
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
@@ -181,29 +155,7 @@
 						Interactive infographic made in Hype
 					</p>
 				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<NuxtLink
-						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
-							params: {
-								vid: `https://www.youtube.com/embed/wigsdEFgrBQ`
-							}
-						}"
-					>
-						<img
-							class="img-fluid "
-							src="~/assets/images/gallery/fancySprinkles.jpg"
-							alt="image of tablet magazine"
-						/>
-					</NuxtLink>
-					<p class="text-center  mt-3 px-1">
-						Demo of interactive magazine concept for Fancy Sprinkles
-					</p>
-				</div>
-			</div>
+				
 
 			<!-- Motion Graphics -->
 			<div class="row my-5">
@@ -211,27 +163,22 @@
 					<h2>Motion Graphics</h2>
 					<div class="gradLine"></div>
 				</div>
-				<div
+					<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
-					<NuxtLink
+					<a
 						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
-							params: {
-								vid: `https://www.youtube.com/embed/BX3ImMPQWqI`
-							}
-						}"
+						href="/gallery/interactiveDemo/index.html"
+						target="blank"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/hypeGif.jpg"
-							alt="image of Audrey Hepburn"
+							src="~/assets/images/gallery/interactiveInfographicThumbnail.jpg"
+							alt="image of original audrey hepburn website"
 						/>
-					</NuxtLink>
-
-					<p class="text-center px-1 mt-3">
-						Motion graphic created in Hype
+					</a>
+					<p class="text-center  mt-3 px-1">
+						Interactive infographic made in Hype
 					</p>
 				</div>
 				<div
