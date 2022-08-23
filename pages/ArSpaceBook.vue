@@ -247,7 +247,7 @@
 								</p>
 								
 								<img
-								class="img-fluid px-0 mt-5"
+								class="img-fluid px-0 mt-5 shadow"
 								src="@/assets/images/print/zapCode.png"
 								alt="image of zap code"
 							/>
@@ -518,6 +518,10 @@ export default {
 .container-fluid {
 	padding: 0;
 }
+
+	.shadow {
+		filter: drop-shadow(3px 3px 2px rgb(254,254,254));
+	}
 
 #noPad {
 	padding-bottom: 0;
