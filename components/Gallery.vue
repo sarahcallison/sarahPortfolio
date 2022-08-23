@@ -85,7 +85,7 @@
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/timothy.jpg"
+							src="@/assets/images/gallery/x.jpg"
 							alt="image of illustration"
 						/>
 					</NuxtLink>
