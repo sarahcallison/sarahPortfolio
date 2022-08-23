@@ -302,9 +302,10 @@
 		
 		<div class="container galleryContainers" id="content-mobile">
 		
-		
+		-->
 
 			<!-- Motion Graphics -->
+			<!--
 			<div class="row my-5">
 				<div class="col-12 align-self-center textSection">
 					<h2>Motion Graphics</h2>
