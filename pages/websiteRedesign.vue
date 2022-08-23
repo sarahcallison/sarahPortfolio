@@ -189,7 +189,7 @@
 								</p>
 								
 								<img
-								class="img-fluid px-0 mt-5"
+								class="img-fluid px-0 mt-5 shadow"
 								src="@/assets/images/digital/customize.png"
 								alt="image of web page"
 							/>
@@ -565,6 +565,10 @@ export default {
 			margin: 20px 0;
 			background-image: linear-gradient(to right, $gradDark, $gradLight);
 		}
+	}
+	
+	.shadow {
+		filter: drop-shadow(5px 5px 5px lightgray);
 	}
 
 	.infoColor {
