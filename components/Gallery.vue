@@ -75,11 +75,11 @@
 				>
 					<NuxtLink
 						class="toImageNuxtLink"
-						url="@/assets/images/gallery/timothy.jpg"
+						url="@/assets/images/gallery/x.jpg"
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'timothy'
+								img: 'x'
 							}
 						}"
 					>
@@ -651,7 +651,7 @@
 					
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/timothy.jpg"
+							src="@/assets/images/gallery/x.jpg"
 							alt="image of illustration"
 						/>
 			
