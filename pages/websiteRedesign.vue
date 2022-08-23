@@ -568,7 +568,7 @@ export default {
 	}
 	
 	.shadow {
-		filter: drop-shadow(3px 3px 3px #F8F8F8);
+		filter: drop-shadow(3px 3px 3px rgb(253,253,253);
 	}
 
 	.infoColor {
