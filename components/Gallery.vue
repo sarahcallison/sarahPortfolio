@@ -133,28 +133,6 @@
 					</NuxtLink>
 				</div>
 			</div>
-			
-			
-				
-				
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					<a
-						class="toImageNuxtLink"
-						href="/gallery/interactiveDemo/index.html"
-						target="blank"
-					>
-						<img
-							class="img-fluid"
-							src="~/assets/images/gallery/interactiveInfographicThumbnail.jpg"
-							alt="image of original audrey hepburn website"
-						/>
-					</a>
-					<p class="text-center  mt-3 px-1">
-						Interactive infographic made in Hype
-					</p>
-				</div>
 				
 
 			<!-- Motion Graphics -->
