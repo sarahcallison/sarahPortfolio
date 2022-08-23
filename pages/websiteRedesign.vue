@@ -143,7 +143,7 @@
 							<h4 class="text-center subtitle">Ui Design</h4>
 							
 							<img
-								class="img-fluid px-0 mt-5"
+								class="img-fluid px-0 mt-5 shadow"
 								src="@/assets/images/digital/landingPage.png"
 								alt="image of the Academic Tutoring home page"
 							/>
@@ -189,7 +189,7 @@
 								</p>
 								
 								<img
-								class="img-fluid px-0 mt-5 shadow"
+								class="img-fluid px-0 mt-5"
 								src="@/assets/images/digital/customize.png"
 								alt="image of web page"
 							/>
@@ -198,7 +198,7 @@
 							</figcaption>
 							
 							<img
-								class="img-fluid px-0 mt-5"
+								class="img-fluid px-0 mt-5 shadow"
 								src="@/assets/images/digital/customize2.png"
 								alt="image of web page"
 							/>
@@ -281,7 +281,7 @@
 								</p>
 								
 								<img
-								class="img-fluid px-0 mt-5"
+								class="img-fluid px-0 mt-5 shadow"
 								src="@/assets/images/digital/iconsOnly.png"
 								alt="image of web page"
 							/>
@@ -568,7 +568,7 @@ export default {
 	}
 	
 	.shadow {
-		filter: drop-shadow(3px 3px 5px #F5F5F5);
+		filter: drop-shadow(3px 3px 5px #F8F8F8);
 	}
 
 	.infoColor {
