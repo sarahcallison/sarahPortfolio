@@ -75,17 +75,17 @@
 				>
 					<NuxtLink
 						class="toImageNuxtLink"
-						url="@/assets/images/gallery/x.jpg"
+						url="@/assets/images/gallery/lettucehead.jpg"
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								img: 'x'
+								img: 'lettucehead'
 							}
 						}"
 					>
 						<img
 							class="img-fluid"
-							src="@/assets/images/gallery/x.jpg"
+							src="@/assets/images/gallery/lettucehead.jpg"
 							alt="image of illustration"
 						/>
 					</NuxtLink>
@@ -461,6 +461,19 @@
 					<h2>Illustrations</h2>
 					<div class="gradLine"></div>
 				</div>
+				
+					<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/lettucehead.jpg"
+							alt="image of illustration"
+						/>
+			
+				</div>
+				
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
@@ -495,18 +508,6 @@
 							alt="image of illustration"
 						/>
 				
-				</div>
-
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
-					
-						<img
-							class="img-fluid"
-							src="@/assets/images/gallery/x.jpg"
-							alt="image of illustration"
-						/>
-			
 				</div>
 
 				<div
