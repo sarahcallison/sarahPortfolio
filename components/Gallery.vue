@@ -255,44 +255,7 @@
 						Video created in Photoshop for Trampolines.com
 					</p>
 				</div>
-				<--!
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
 				
-				<a target="_blank"
-						class="toImageNuxtLink"
-						href="https://anchor.fm/brandishyourbrand"
-					>
-						<img
-							class="img-fluid"
-							src="~/assets/images/gallery/podcast.jpg"
-							alt="image of audio equalizer"
-						/>
-					</a>
-					
-					<NuxtLink
-						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
-							params: {
-								vid: `https://anchor.fm/brandishyourbrand`
-							}
-						}"
-					>
-						<img
-							class="img-fluid"
-							src="@/assets/images/gallery/podcast.jpg"
-							alt="image of equalizer"
-						/>
-					</NuxtLink>
-					
-					
-					<p class="text-center px-1 mt-3">
-						Original podcast hosted on Anchor
-					</p>
-				</div>
-				-->
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
