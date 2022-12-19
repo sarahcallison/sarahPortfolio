@@ -241,7 +241,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								vid: `https://www.youtube.com/shorts/5Imo0uR3JlM`
+								vid: `https://www.youtube.com/embed/5Imo0uR3JlM`
 							}
 						}"
 					>
@@ -270,8 +270,8 @@
 							alt="image of audio equalizer"
 						/>
 					</a>
-					-->
-					<!--<NuxtLink
+					
+					<NuxtLink
 						class="toImageNuxtLink"
 						:to="{
 							name: 'ImgBackground',
@@ -286,8 +286,8 @@
 							alt="image of equalizer"
 						/>
 					</NuxtLink>
-					-->
-					<--!
+					
+					
 					<p class="text-center px-1 mt-3">
 						Original podcast hosted on Anchor
 					</p>
@@ -301,7 +301,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								vid: `https://www.youtube.com/shorts/liNZVfyAaUs`
+								vid: `https://www.youtube.com/embed/liNZVfyAaUs`
 							}
 						}"
 					>
