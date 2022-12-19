@@ -270,7 +270,7 @@
 					>
 						<img
 							class="img-fluid "
-							src="@/assets/images/gallery/defyingGravity-2.jpg"
+							src="@/assets/images/gallery/defyingGravity.jpg"
 							alt="image of man jumping on trampoline"
 						/>
 					</NuxtLink>
