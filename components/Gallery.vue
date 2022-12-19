@@ -236,6 +236,29 @@
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								vid: `https://www.youtube.com/shorts/5Imo0uR3JlM`
+							}
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/starwarsday.jpg"
+							alt="image of star wars video"
+						/>
+					</NuxtLink>
+					<p class="text-center px-1 mt-3">
+						Video created in Photoshop for Trampolines.com
+					</p>
+				</div>
+				<--!
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
 				
 				<a target="_blank"
 						class="toImageNuxtLink"
@@ -247,6 +270,7 @@
 							alt="image of audio equalizer"
 						/>
 					</a>
+					-->
 					<!--<NuxtLink
 						class="toImageNuxtLink"
 						:to="{
@@ -263,10 +287,12 @@
 						/>
 					</NuxtLink>
 					-->
+					<--!
 					<p class="text-center px-1 mt-3">
 						Original podcast hosted on Anchor
 					</p>
 				</div>
+				-->
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
@@ -275,19 +301,18 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								vid: `https://www.youtube.com/embed/TIEkFZpKKCg`
+								vid: `https://www.youtube.com/shorts/liNZVfyAaUs`
 							}
 						}"
 					>
 						<img
 							class="img-fluid "
-							src="@/assets/images/gallery/veggie.jpg"
-							alt="image of lettuce in space"
+							src="@/assets/images/gallery/defyingGravity-2.jpg"
+							alt="image of man jumping on trampoline"
 						/>
 					</NuxtLink>
 					<p class="text-center px-1 mt-3">
-						Video edited in Premier Pro - original footage &copy;
-						NASA
+						Instagram reel edited in Premiere Pro for Trampolines.com
 					</p>
 				</div>
 			</div>
