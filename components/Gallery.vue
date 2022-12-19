@@ -252,7 +252,7 @@
 						/>
 					</NuxtLink>
 					<p class="text-center px-1 mt-3">
-						Video created in Photoshop for Trampolines.com
+						Video created in Photoshop for a trampoline retailer
 					</p>
 				</div>
 				
@@ -275,7 +275,7 @@
 						/>
 					</NuxtLink>
 					<p class="text-center px-1 mt-3">
-						Instagram reel edited in Premiere Pro for Trampolines.com
+						Instagram reel edited in Premiere Pro for a trampoline retailer
 					</p>
 				</div>
 			</div>
