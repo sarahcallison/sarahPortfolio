@@ -228,7 +228,7 @@ export default {
 		.infoText {
 			top: calc(18vw);
 			#title {
-				font-size: 20px;
+				font-size: 22px;
 			}
 			#name {
 				margin: 35px 0 35px 0;
@@ -236,7 +236,7 @@ export default {
 				line-height: 50px;
 			}
 			#description {
-				font-size: 15px;
+				font-size: 18px;
 				line-height: 1.4;
 				width: 75%;
 			}
