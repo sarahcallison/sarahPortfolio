@@ -269,7 +269,7 @@
 						}"
 					>
 						<img
-							class="img-fluid "
+							class="img-fluid"
 							src="@/assets/images/gallery/defyingGravity.jpg"
 							alt="image of man jumping on trampoline"
 						/>
