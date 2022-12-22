@@ -90,7 +90,7 @@ export default {
 				list-style-type: none;
 				letter-spacing: $tracking250;
 				cursor: pointer;
-				font-size: 13px;
+				font-size: 14px;
 
 				&:hover {
 					background-image: linear-gradient(
@@ -111,7 +111,7 @@ export default {
 	.sNav {
 		.navWrapper {
 			li {
-				font-size: 14px;
+				font-size: 16px;
 			}
 		}
 	}
