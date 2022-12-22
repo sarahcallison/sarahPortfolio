@@ -264,7 +264,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								vid: `https://www.youtube.com/embed/z3pwN3dfUwc `
+								vid: `https://www.youtube.com/embed/z3pwN3dfUwc`
 							}
 						}"
 					>
