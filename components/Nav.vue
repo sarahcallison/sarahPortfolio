@@ -88,7 +88,7 @@ export default {
 					text-decoration: none;
 					letter-spacing: $tracking250;
 					text-transform: uppercase;
-					font-size: 12px;
+					font-size: 13px;
 
 					&:hover {
 						text-decoration: none;
