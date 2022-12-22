@@ -231,7 +231,7 @@ export default {
 				font-size: 22px;
 			}
 			#name {
-				margin: 5% 0 15% 0;
+				margin: 3% 0 7% 0;
 				font-size: 70px;
 				line-height: 50px;
 			}
