@@ -228,7 +228,7 @@ export default {
 		.infoText {
 			top: calc(18vw);
 			#title {
-				font-size: 25px;
+				font-size: 20px;
 			}
 			#name {
 				margin: 35px 0 35px 0;
@@ -236,13 +236,13 @@ export default {
 				line-height: 50px;
 			}
 			#description {
-				font-size: 20px;
+				font-size: 15px;
 				line-height: 1.4;
 				width: 75%;
 			}
 			#workBtn {
 				margin-top: 30px;
-				font-size: 18px;
+				font-size: 15px;
 				padding: 15px;
 			}
 		}
