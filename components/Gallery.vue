@@ -264,7 +264,7 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								vid: `https://www.youtube.com/embed/liNZVfyAaUs`
+								vid: `https://www.youtube.com/embed/z3pwN3dfUwc `
 							}
 						}"
 					>
@@ -384,40 +384,7 @@
 						Brian Deegan
 					</p>
 				</div>
-				<div
-					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
-				>
 				
-				<a target="_blank"
-						class="toImageNuxtLink"
-						href="https://anchor.fm/brandishyourbrand"
-					>
-						<img
-							class="img-fluid"
-							src="~/assets/images/gallery/podcast.jpg"
-							alt="image of audio equalizer"
-						/>
-					</a>
-					<!--<NuxtLink
-						class="toImageNuxtLink"
-						:to="{
-							name: 'ImgBackground',
-							params: {
-								vid: `https://anchor.fm/brandishyourbrand`
-							}
-						}"
-					>
-						<img
-							class="img-fluid"
-							src="@/assets/images/gallery/podcast.jpg"
-							alt="image of equalizer"
-						/>
-					</NuxtLink>
-					-->
-					<p class="text-center px-1 mt-3">
-						Original podcast hosted on Anchor
-					</p>
-				</div>
 				<div
 					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
 				>
@@ -426,19 +393,41 @@
 						:to="{
 							name: 'ImgBackground',
 							params: {
-								vid: `https://www.youtube.com/embed/TIEkFZpKKCg`
+								vid: `https://www.youtube.com/embed/5Imo0uR3JlM`
+							}
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/starwarsday.jpg"
+							alt="video of jedi jumping on a trampoline"
+						/>
+					</NuxtLink>
+					<p class="text-center px-1 mt-3">
+						Video created in Photoshop for a trampoline retailer
+					</p>
+				</div>
+				
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								vid: `https://www.youtube.com/embed/z3pwN3dfUwc `
 							}
 						}"
 					>
 						<img
 							class="img-fluid "
-							src="@/assets/images/gallery/veggie.jpg"
-							alt="image of lettuce in space"
+							src="@/assets/images/gallery/defyingGravity.jpg"
+							alt="video of man defying gravity on trampoline"
 						/>
 					</NuxtLink>
 					<p class="text-center px-1 mt-3">
-						Video edited in Premier Pro - original footage &copy;
-						NASA
+						Instagram reel edited in Premiere Pro for a trampoline retailer
 					</p>
 				</div>
 			</div>
