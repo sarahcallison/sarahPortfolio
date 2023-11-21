@@ -207,7 +207,7 @@
 			<!-- Audio and Video -->
 			<div class="row my-5">
 				<div class="col-12 align-self-center textSection">
-					<h2>Audio & Video</h2>
+					<h2>Video</h2>
 					<div class="gradLine"></div>
 				</div>
 				<div
@@ -278,6 +278,38 @@
 						Instagram reel edited in Premiere Pro for a trampoline retailer
 					</p>
 				</div>
+
+				<div
+					class="col-12 px-0 px-md-2 px-lg-3 col-md-4 my-4 align-self-start"
+				>
+					<NuxtLink
+						class="toImageNuxtLink"
+						:to="{
+							name: 'ImgBackground',
+							params: {
+								<video 
+    width="960px" 
+    height="540px" 
+    controls autoplay muted loop preload="auto" 
+    playsinline
+    >
+    <source src="@/assets/images/gallery/videos/foodologyDemo.mp4" type="video/mp4">
+    Your browser does not support the video tag. 
+</video>
+							}
+						}"
+					>
+						<img
+							class="img-fluid"
+							src="@/assets/images/gallery/defyingGravity.jpg"
+							alt="image of man jumping on trampoline"
+						/>
+					</NuxtLink>
+					<p class="text-center px-1 mt-3">
+						Instagram reel edited in Premiere Pro for a trampoline retailer
+					</p>
+				</div>
+				
 			</div>
 
 			
