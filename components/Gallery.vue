@@ -278,7 +278,7 @@
 						Instagram reel edited in Premiere Pro for a trampoline retailer
 					</p>
 				</div>
-
+<!--
 				<video 
     width="960px" 
     height="540px" 
@@ -287,7 +287,7 @@
     >
     <source src="@/assets/images/gallery/videos/foodologyDemo.mp4" type="video/mp4">
     Your browser does not support the video tag. 
-</video>
+</video> -->
 				
 			</div>
 
